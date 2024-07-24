@@ -1,0 +1,1050 @@
+1269: ANNOTATION: JOY#LOVE
+REASONING: The stanza contains clear emotion markers indicating JOY, such as the word "lachten" (which means laughter) and the description of the "heiße Licht schien wohnlich" (which implies a warm and pleasant atmosphere). It also contains clear emotion markers indicating LOVE, such as the mention of "Liebespaar" (which means lovers) and the intimate situation described with "vertraut des Mädchens Miederhüften krachten".
+
+4189: ANNOTATION: NONE
+REASONING: The stanza contains no clear emotion markers. The phrase "Schlaf, Johannes" does not indicate any specific emotion according to the annotation guidelines.
+
+1990: ANNOTATION: NONE
+REASONING: The stanza contains no clear emotion markers according to the Annotation Guidelines. There are no single words, linguistic images, situations, descriptions of behaviors, or formal features of direct speech that clearly indicate any of the six emotions: AGITATION, ANGER, FEAR, JOY, LOVE, or SADNESS.
+
+2252: ANNOTATION: JOY#LOVE
+REASONING: The stanza contains clear emotion markers indicating JOY, such as the word "lächelt" (smiles) and the phrase "seliger Lust" (blissful delight). It also contains clear emotion markers indicating LOVE, such as the phrase "seit Du mein geworden" (since you became mine), which implies a romantic relationship.
+
+6571: ANNOTATION: SADNESS#LOVE
+REASONING: The stanza contains clear emotion markers indicating SADNESS, such as the word "Schmerz" and the behavior "seufz' ich ach!". It also indicates LOVE through the word "Trost der Schmerzen" and the repeated longing implied by "nach dir".
+
+5717: ANNOTATION: NONE
+REASONING: The stanza contains no clear emotion markers according to the Annotation Guidelines. The description of spirits and visions does not explicitly indicate any of the specified emotions.
+
+2859: ANNOTATION: JOY#SADNESS
+REASONING: The stanza contains clear emotion markers indicating JOY, especially the word “Segen” (blessing), which implies a positive outlook. The stanza also contains clear emotion markers indicating SADNESS, especially the word “Trübsal” (tribulation), which indicates sorrow or hardship.
+
+3459: ANNOTATION: SADNESS#JOY
+REASONING: The stanza contains clear emotion markers indicating SADNESS, such as “umsonst verlangte ich nach Gnade” and “vergeblich suchte ich das Glück,” which indicate disappointment and powerlessness. It also contains clear emotion markers indicating JOY, such as “Treulich hoffend,” which indicates hope, and “In die sel'gen Thäler zu gelangen,” which suggests a desired state of happiness.
+
+3108: ANNOTATION: LOVE#SADNESS
+REASONING: The stanza contains clear emotion markers indicating LOVE, such as the behavior "lauscht' ich andachtsvoll" (listened devoutly) and the metaphor "heilges Lied" (sacred song). It also represents SADNESS, evidenced by the context provided in the preceding stanza mentioning "So hat der Tod dich mir geraubt!" (The death has robbed me of you), which indicates grief and loss.
+
+3091: ANNOTATION: LOVE
+REASONING: The stanza contains clear emotion markers indicating LOVE, especially the phrases "zärtlichen und schwachen Bewegung" and "den Mund zum Küssen bot", which indicate tenderness and a kiss, behaviors associated with affection and love.
+
+4498: ANNOTATION: ANGER
+REASONING: The stanza contains clear emotion markers indicating ANGER, such as the words "Plage", "schauervolles", and "schändlich", as well as the behaviors described, like "grausamlich das Klavezimbel" and "gnadenlos, kneift das Cello". These markers suggest a strong sense of dislike and contempt for musical practices described in the poem.
+
+4438: ANNOTATION: SADNESS#FEAR
+REASONING: The stanza contains clear emotion markers indicating SADNESS, such as the words "Tot" (dead) and "das Licht, das er uns brachte" (the light he brought us), which implies a sense of loss and melancholy. It also contains clear emotion markers indicating FEAR, especially the word "schreckt" (frightens), which indicates fear or fright.
+
+5700: ANNOTATION: SADNESS
+REASONING: The stanza contains several clear emotion markers indicating SADNESS, such as the words "Grames Haft" (meaning grief's hold), "welk und tot" (wilted and dead), and the description of laughter being forgotten and silence. These indicate sorrow, powerlessness, and melancholy, which are part of SADNESS in the sense of the annotation.
+
+6769: ANNOTATION: FEAR#ANGER
+REASONING: The stanza contains clear emotion markers indicating FEAR, such as the word "schrecken" (to frighten). It also contains clear emotion markers indicating ANGER, with the aggressive behavior described in "Zerstampfe sie, mein Schwarzer, stampfe über sie hinweg".
+
+6400: ANNOTATION: LOVE
+REASONING: The stanza contains clear emotion markers indicating LOVE, such as the phrase “hast mich doch so gern”, which indicates affection.
+
+4166: ANNOTATION: NONE
+REASONING: The stanza contains no clear emotion markers according to the annotation guidelines. While it discusses perseverance and a sense of duty, these concepts are not tied to any of the specified emotions through explicit markers.
+
+3621: ANNOTATION: LOVE#JOY
+REASONING: The stanza contains clear emotion markers indicating LOVE, such as the phrase "die ihr uns liebt," which directly references love. It also contains clear emotion markers indicating JOY, such as the phrase "Das Land ist ja frei, und der Morgen tagt," which indicates happiness and hope for freedom and a new beginning.
+
+4801: ANNOTATION: SADNESS#FEAR
+REASONING: The stanza contains clear emotion markers indicating SADNESS, such as the words "starb" (died), "verreckte" (perished), and "bitterm Bette" (bitter bed). It also contains clear emotion markers indicating FEAR, such as the phrases "Wüstendurst verdarb" (perished in desert thirst), and "grauser Sünder" (dreadful sinner).
+
+857: ANNOTATION: ANGER#JOY
+REASONING: The stanza contains clear emotion markers indicating ANGER, such as the words “hasse”, “Feinde”, “höhnen”, and “wilder, flammender Glut”. It also contains clear emotion markers indicating JOY, such as the phrase “frohem, offenem Mut”.
+
+4913: ANNOTATION: FEAR#SADNESS
+REASONING: The stanza contains clear emotion markers indicating FEAR, such as the words "zischt", "pfeift", and "gellt", which contribute to a frightening atmosphere. The mention of "Hölle" (hell) and the imagery of "Feuerschacht" (fire shaft) also evoke fear. Additionally, the stanza contains markers indicating SADNESS, especially through the metaphor of "Fluch" (curse) and the desire for "himmlisches Verzeihen" (heavenly forgiveness), which suggests a sense of remorse and a plea for redemption.
+
+2746: ANNOTATION: SADNESS
+REASONING: The stanza contains clear emotion markers indicating SADNESS, such as the word "unbewegt" (unmoved) and the situation where the soul is not aroused to "Lieb' und Lust" (love and pleasure). This suggests a lack of emotional response and engagement, indicative of a melancholic or sorrowful state.
+
+924: ANNOTATION: JOY#LOVE
+REASONING: The stanza contains clear emotion markers indicating JOY, such as the words "Lebensmut" (which means zest for life) and "Herz voll Glut" (heart full of fervor). It also contains clear emotion markers indicating LOVE, notably the admiration and affection expressed through phrases like "Ein Herz voll Glut" and "Ein Geist voll Licht und Wärme".
+
+3867: ANNOTATION: JOY
+REASONING: The stanza contains clear emotion markers indicating JOY, especially the word "erhofft", which means "hoped for" and is associated with hope. Additionally, the overall imagery of planting seeds and the connection between morning and evening suggests a sense of continuity and positivity, markers of JOY in the sense of the annotation.
+
+6218: ANNOTATION: SADNESS#JOY
+REASONING: The stanza contains clear emotion markers indicating SADNESS, such as the phrase "schwer getroffen" and "Ins Knie danieder sank," which imply a situation of sorrow and powerlessness. It also contains clear emotion markers indicating JOY, such as the word "Trostes Klang," which implies solace and comfort.
+
+3435: ANNOTATION: AGITATION#ANGER
+REASONING: The stanza contains clear emotion markers indicating AGITATION, such as the word "Wunder", which implies a sense of surprise or excitement. It also contains clear emotion markers indicating ANGER, especially the metaphor "Kerker, der ihn haßt und hält", which indicates a feeling of being trapped and hated, associated with dislike and anger.
+
+677: ANNOTATION: SADNESS
+REASONING: The stanza contains clear emotion markers indicating SADNESS, such as the mention of "Selbstmörderbriefen" (suicide notes), the metaphorical "brannten sie sich ab" (burned themselves out), and the imagery of "Rost-Schild an den schiefen Eisernen Kreuzen" (rusty sign on the crooked iron crosses), which suggest sorrow, despair, and melancholy.
+
+4695: ANNOTATION: JOY#LOVE#FEAR
+REASONING: The stanza contains clear emotion markers indicating JOY, such as the words “Glück” and “jauchzt”. It also contains clear emotion markers indicating LOVE, such as the phrase “die einz'ge Liebe deines Lebens” and the behavior “sucht ich dich vergebens”. Additionally, the word “zittre” indicates FEAR.
+
+2640: ANNOTATION: FEAR
+REASONING: The stanza contains clear emotion markers indicating FEAR, especially the word "zagende", which implies timidity or fearfulness, and the word “schauernd”, which implies shivering or trembling, a typical reaction associated with fear.
+
+4742: ANNOTATION: SADNESS#ANGER
+REASONING: The stanza contains clear emotion markers indicating SADNESS, such as the word "Sterben" (dying) and the situation "thousand flowers die in oblivion". It also contains clear emotion markers indicating ANGER, such as the phrase "des Todes kaltem Neid" (death's cold envy) and "bösen Frostwind" (evil frost wind), which indicate dislike and contempt.
+
+6187: ANNOTATION: JOY
+REASONING: The stanza contains clear emotion markers indicating JOY, especially the phrase "voller Entzücken," which means "full of delight." This phrase indicates enthusiasm and happiness, both of which are part of JOY in the sense of the annotation.
+
+527: ANNOTATION: SADNESS#LOVE
+REASONING: The stanza contains clear emotion markers indicating SADNESS, such as "armes Herz" and the situation of being carried away "auf ewig von mir trägt". It also contains clear emotion markers indicating LOVE, such as the implied separation from a loved one, which is a situation typically associated with longing and affection.
+
+534: ANNOTATION: LOVE#SADNESS
+REASONING: The stanza contains clear emotion markers indicating LOVE, such as "küssend umfange" and "raune dir Süßes hinein". It also contains markers indicating SADNESS, such as "Weh" and the metaphor "Tale des Todes".
+
+655: ANNOTATION: SADNESS
+REASONING: The stanza contains clear emotion markers indicating SADNESS, such as the phrases "dahingeschwundnen Glück" and "Erinn'rung uns den Traum zurück", which evoke a sense of loss and longing for past happiness.
+
+4144: ANNOTATION: FEAR#SADNESS
+REASONING: The stanza contains several clear emotion markers indicating FEAR, such as the phrase "Mir faßt das Herz ein tiefes Grauen" (a deep horror grips my heart). The stanza also contains clear emotion markers indicating SADNESS, particularly the situation of "sehnet nach des Grabes Rast" (longing for the rest of the grave) and the portrayal of life's "ungestüme Hast" (impetuous haste) which suggests sorrow and powerlessness.
+
+5708: ANNOTATION: SADNESS
+REASONING: The stanza contains clear emotion markers indicating SADNESS, such as the words “öd' und düster” (desolate and gloomy) and “ewig regem Leid” (eternal active sorrow). These markers suggest a sense of loneliness and sorrow.
+
+434: ANNOTATION: LOVE#SADNESS
+REASONING: The stanza contains clear emotion markers indicating LOVE, such as the phrase "mein Vielgeliebter" and "ein paar warme Blicke". It also contains clear emotion markers indicating SADNESS, such as the behavior "Das Auge nicht erheben und mich nicht rühren darf", which indicates a sense of powerlessness and despair.
+
+6187: ANNOTATION: JOY#LOVE
+REASONING: The stanza contains clear emotion markers indicating JOY, such as the word "Entzücken", which means delight. The stanza also indicates LOVE, as the speaker seems to express a longing or affection for the "Buschkind voller Entzücken".
+
+3559: ANNOTATION: NONE
+REASONING: The stanza contains no clear emotion markers that indicate any of the six emotions (AGITATION, ANGER, FEAR, JOY, LOVE, SADNESS). The imagery and descriptions present do not explicitly convey any particular emotion.
+
+2357: ANNOTATION: LOVE
+REASONING: The stanza contains clear emotion markers indicating LOVE, especially the repeated phrase “Dich liebt' ich allein” which expresses love and admiration for the Voigtlandwald.
+
+1800: ANNOTATION: NONE
+REASONING: The stanza contains no clear emotion markers. Neither single words nor linguistic images, situations, behaviors, or formal features of direct speech indicate any of the six specified emotions.
+
+4912: ANNOTATION: FEAR
+REASONING: The stanza contains clear emotion markers indicating FEAR, such as the words "Höllen flammten", "stöhnten", "Ächzen der Verdammten", and "o Grauen", which all contribute to a sense of fear or fright.
+
+7915: ANNOTATION: ANGER#JOY
+REASONING: The stanza contains clear emotion markers indicating ANGER, such as the word “hassen”, which means hate. Hate is part of ANGER in the sense of the annotation. The stanza also contains clear emotion markers indicating JOY, such as the phrase “was in Freude lebt” (what lives in joy), and the behavior “auch seine Freude zu lassen” (to let them have their joy).
+
+1246: ANNOTATION: NONE
+REASONING: The stanza contains no clear emotion markers according to the annotation guidelines. The phrases "frei mein Haupt" and "freien Töne" could potentially suggest a positive sentiment, but they are not explicit enough to classify under any of the specified emotions.
+
+1765: ANNOTATION: JOY
+REASONING: The stanza contains clear emotion markers indicating JOY, such as the enthusiastic and uplifting intention to "durchschweifen" (roam) and "singen" (sing) from land to land, which suggests enthusiasm and happiness.
+
+39: ANNOTATION: LOVE#AGITATION
+REASONING: The stanza contains clear emotion markers indicating LOVE, such as “Liebesworten” and the endeavor to "erfreu'n," which indicates admiration and affection. It also contains markers indicating AGITATION, such as "lauten Toben" and "von unten sich erhoben," which indicate a sense of disturbance and excitement.
+
+7403: ANNOTATION: JOY#SADNESS
+REASONING: The stanza contains clear emotion markers indicating JOY, especially the word “Jubel” (jubilation). It also contains clear emotion markers indicating SADNESS, especially the word “klagt” (complains/mourns).
+
+4507: ANNOTATION: ANGER
+REASONING: The stanza contains clear emotion markers indicating ANGER, especially the words „grimmig“ and „wild“, which describe the father's emotional state.
+
+3345: ANNOTATION: SADNESS#LOVE
+REASONING: The stanza contains clear emotion markers indicating SADNESS, especially the word "Leid" (suffering) and the situation of "langer Trennung" (long separation). It also contains clear emotion markers indicating LOVE, particularly the phrase "Die Gute durfte schauen" (got to see the good one), which indicates affection and longing.
+
+4987: ANNOTATION: JOY#LOVE
+REASONING: The stanza contains clear emotion markers indicating JOY, such as "glüht" and "Sonnenlicht", which suggest a bright and hopeful scenario. It also contains clear emotion markers indicating LOVE, such as "Heilige Lüfte" and "um dein blaßes Angesicht", which evoke a sense of admiration and affection.
+
+1498: ANNOTATION: NONE
+REASONING: The stanza contains no clear emotion markers. There are no words or metaphors that indicate any specific emotion, nor are there any situations or behaviors described that typically indicate emotionality.
+
+864: ANNOTATION: SADNESS
+REASONING: The stanza contains clear emotion markers indicating SADNESS, such as the absence of light ("Kein Lichtchen lockt"), the lack of warmth and welcome ("Nicht hör' ich eines Wandrers Schritte"), and the overall sense of loneliness and desolation. The imagery of an empty, silent environment contributes to the feeling of melancholy.
+
+7196: ANNOTATION: NONE
+REASONING: The stanza describes a scene of walking through the night and passing through a gate, but it contains no clear emotion markers such as specific emotional words, metaphors, typical emotional situations, or behaviors indicating emotionality. Therefore, it does not represent any of the six emotions.
+
+52: ANNOTATION: LOVE#SADNESS
+REASONING: The stanza contains clear emotion markers indicating LOVE, such as "ein Wunsch, der letzter Liebe Preis," "in deine Arme laß mich sinken," and "in deiner Liebe laß mich ertrinken." It also indicates SADNESS with phrases like "verblassendem Leide" and "Erlöstes Sehnen," which suggest a longing and sorrowful context.
+
+5812: ANNOTATION: AGITATION#FEAR
+REASONING: The stanza contains clear emotion markers indicating AGITATION, such as the words "erschrocken" (surprised) and "Zittern" (trembling), which are part of AGITATION and FEAR in the sense of the annotation. The description of "wunderleisen, leisen seidenen Socken" also contributes to a sense of delicate, anxious movement, reinforcing both AGITATION and FEAR.
+
+4226: ANNOTATION: SADNESS#LOVE
+REASONING: The stanza contains clear emotion markers indicating SADNESS, such as the word "Weinen" (weeping) and "Leidverlangen" (desire for suffering). It also contains clear emotion markers indicating LOVE, such as the behavior "deine Lippen brennen auf den meinen" (your lips burn on mine), which implies a deep emotional and physical connection.
+
+5766: ANNOTATION: SADNESS
+REASONING: The stanza contains clear emotion markers indicating SADNESS, especially the phrase "Tal der Trauer" (valley of sorrow) and the imagery of "Staub ohne Sinn und Dauer" (dust without meaning and duration), which evoke a sense of powerlessness and grief.
+
+7038: ANNOTATION: JOY
+REASONING: The stanza contains clear emotion markers indicating JOY, especially the word "empfinde" (which suggests a positive feeling) and the situation of experiencing the peacefulness and stillness of creation. Additionally, the invitation to "ruhn" (rest) with the children of the meadow implies a tranquil and content state.
+
+4827: ANNOTATION: SADNESS
+REASONING: The stanza contains clear emotion markers indicating SADNESS, such as the phrases "Alles stirbt" and "Nirgend Kraft und Liebe", which suggest a sense of despair and powerlessness.
+
+6196: ANNOTATION: LOVE
+REASONING: The stanza contains clear emotion markers indicating LOVE, especially the behavior of the fisherman looking into the "schwarzen Augen seiner schmucken Fischerin," which suggests admiration and affection.
+
+101: ANNOTATION: LOVE#JOY
+REASONING: The stanza contains clear emotion markers indicating LOVE, such as "liebe" (love) and the phrase "so haben dich ja die Kinder lieb" (children love you). It also contains clear emotion markers indicating JOY, such as "ohne Zürnen und ohne Zagen" (without anger and without fear), which suggests a state of peace and happiness.
+
+1732: ANNOTATION: JOY
+REASONING: The stanza contains clear emotion markers indicating JOY, such as the words "entzückt", "jubelnden Gesang", and "erquickt". These words convey a sense of happiness and enthusiasm.
+
+1467: ANNOTATION: AGITATION
+REASONING: The stanza contains clear emotion markers indicating AGITATION, especially the word “Staunen” (surprise) and the description of the behavior “Verkrampft in Taschen klein meine Hände” (indicating a tense and excited emotional state).
+
+7454: ANNOTATION: ANGER
+REASONING: The stanza contains clear emotion markers indicating ANGER, such as the words “Höhnisch”, “spotten”, and especially “Zürnende Gluth”, which indicates rage. Additionally, the behaviors of reddening one's face and eyes sparking with anger are typical indicators of ANGER.
+
+3159: ANNOTATION: NONE
+REASONING: The stanza contains no clear emotion markers according to the guidelines provided. It describes a scene with trees and their branches, but without any explicit emotion markers or situations typically associated with the six emotions listed.
+
+4092: ANNOTATION: LOVE
+REASONING: The stanza contains clear emotion markers indicating LOVE, such as the phrases “unsrer Liebe” and “Jauchzen übertönen”, which indicate love and joy within the context of a loving relationship.
+
+7925: ANNOTATION: ANGER#SADNESS
+REASONING: The stanza contains clear emotion markers indicating ANGER, such as "finstrer Haß" (dark hatred). It also contains clear emotion markers indicating SADNESS, such as the metaphor "Die Herzen sind sich ewig ferne," which evokes a sense of loneliness and sorrow.
+
+6216: ANNOTATION: SADNESS
+REASONING: The stanza contains clear emotion markers indicating SADNESS, especially the words "Elenden" (the wretched) and "Leid" (suffering). The situation of seeking solace in the suffering of others is typically associated with sadness.
+
+1306: ANNOTATION: LOVE#JOY
+REASONING: The stanza contains clear emotion markers indicating LOVE, such as the words "Liebe" and "Segen," which convey admiration and affection. Additionally, the stanza contains clear emotion markers indicating JOY, such as the words "Lust" and "Glück," which express happiness and pleasure.
+
+5675: ANNOTATION: JOY
+REASONING: The stanza contains clear emotion markers indicating JOY, especially the phrases "Die Blüten zittern und leben" and "das Herz will sich schwingen und heben," which convey liveliness, upliftment, and a sense of happiness.
+
+491: ANNOTATION: FEAR
+REASONING: The stanza contains clear emotion markers indicating FEAR, such as the imagery of "Schatten" (shadows) which are often associated with fear and the phrase "Abend stürzt den schmalen Steg aus den großen Dunkelheiten" which evokes a sense of foreboding and darkness.
+
+2633: ANNOTATION: LOVE#SADNESS
+REASONING: The stanza contains clear emotion markers indicating LOVE, such as "Liebsten" and "Liebsten schleicht", which indicate affection and longing. It also contains clear emotion markers indicating SADNESS, such as "qualgebornes Blut" and "todeskranker", which suggest suffering and despair.
+
+1726: ANNOTATION: NONE
+REASONING: The stanza contains no clear emotion markers that indicate any of the six specified emotions. It describes a neutral observation of the landscape and the Tanne's indifference to the surroundings without any explicit emotional language or imagery.
+
+108: ANNOTATION: SADNESS#ANGER
+REASONING: The stanza contains clear emotion markers indicating SADNESS, such as "Heimatlosen" and the historical context of "vom Stamm der Juden," which implies a sense of loss and displacement. The stanza also contains clear emotion markers indicating ANGER, particularly through the words "frech verjagt" and "zum Spott uns luden," which indicate contempt and mockery.
+
+4499: ANNOTATION: SADNESS
+REASONING: The stanza contains clear emotion markers indicating SADNESS, such as "Trauer", "trübe Flut", and the situation of "öden Dichterfeder" which conveys a sense of despair and melancholy.
+
+7780: ANNOTATION: LOVE
+REASONING: The stanza contains clear emotion markers indicating LOVE, especially the phrase “Das Herz, von Liebe still umhegt”, which means "the heart, quietly surrounded by love", and the imagery of the heart producing "Blüth' und Früchte" (blossoms and fruits) continuously. These metaphors are associated with the emotion of LOVE.
+
+3017: ANNOTATION: LOVE
+REASONING: The stanza contains clear emotion markers indicating LOVE, such as the phrase "Du brauchst ein menschliches Herz," which suggests a longing for human connection and affection, falling under the category of LOVE.
+
+5730: ANNOTATION: SADNESS
+REASONING: The stanza contains clear emotion markers indicating SADNESS, especially the words "thrähnenfeuchte" and "Mein Auge sank", which suggest crying and a sense of sorrow or grief.
+
+4181: ANNOTATION: FEAR#SADNESS
+REASONING: The stanza contains clear emotion markers indicating FEAR, such as the word "schaudern" (which means shudder, indicating fright) and the situation of "gleitet der Kahn" over graves. It also contains clear emotion markers indicating SADNESS, especially the mention of "Gräber" (graves) and the somber reflection ("sinnen").
+
+802: ANNOTATION: LOVE
+REASONING: The stanza contains clear emotion markers indicating LOVE, especially the situation where “Des Pagen Hand und ihre sich verketten,” which suggests a romantic or affectionate connection.
+
+4344: ANNOTATION: NONE
+REASONING: The stanza contains no clear emotion markers according to the Annotation Guidelines. There is no specific word, metaphor, situation, behavior, or formal feature of direct speech that indicates a recognizable emotion from the given categories.
+
+1152: ANNOTATION: NONE
+REASONING: The stanza does not contain clear emotion markers indicating any of the specified emotions. There are no lexically emotional words, metaphors, typical emotional situations, emotional behaviors, or formal features of direct speech that suggest a specific emotion.
+
+5357: ANNOTATION: JOY#SADNESS
+REASONING: The stanza contains clear emotion markers indicating JOY, such as the phrase "Er jubelt auf". It also contains clear emotion markers indicating SADNESS, such as the words "weh ihm" and "Leichen", and the situation of seeing the death of comrades, which conveys grief and sorrow.
+
+6330: ANNOTATION: JOY
+REASONING: The stanza contains clear emotion markers indicating JOY, especially the phrases “frischen Muth” (fresh courage) and “ew'gen Hoffnungstage” (eternal day of hope), which symbolize hope and encouragement, both part of JOY.
+
+3798: ANNOTATION: FEAR
+REASONING: The stanza contains clear emotion markers indicating FEAR, especially the word "schauernd", which indicates fright. The situation of facing a "Weltgericht" (world judgment) also typically induces fear.
+
+4622: ANNOTATION: SADNESS#LOVE
+REASONING: The stanza contains several clear emotion markers indicating SADNESS, such as the phrases "stockt für immer", "erschlafft auf ewig ruhn", and "Du bist allein", which indicate a sense of loss and loneliness. The stanza also contains clear emotion markers indicating LOVE, particularly the phrases "Das treuste Herz", "Das Mutterherz", and "die liebend dich getragen", which convey affection and maternal love.
+
+6217: ANNOTATION: SADNESS
+REASONING: The stanza contains clear emotion markers indicating SADNESS, especially the words "Thränen" and "Schicksal", which are associated with sorrow and misfortune.
+
+2760: ANNOTATION: JOY
+REASONING: The stanza contains clear emotion markers indicating JOY, especially the phrase „Neue Vaterfreud'“, which indicates new fatherly joy.
+
+3346: ANNOTATION: SADNESS#LOVE
+REASONING: The stanza contains clear emotion markers indicating SADNESS, such as "freudlos öden Tagen" and "Plagen". The stanza also contains clear emotion markers indicating LOVE, especially the behavior of seeking and finding each other's eyes, which is indicative of longing and affection.
+
+6098: ANNOTATION: JOY
+REASONING: The stanza contains clear emotion markers indicating JOY, such as „Freude Strahlen“, „sonnenhellen Tagen“, „Lenz“ and „Blütenpracht“. These words and phrases suggest happiness, hope, and comfort, which are part of JOY in the sense of the annotation.
+
+228: ANNOTATION: SADNESS
+REASONING: The stanza contains clear emotion markers indicating SADNESS, especially the words “Gram” and “Sorgen”, which translate to grief and worries.
+
+898: ANNOTATION: NONE
+REASONING: The stanza does not contain any clear emotion markers or descriptions that would indicate one of the specified emotions. The word "MÄRZABEND" (March evening) itself is neutral and does not convey a specific emotional state.
+
+6750: ANNOTATION: LOVE#JOY
+REASONING: The stanza contains clear emotion markers indicating LOVE, such as the behavior of embracing and kissing, and the phrases “sel'ger Liebeslust”. It also contains clear emotion markers indicating JOY, such as the happiness expressed through the reunion and the affectionate actions.
+
+3135: ANNOTATION: FEAR#SADNESS#LOVE
+REASONING: The stanza contains clear emotion markers indicating FEAR, such as the words "graut" (which means dread) and the situation of encountering corpses with open eyes. It also indicates SADNESS, especially with the words "mußt sie beweinen" (you must weep for them) and "ohne Glück" (without happiness), describing a situation of sorrow and pity. Lastly, it indicates LOVE through the phrase "suchet nach der Einen" (searching for the one), which suggests longing and affection.
+
+3917: ANNOTATION: NONE
+REASONING: The stanza contains no clear emotion markers. The mention of "alten Zeiten" and "längst verrauschter Fabel" does not clearly indicate any of the specified emotions and the description of the duck with a "profanem Schnabel" is neutral and does not convey any specific emotionality.
+
+549: ANNOTATION: NONE
+REASONING: The stanza contains no clear emotion markers.
+
+5192: ANNOTATION: JOY
+REASONING: The stanza contains clear emotion markers indicating JOY, such as the behavior of inviting the children to come quickly and hold their pockets open, which implies happiness and enthusiasm in sharing the fruits. The overall tone is cheerful and generous.
+
+5722: ANNOTATION: AGITATION
+REASONING: The stanza contains clear emotion markers indicating AGITATION, especially the phrases “Wenn dir's im Busen kocht und pocht,” which describe a state of unspecified emotionality and excitement.
+
+7543: ANNOTATION: SADNESS#LOVE
+REASONING: The stanza contains clear emotion markers indicating SADNESS, such as the words “Reu” and “Leid” and the situation of longing for a lost loved one. It also contains clear emotion markers indicating LOVE, such as the phrase “geliebten Namen” and the metaphor of the mouth “brennen” for the lost love.
+
+4792: ANNOTATION: NONE
+REASONING: The stanza contains no clear emotion markers according to the Annotation Guidelines. It merely states a fact about being a child without indicating any specific emotional state.
+
+6163: ANNOTATION: JOY#LOVE
+REASONING: The stanza contains several clear emotion markers indicating JOY, such as the words "Lust" and "golden strahlt". The stanza also contains clear emotion markers indicating LOVE, such as the metaphor of "meine Seele zur Flamme entfalten" and the desire to spread one's influence and shine "in andere Menschen".
+
+4137: ANNOTATION: NONE
+REASONING: The stanza contains no clear emotion markers. There are descriptions of the scene and the speaker's actions, but these do not indicate any specific emotions from the given categories.
+
+3653: ANNOTATION: JOY
+REASONING: The stanza contains clear emotion markers indicating JOY, such as the words "Jubilirend", "lustig leicht" and "Froh". These words denote happiness and enthusiasm, which are sub-emotions of JOY in the sense of the annotation.
+
+161: ANNOTATION: NONE
+REASONING: The stanza does not contain any clear emotion markers such as specific words, linguistic images, typical emotional situations, descriptions of emotional behaviors, or formal features of direct speech that would indicate one of the six specified emotions.
+
+7930: ANNOTATION: SADNESS
+REASONING: The stanza contains clear emotion markers indicating SADNESS, such as the situation of being dead ("wir sind nun tot") and the metaphorical imagery of "in weißen Augen wohnt uns schon die Nacht" and "wir schauen nimmermehr ein Morgenrot," which evoke feelings of despair and finality.
+
+1795: ANNOTATION: AGITATION
+REASONING: The stanza contains clear emotion markers indicating AGITATION, especially the words "zäher Kampf" and "Krampf", which suggest a struggle and tension, as well as the behavior of "wühlt und spielt", which indicates emotional turmoil.
+
+2929: ANNOTATION: AGITATION#ANGER#FEAR#LOVE
+REASONING: The stanza contains clear emotion markers indicating AGITATION, such as the word "erschrocken" (frightened). It also contains emotion markers indicating ANGER, such as the word "zürnend" (angry). Additionally, there are markers indicating LOVE, such as the address "Liebste" (beloved) and the description of "deine süßen Locken" (your sweet locks). Lastly, the word "erschrocken" also indicates FEAR.
+
+6281: ANNOTATION: ANGER
+REASONING: The stanza contains clear emotion markers indicating ANGER, especially the words “Bettelpack” and “zischelt”, and the behavior of the Amtmann whose “Stirnader schwillt”, which indicates anger.
+
+1281: ANNOTATION: FEAR#LOVE
+REASONING: The stanza contains clear emotion markers indicating FEAR, such as "Angst" and "meuchlerisch geplant," which suggest fear and treachery. Additionally, there are emotion markers indicating LOVE, such as "Liebespaar" and the nostalgic tone of "ewig unvergessen," which reflect affection and longing.
+
+4827: ANNOTATION: SADNESS
+REASONING: The stanza contains clear emotion markers indicating SADNESS, especially the words and phrases “Alles stirbt” and “Nirgend Kraft und Liebe”, which suggest sorrow and a sense of loss or disappointment.
+
+4129: ANNOTATION: LOVE#JOY
+REASONING: The stanza contains clear emotion markers indicating LOVE, such as the phrase "Ach, wie lieb ich junges Grün," which expresses affection. It also contains clear emotion markers indicating JOY, especially the word "vergnüglich," which means enjoyable or delightful, as well as the overall positive tone celebrating spring and its pleasures.
+
+7067: ANNOTATION: FEAR
+REASONING: The stanza contains clear emotion markers indicating FEAR, especially the words “bang” and “zittre”. These words indicate that the speaker feels scared or frightened.
+
+7333: ANNOTATION: LOVE#SADNESS
+REASONING: The stanza contains clear emotion markers indicating LOVE, such as "Viel Liebes hat er mir gesagt" and "Mir ward glühheiß", which indicate affection and longing. It also contains clear emotion markers indicating SADNESS, especially the phrases "Mach' mir mein armes Herz nicht schwer", "Da wein' ich", and "Um alle Ruh' gebracht", which indicate sorrow and grief.
+
+7854: ANNOTATION: LOVE
+REASONING: The stanza contains clear emotion markers indicating LOVE, such as the phrases "die Liebe dauern" and "Mutterherz". The imagery of a mother holding her child and the description of the mother's heart as a "gottgeweihter, heil'ger Ort" (godly consecrated, holy place) further emphasize the emotion of LOVE.
+
+4410: ANNOTATION: SADNESS
+REASONING: The stanza contains clear emotion markers indicating SADNESS, especially the words “ganz erbärmlich” which suggest a state of misery, and “verschuldet” which implies remorse. Additionally, the phrase “Fand nirgends eine Wiege” suggests a sense of powerlessness and disappointment.
+
+1822: ANNOTATION: JOY
+REASONING: The stanza contains clear emotion markers indicating JOY, such as the words "jauchzt" and "Freude". Additionally, the phrase "ins Meer des Lichts" provides a positive linguistic image, further supporting the representation of JOY.
+
+3786: ANNOTATION: SADNESS
+REASONING: The stanza contains clear emotion markers indicating SADNESS, particularly the phrase "schmerzlichen Gesang," which translates to "painful song," reflecting sorrow and grief. Additionally, the behavior of "schleiche um die Föhren" (sneaking around the pines) suggests a sense of loneliness and melancholy.
+
+5649: ANNOTATION: NONE
+REASONING: The stanza contains no clear emotion markers. It describes a peaceful scene with the forester's house on a sunny hill and someone looking into the fragrant land, but there are no explicit words or situations that indicate any of the six specified emotions.
+
+5017: ANNOTATION: LOVE
+REASONING: The stanza contains clear emotion markers indicating LOVE, especially the word “liebliches Kind” which means “lovely child,” indicating affection. Additionally, the repetition of the word “träumst” (dream) suggests a sense of longing or romantic daydreaming, which aligns with LOVE.
+
+532: ANNOTATION: NONE
+REASONING: The stanza contains no clear emotion markers according to the annotation guidelines. While it describes a scene involving a mother and her child, there are no explicit words, metaphors, situations, behaviors, or formal features indicating any of the six specified emotions.
+
+5842: ANNOTATION: NONE
+REASONING: The stanza contains no clear emotion markers according to the annotation guidelines. Descriptions of natural phenomena such as the movement of the waves do not inherently indicate any of the specified emotions.
+
+3479: ANNOTATION: SADNESS#LOVE
+REASONING: The stanza contains clear emotion markers indicating SADNESS, such as the words "Leid" and "müder Wandersmann," and the phrase "es hat nicht sollen sein," which suggests a sense of disappointment and sorrow. The stanza also contains clear emotion markers indicating LOVE, especially the phrases "In deinen Armen wollt' ich ganz genesen" and "Zum Danke dir mein junges Leben weihn," which indicate longing and admiration.
+
+7024: ANNOTATION: SADNESS
+REASONING: The stanza contains clear emotion markers indicating SADNESS, such as the metaphors "verglimmen" (fade away) and "verschwimmen" (dissolve). These images evoke a sense of fading and dissolution, which are associated with melancholy and despair, both of which fall under SADNESS.
+
+4221: ANNOTATION: SADNESS
+REASONING: The stanza contains clear emotion markers indicating SADNESS, especially the phrases "das letzte Licht verglommen" and "ungesprochenem Schmerz", which convey a sense of despair and sorrow.
+
+1753: ANNOTATION: SADNESS#LOVE
+REASONING: The stanza contains clear emotion markers indicating SADNESS, such as the phrases "Der Schmerz ist tief" and "ruhelos der Geist", which convey a sense of deep pain and restlessness. It also contains clear emotion markers indicating LOVE, especially in the line "Der deiner Liebe Fülle richtend preist," which speaks to the admiration and fullness of love.
+
+939: ANNOTATION: SADNESS#LOVE
+REASONING: The stanza contains clear emotion markers indicating SADNESS, such as "weinte lautlos" (wept silently), "ängstlich" (anxious), and the nostalgic imagery associated with the "Vaterstadt" (father city) and childhood. It also contains markers indicating LOVE, such as the longing for the past and the affectionate memories of the hometown and childhood.
+
+6054: ANNOTATION: SADNESS
+REASONING: The stanza contains clear emotion markers indicating SADNESS, such as the words "weinend" (weeping) and "Seelenträne" (soul tear). These markers reflect sorrow and grief, which are part of SADNESS in the sense of the annotation.
+
+7285: ANNOTATION: SADNESS
+REASONING: The stanza contains clear emotion markers indicating SADNESS, such as the words "Tote", "abgeschiedner", "verwaist", and the description of the speaker as a "Geist" and feeling "fern und kühl". These markers indicate loneliness, isolation, and a sense of being disconnected from life, all of which are sub-emotions of SADNESS.
+
+6409: ANNOTATION: LOVE#SADNESS
+REASONING: The stanza contains clear emotion markers indicating LOVE, such as "Verlangen" (longing) and the imagery of "Leidensmund" (suffering mouth) and "edlen Härmens Wangen" (noble sorrowful cheeks), which also indicate SADNESS. The combination of longing and the depiction of suffering faces suggests both LOVE and SADNESS.
+
+7829: ANNOTATION: SADNESS
+REASONING: The stanza contains clear emotion markers indicating SADNESS, such as the metaphor "ein uralt Schattenbild, das leise weint" and the phrase "kann mich nicht erinnern," which suggests a sense of powerlessness or remorse.
+
+566: ANNOTATION: LOVE#SADNESS
+REASONING: The stanza contains clear emotion markers indicating LOVE, such as the words "Lieb" and "Herzen," which suggest affection and admiration. It also indicates SADNESS, particularly the phrases "was Dich drückt und was Dich kränkt" and "Leid der Welt," which refer to sorrow and suffering.
+
+2780: ANNOTATION: NONE
+REASONING: The stanza contains no clear emotion markers. The images and descriptions provided are more focused on the natural setting and ambiance rather than conveying specific emotions from the given categories.
+
+6776: ANNOTATION: JOY#LOVE
+REASONING: The stanza contains clear emotion markers indicating JOY, such as the word "Hoffe" which means hope, a sub-emotion of JOY, and "Morgenroth begrüßen" which implies a positive beginning or greeting of a new day. Additionally, there are clear emotion markers indicating LOVE, such as the repeated phrase "die Liebe wacht" which means "love is awake", indicating a sense of love and care.
+
+3574: ANNOTATION: JOY#ANGER
+REASONING: The stanza contains clear emotion markers indicating JOY, such as the words "Glanze" (splendor) and "Sieges" (victory), which imply happiness and pride. It also contains clear emotion markers indicating ANGER, especially the phrase "schmachvoll geraubt" (shamefully robbed), which indicates contempt and resentment towards the enemy.
+
+7092: ANNOTATION: ANGER
+REASONING: The stanza contains clear emotion markers indicating ANGER, particularly the word "Zorn," which means anger, and the phrase "wenn er ins Herz uns schlug," which describes anger striking the heart.
+
+6903: ANNOTATION: JOY#LOVE
+REASONING: The stanza contains clear emotion markers indicating JOY, such as the word "Freuden" and the phrase "Wonne trinken". It also contains clear emotion markers indicating LOVE, such as the phrase "der Liebe Macht" and the imagery of "durstig sich neigen und süß versinken", which suggests longing and affection.
+
+6073: ANNOTATION: SADNESS
+REASONING: The stanza contains clear emotion markers indicating SADNESS, such as the metaphor "So auch sinkt das Licht im Herzen" and the phrase "Schwarm der Schmerzen". Additionally, the words "dunkler Graus" and "Jede Freude auszumerzen" further emphasize the themes of sorrow and grief.
+
+7978: ANNOTATION: JOY
+REASONING: The stanza contains clear emotion markers indicating JOY, particularly the words “fröhlicher Sinn” and “fröhlicher Muth”. The behavior of being accompanied by a joyful spirit throughout various journeys also indicates a sense of happiness and enthusiasm, which are part of JOY.
+
+4565: ANNOTATION: JOY
+REASONING: The stanza contains clear emotion markers indicating JOY, such as the word "Hoffnung" (hope) and the phrases "lisple noch süß" (whisper sweetly) and "nun heiß' ich: Gewiß" (now I am called: Certain). These elements suggest a transition from uncertainty to certainty, which is associated with solace and happiness, both sub-emotions of JOY.
+
+2551: ANNOTATION: NONE
+REASONING: The stanza contains no clear emotion markers. The dialogue and imagery do not explicitly indicate any of the six specified emotions.
+
+3170: ANNOTATION: NONE
+REASONING: The stanza contains no clear emotion markers. While it describes the sound of wires in the wind, there are no explicit words, metaphors, situations, behaviors, or features of direct speech that clearly indicate any of the specified emotions.
+
+7705: ANNOTATION: ANGER
+REASONING: The stanza contains clear emotion markers indicating ANGER, especially the phrase "Wuth ist," which means rage or fury, indicating a strong negative emotion.
+
+5915: ANNOTATION: ANGER#SADNESS
+REASONING: The stanza contains clear emotion markers indicating ANGER, such as the phrase "Söhne auf, die ihre Väter hassen" (sons who hate their fathers). It also contains clear emotion markers indicating SADNESS, such as the situation "in ausgedörrten Städten" (in desiccated cities), which suggests despair and desolation.
+
+3281: ANNOTATION: NONE
+REASONING: The stanza contains no clear emotion markers according to the annotation guidelines.
+
+3644: ANNOTATION: ANGER#SADNESS
+REASONING: The stanza contains clear emotion markers indicating ANGER, such as the words "verflucht", "hasse", and "Hohn". It also contains clear emotion markers indicating SADNESS, such as "Qual", "Schrei", "leidenden Zeit", and "ermattet". These markers represent feelings of both anger and sadness.
+
+7746: ANNOTATION: FEAR
+REASONING: The stanza contains clear emotion markers indicating FEAR, especially the word "bang", which suggests a feeling of fear or fright.
+
+4550: ANNOTATION: SADNESS#ANGER
+REASONING: The stanza contains clear emotion markers indicating SADNESS, such as the words "Schmerzen" and "Tränen", which refer to pain and tears respectively. It also contains clear emotion markers indicating ANGER, such as the phrase "hat die Welt gespien" which indicates contempt or hatred from the world.
+
+6127: ANNOTATION: SADNESS#FEAR
+REASONING: The stanza contains clear emotion markers indicating SADNESS, such as the metaphor "Dunkel... um die Seele sich schlingt" and the situation of something "verbergen". It also contains clear emotion markers indicating FEAR, especially the behaviors "zittert" and "ringt".
+
+1580: ANNOTATION: NONE
+REASONING: The stanza contains no clear emotion markers. It describes poetry and magicians in a neutral manner without indicating any specific emotion.
+
+1260: ANNOTATION: ANGER#SADNESS
+REASONING: The stanza contains clear emotion markers indicating ANGER, such as the word "Vagabonde" and the behavior of "protestirt dagegen". It also contains markers indicating SADNESS, such as the metaphor "Nagel ist er mir zum Sarge", which implies sorrow or despair.
+
+3418: ANNOTATION: SADNESS
+REASONING: The stanza contains clear emotion markers indicating SADNESS, such as the behaviors "drückt' sein Haupt in beide Hände" and the words "düstre Wort" and "allein", which suggest loneliness and despair.
+
+3514: ANNOTATION: FEAR#LOVE
+REASONING: The stanza contains clear emotion markers indicating FEAR, especially the words "banger Brust" and "Aufstöhntest", which suggest anxiety and distress. It also contains clear emotion markers indicating LOVE, such as the behaviors of "deinen Hals umschloß" and "blind dein Innerstes genoß".
+
+7628: ANNOTATION: AGITATION#LOVE
+REASONING: The stanza contains clear emotion markers indicating AGITATION, such as "erschrocken" (startled) and the situation of kneeling and pleading, which is unusual and surprising. The stanza also contains clear emotion markers indicating LOVE, especially the behavior of pleading for a blessing for their lasting happiness, which shows affection and longing.
+
+2489: ANNOTATION: FEAR#LOVE
+REASONING: The stanza contains clear emotion markers indicating FEAR, especially the context of "der Tod" (death) and the reaction of "erblassen" (turning pale), which indicates fright. It also contains clear emotion markers indicating LOVE, particularly through the use of the affectionate term "Schätzchen" (darling) and the sweet entreaty "bettelte süß" (begged sweetly).
+
+1551: ANNOTATION: FEAR#SADNESS
+REASONING: The stanza contains clear emotion markers indicating FEAR, especially the word "verstört", which means disturbed or agitated, and the behavior of the head bowing ("wird sich neigen"). The stanza also contains clear emotion markers indicating SADNESS, particularly the words "stumme Geheimnis", which suggests a silent, sorrowful secret, and the behavior of silence and bowing, which are associated with sadness and resignation.
+
+6763: ANNOTATION: LOVE#SADNESS
+REASONING: The stanza contains clear emotion markers indicating LOVE, such as the repeated exhortation to "love" the children ("liebe sie") and the behavior of spending time with them. The stanza also contains clear emotion markers indicating SADNESS, particularly in the imagery of the child growing up and leaving ("Du siehst ihm weinend nach, bis er verschwindet") and the sense of loss when the children are no longer the parent's ("aber mehr kein Kind").
+
+7282: ANNOTATION: SADNESS#FEAR
+REASONING: The stanza contains clear emotion markers indicating SADNESS, such as "jammernd" (which means lamenting or wailing) and the loss of "Genuß und Liebe, Macht und Ruhm" (pleasure, love, power, and fame). It also contains clear emotion markers indicating FEAR, especially the phrases "stand entsetzt" (stood terrified) and "mein Tod" (my death), which indicate a sense of fright and existential dread.
+
+1054: ANNOTATION: FEAR
+REASONING: The stanza contains clear emotion markers indicating FEAR, such as the words “bangem Fliehen” and “erschrickt”, both of which suggest fear and fright.
+
+250: ANNOTATION: FEAR
+REASONING: The stanza contains clear emotion markers indicating FEAR, especially the word “bange” and the behavior “schreit”, which indicates that the soul is scared or frightened.
+
+1018: ANNOTATION: NONE
+REASONING: The stanza does not contain clear emotion markers as defined in the annotation guidelines. There are no single words, linguistic images, typical situations, descriptions of behaviors, or direct speech features that clearly indicate any of the six emotions.
+
+1529: ANNOTATION: NONE
+REASONING: The stanza contains no clear emotion markers. The actions described (applauding, praising, and bowing) do not explicitly indicate any of the defined emotions.
+
+2875: ANNOTATION: SADNESS#LOVE
+REASONING: The stanza contains clear emotion markers indicating SADNESS, such as the words "stille Gruft" and "ferne", and the metaphor "Rose, der der Dorn gebrach". It also contains clear emotion markers indicating LOVE, such as the phrase "tief im Herzen ich getragen" and the repeated promise "Ich komme nach".
+
+4820: ANNOTATION: LOVE
+REASONING: The stanza contains clear emotion markers indicating LOVE, especially the phrases "Liebes Herz" and "wo wirst du weilen," which suggest affection and longing. The anticipation of the first roses blooming also conveys a sense of romantic longing.
+
+3418: ANNOTATION: SADNESS
+REASONING: The stanza contains clear emotion markers indicating SADNESS, such as the behavior of "drückt' sein Haupt in beide Hände" and the phrases "das düstre Wort" and "auf dieser Welt allein". These markers convey a sense of sorrow and loneliness.
+
+7894: ANNOTATION: NONE
+REASONING: The stanza contains no clear emotion markers according to the annotation guidelines.
+
+5660: ANNOTATION: LOVE#SADNESS
+REASONING: The stanza contains clear emotion markers indicating LOVE, such as the protective and comforting actions of the mother ("Ihr Arm umfängt dich" and "sie geht mit dir auf deines Glückes Pfad"), which denote affection and care. It also contains clear emotion markers indicating SADNESS, especially the phrase "An ihrer Brust beweinst du dein Verschulden," which indicates sorrow and remorse.
+
+5584: ANNOTATION: JOY#LOVE
+REASONING: The stanza contains clear emotion markers indicating JOY, such as the phrases "neue Kräfte" and "Heil dem Tag, der so befreit," which indicate enthusiasm and happiness. It also contains markers indicating LOVE, such as "Einig, einig voll Vertrauen" and "Mit einander so zu bauen," which indicate unity and affection.
+
+67: ANNOTATION: LOVE#JOY
+REASONING: The stanza contains clear emotion markers indicating LOVE, such as the phrase "still genoßner, heiliger Lust" and the behavior of "heimlich, glücklich lächelnd". These expressions indicate affection and happiness, which are part of LOVE. The stanza also contains clear emotion markers indicating JOY, especially the words "verstohlne Freude" and "glücklich lächelnd", which indicate happiness and solace.
+
+46: ANNOTATION: LOVE
+REASONING: The stanza contains clear emotion markers indicating LOVE, such as the tender care expressed in "in meiner Mutter schönstem Bett so ruhig schlafen," the metaphor of "der schönere Traum des Lebens," and the overall affectionate tone and imagery related to waking up to a new, beautiful day.
+
+8087: ANNOTATION: JOY#LOVE#SADNESS
+REASONING: The stanza contains several clear emotion markers indicating JOY, such as the phrases “sonniges Gemüth” and “hell der Wein und frisch die Jugend glüht”. It also contains clear emotion markers indicating LOVE, such as the phrase “Geist der Liebe zieht” and "gestrebt, geliebt mit Lust und Drang". Additionally, the stanza contains clear emotion markers indicating SADNESS, such as the phrases “ein blumig Grab” and "fragt einst der Tod".
+
+4519: ANNOTATION: AGITATION#FEAR#ANGER
+REASONING: The stanza contains clear emotion markers indicating AGITATION, such as the behavior “Viel hundert Stimmen in Verwundrung brechen”. It also contains clear emotion markers indicating FEAR, especially the phrase “Ralph, von Schreck erfaßt, schreit auf mit Weinen”. Additionally, there is an indication of ANGER through Ralph's confession, “Aus Eifersucht beging ich das Verbrechen!”, where "Eifersucht" (jealousy) can be associated with ANGER.
+
+1940: ANNOTATION: FEAR#AGITATION
+REASONING: The stanza contains clear emotion markers indicating FEAR, especially the words “überraschtes Ohr” and the situation where the stone figure seems to come to life, which can cause fright. It also contains clear emotion markers indicating AGITATION, such as the actions “geregt” and “bewegt” which suggest surprise.
+
+460: ANNOTATION: NONE
+REASONING: The stanza contains no clear emotion markers according to the annotation guidelines. It speaks about the feelings of the disciples and the concept of faith, but there are no explicit markers indicating one of the six emotions.
+
+7159: ANNOTATION: LOVE#SADNESS
+REASONING: The stanza contains clear emotion markers indicating LOVE, such as the word "geliebet" and the phrase "Wenn man liebt". It also contains clear emotion markers indicating SADNESS, especially the words "betrübet" and "Thränen".
+
+2: ANNOTATION: LOVE#SADNESS
+REASONING: The stanza contains clear emotion markers indicating LOVE, such as the phrase "treuen Blicke" which suggests admiration. It also contains clear emotion markers indicating SADNESS, especially the word "Thränen" (tears), which indicates sorrow.
+
+3225: ANNOTATION: SADNESS
+REASONING: The stanza contains clear emotion markers indicating SADNESS, such as the words "Angst" and "Qual", which translate to "fear" and "torment", respectively. Additionally, the phrase "Ein müdes Menschenherz" (a tired human heart) suggests a state of weariness and exhaustion, which are typically associated with sadness.
+
+6799: ANNOTATION: SADNESS
+REASONING: The stanza contains clear emotion markers indicating SADNESS, especially the words “tote Zeit” (dead time), “erlahmen” (languish), and “Langeweile” (boredom). These terms evoke a sense of despair, powerlessness, and melancholy, which are part of SADNESS in the sense of the annotation.
+
+3461: ANNOTATION: JOY
+REASONING: The stanza contains several clear emotion markers indicating JOY, such as the phrases "mild und lächelnd," "blütenreiche Pracht," "Melodieen rauschten," "Glutgestirne flammten," and especially "Hoffnung ihren Reigen" and "Neu das Leben seinen Lauf," which indicate hope and renewal, both part of JOY in the sense of the annotation.
+
+5418: ANNOTATION: AGITATION#JOY
+REASONING: The stanza contains clear emotion markers indicating AGITATION, such as the behavior "den Wandrer graute" (which indicates unspecified emotionality or fear). It also contains clear emotion markers indicating JOY, particularly the metaphor "ein Lichtlein auf im Grund" (a light appeared, symbolizing hope) and the "leiser Lobgesang aus Kindermund" (a soft song of praise from a child's mouth), which are typically associated with solace and happiness.
+
+6541: ANNOTATION: SADNESS
+REASONING: The stanza contains clear emotion markers indicating SADNESS, such as the situation of growing up and dying ("wachsen auf und sterben"), as well as the phrase "von nichts wissen", which can imply a sense of existential sorrow or powerlessness.
+
+2133: ANNOTATION: JOY
+REASONING: The stanza contains clear emotion markers indicating JOY, such as the behavior of the swallows and bees enjoying their surroundings ("bathing" in clouds and rose scents, "reveling" in their ethereal meal). The imagery and actions described reflect happiness and contentment.
+
+1339: ANNOTATION: NONE
+REASONING: The stanza contains no clear emotion markers. While it describes a scene with specific details about an embryo, it does not contain explicit indicators of the six emotions provided.
+
+2553: ANNOTATION: LOVE#AGITATION
+REASONING: The stanza contains clear emotion markers indicating LOVE, such as the description of the "liebliche Gestalt" (lovely figure) and the act of the robber following the girl with his gaze, which suggests admiration or longing. It also contains clear emotion markers indicating AGITATION, especially the behavior of the robber returning to the "finstren Tannenwald" (dark fir forest), which indicates a sense of unease or excitement.
+
+5985: ANNOTATION: AGITATION#JOY
+REASONING: The stanza contains clear emotion markers indicating AGITATION, such as "Kugeln zischen hin und her" and "Signalruf gellt", which indicate excitement and surprise. It also contains markers indicating JOY, especially the words "O lustig Tirailliren!" and "Mit Hurrah avanciren!", which express enthusiasm and exhilaration.
+
+2482: ANNOTATION: NONE
+REASONING: The stanza contains no clear emotion markers according to the annotation guidelines. It addresses strategic advice and warnings rather than indicating specific emotions.
+
+2460: ANNOTATION: NONE
+REASONING: The stanza contains no clear emotion markers. The conversation between Kaiser Wilhelm and Barbarossa, while historically significant, does not exhibit explicit indicators of the six specified emotions according to the annotation guidelines.
+
+5001: ANNOTATION: SADNESS#LOVE
+REASONING: The stanza contains clear emotion markers indicating SADNESS, such as "Gram und Pein", which signify sorrow and pain. It also contains clear emotion markers indicating LOVE, especially the mention of "deines Kindes Aug'", referring to a child's eyes, which typically evoke feelings of affection and love.
+
+50: ANNOTATION: LOVE#JOY
+REASONING: The stanza contains clear emotion markers indicating LOVE, such as the desire to lead and carry the person “lächelnd” and "mit stolzem Wagen". The stanza also contains clear emotion markers indicating JOY, particularly the phrase “zu unserm letzten Glück”, which denotes happiness and solace.
+
+7904: ANNOTATION: SADNESS#LOVE
+REASONING: The stanza contains clear emotion markers indicating SADNESS, such as the words "Klagen" (complaints) and "Leid" (suffering). The stanza also contains clear emotion markers indicating LOVE, such as the words "Trauter" (beloved) and the emotional connection expressed in the lines "Wie mich rührt dein Gesang" (How your song moves me) and "laß singend uns Beide bezwingen das Leid" (let us together conquer the sorrow with singing).
+
+5048: ANNOTATION: FEAR#LOVE
+REASONING: The stanza contains clear emotion markers indicating FEAR, especially the word "bang" which means fear. It also contains clear markers indicating LOVE, especially the phrases "Ich will dir Liebes sagen" and "Ich will dich Schwester nennen", which express affection.
+
+5619: ANNOTATION: NONE
+REASONING: The stanza does not contain clear emotion markers such as specific emotion words, metaphors indicating emotions, typical emotional situations, or descriptions of emotional behaviors. The imagery focuses on the appearance and actions of Caesar and a boy, but does not explicitly convey a particular emotion.
+
+7781: ANNOTATION: LOVE#JOY
+REASONING: The stanza contains clear emotion markers indicating LOVE, especially the phrases "Mit einer Seele, die Dich liebt" and "erhaben über Menschenstreit". It also contains clear emotion markers indicating JOY, such as "Genieße, was die Erde giebt" and "In seliger Verborgenheit".
+
+3052: ANNOTATION: SADNESS
+REASONING: The stanza contains clear emotion markers indicating SADNESS, such as the question "wie that ich ihr weh?" which implies remorse and sorrow, both of which are part of SADNESS in the sense of the annotation.
+
+6659: ANNOTATION: FEAR
+REASONING: The stanza contains clear emotion markers indicating FEAR, especially the phrase “BHcken angsterfüllt” (angst-filled gazes) and the situation of people crowding towards the cemetery and the cathedral, typically associated with anxiety and fear in the context of a world judgment scenario.
+
+1660: ANNOTATION: NONE
+REASONING: The stanza contains no clear emotion markers according to the annotation guidelines. The descriptions provided are more observational and do not indicate any specific emotional state.
+
+3417: ANNOTATION: SADNESS#ANGER
+REASONING: The stanza contains clear emotion markers indicating SADNESS, such as the behavior "aus seiner Brust ein stöhnend Ach" and "aus den Augen ihm ein Thränenbach." The stanza also contains clear emotion markers indicating ANGER, such as the words "Fluch eurer Freiheit" and the behavior "wie in Wuth, wie krampfhaft rafft' Er sich empor."
+
+1261: ANNOTATION: JOY
+REASONING: The stanza contains clear emotion markers indicating JOY, such as the behavior "will sich schier zu Tode lachen" (will laugh himself to death), which indicates laughter and happiness, both part of JOY in the sense of the annotation.
+
+1551: ANNOTATION: FEAR
+REASONING: The stanza contains clear emotion markers indicating FEAR, such as the words "verstört" and "neigen", which suggest a reaction of fright or fear to a secret being revealed.
+
+4559: ANNOTATION: ANGER#FEAR#LOVE
+REASONING: The stanza contains clear emotion markers indicating ANGER, such as the phrase "so zornig roth". It also indicates FEAR with the phrase "erschrickst du bis in den Tod". Additionally, LOVE is present as indicated by the phrase "von Liebe sprechen".
+
+2972: ANNOTATION: LOVE
+REASONING: The stanza contains clear emotion markers indicating LOVE, particularly the behaviors and metaphors such as "mein Auge spürtest du", "die seidne Hülle deiner langen Wimpern", and "meine Seele, zitternd, ein kleiner Silberschmetterling". These expressions suggest admiration, longing, and affection. The use of "du schönste Sommerrose" also adds to the emotion of LOVE.
+
+2994: ANNOTATION: FEAR#AGITATION
+REASONING: The stanza contains clear emotion markers indicating FEAR, such as the words "zitt're" and "bange," which suggest trembling and fear. It also contains clear emotion markers indicating AGITATION, such as the phrase "durch mein Inn'res schleicht ein Ahnen," which indicates a sense of uneasy anticipation or foreboding.
+
+3800: ANNOTATION: FEAR#SADNESS
+REASONING: The stanza contains clear emotion markers indicating FEAR, such as the word "Grauen" (which means dread or horror) and the phrase "Die tiefste Seele mir bewegt". It also contains clear emotion markers indicating SADNESS, such as the phrase "Den Zweifel mir ins Herz gelegt", which indicates feelings of doubt and inner turmoil, both of which are associated with SADNESS.
+
+3553: ANNOTATION: LOVE#SADNESS
+REASONING: The stanza contains clear emotion markers indicating LOVE, such as the term "traute Berge" which implies affection and fondness for the mountains that once protected the speaker. It also contains clear emotion markers indicating SADNESS, such as the longing for "Heimath" and the nostalgic reflection on the past protection ("behüteten einst"), which suggests a sense of loss and yearning.
+
+7629: ANNOTATION: LOVE#SADNESS
+REASONING: The stanza contains clear emotion markers indicating LOVE, such as the admiration for the "schöner Mann" and the mention of "des 'Kindes' Glück". It also contains clear emotion markers indicating SADNESS, especially the behavior of "er blieb allein", indicating loneliness and sorrow.
+
+7852: ANNOTATION: NONE
+REASONING: The stanza does not contain any clear emotion markers, single words that lexically indicate an emotion, linguistic images, situations typically associated with certain emotions, descriptions of behaviors that typically indicate emotionality, or formal features of direct speech that indicate the speaker's emotionality. Therefore, it does not represent any of the six specified emotions.
+
+2882: ANNOTATION: LOVE
+REASONING: The stanza contains clear emotion markers indicating LOVE, especially the phrases "dunklen Sehnens" and "Leuchtend blüht die blaue Blume," which suggest longing and admiration, both of which are part of LOVE in the sense of the annotation.
+
+95: ANNOTATION: LOVE#SADNESS
+REASONING: The stanza contains clear emotion markers indicating LOVE, such as "strahlet dein Auge so warm" and "Liebe". It also contains clear emotion markers indicating SADNESS, such as "Harm" and "Bangen", which convey sorrow and anxiety.
+
+6719: ANNOTATION: JOY#AGITATION
+REASONING: The stanza contains clear emotion markers indicating JOY, such as the words "jubelt" (jubilation) and "schaart" (gather together), which convey a sense of enthusiasm and hope. The stanza also contains clear emotion markers indicating AGITATION, especially the word "bebend" (trembling), which indicates excitement.
+
+160: ANNOTATION: ANGER
+REASONING: The stanza contains clear emotion markers indicating ANGER, such as the words "Mörder" (murderer) and "Tod" (death), as well as the phrase "Tod dein Kuß" (death your kiss) which indicates strong dislike and contempt. Additionally, the behavior of "herausgerissen" (ripped out) suggests a violent and aggressive act, further supporting the emotion of ANGER.
+
+5451: ANNOTATION: JOY#LOVE#SADNESS
+REASONING: The stanza contains clear emotion markers indicating JOY, such as the word “lacht” (laughs) and the phrase “heißes Glück” (intense happiness). It also contains markers indicating LOVE, such as the phrase “zu einander irrt ihr Blick” (their gaze wanders to each other) and the word "Brautpaar" (bridal couple). Lastly, it contains markers indicating SADNESS, especially the words “banger” (anxious) and “Tränen” (tears), and the situation described by “daß sich ins Aug' die Trän' ihm drängt” (tears welling up in his eyes).
+
+4377: ANNOTATION: AGITATION
+REASONING: The stanza contains clear emotion markers indicating AGITATION, especially the words "Stürme Gefahren" and "Sturmgetos", which indicate excitement and agitation. The description of behaviors such as "Planken und Bretter Splittern" and "Mutige Retter Binden die Boote los" also contribute to the sense of AGITATION.
+
+6229: ANNOTATION: ANGER#LOVE
+REASONING: The stanza contains clear emotion markers indicating ANGER, such as the desire for "Rache" (revenge) and the derogatory reference to "Buben und Knecht" (rogues and servants). It also contains clear emotion markers indicating LOVE, such as the admiration and affection for Germany expressed through phrases like "heil'ges Vaterland" (holy fatherland) and "deutsche Lieb' und Treue" (German love and loyalty).
+
+197: ANNOTATION: LOVE
+REASONING: The stanza contains clear emotion markers indicating LOVE, such as the phrase "lieblicher Verwirrung," which suggests affection and admiration, and the intimate behavior of "Senkte sie den Blick und wies hinauf." Additionally, the context provided shows an intimate and affectionate moment between two people.
+
+3565: ANNOTATION: SADNESS#ANGER
+REASONING: The stanza contains clear emotion markers indicating SADNESS, such as the imagery of "Abendlied sinkt im See," which suggests despair or melancholy. It also contains clear emotion markers indicating ANGER, especially the word "Neidwolken" (envy clouds) and the description of "herzschnappende weiße Wölfe," which indicates aggressive and hostile behavior.
+
+7252: ANNOTATION: SADNESS
+REASONING: The stanza contains clear emotion markers indicating SADNESS, especially the words "traurig" and "Trost vermißt", as well as the behaviors "fühl'st sein Leid" and "seinen Schmerz ihm nimmst". These markers associate with emotions such as sorrow, disappointment, and grief, which fall under SADNESS.
+
+2690: ANNOTATION: ANGER#AGITATION
+REASONING: The stanza contains clear emotion markers indicating ANGER, especially the phrases "von Blöden streng verdammt" (strictly condemned by fools) and "das Losungswort des Kampfes" (the rallying cry of the struggle), which indicate dislike and contempt. The stanza also contains markers indicating AGITATION, such as "hat überall gezündet" (has ignited everywhere) and "hat Tausende durchflammt" (has inflamed thousands), indicating excitement and emotional intensity.
+
+3232: ANNOTATION: JOY
+REASONING: The stanza contains clear emotion markers indicating JOY, such as the words “Hoffnungsschiller” (glimmer of hope), “verheißend Frühlingswetter” (promising spring weather), and descriptions of vibrant and cheerful natural imagery like “Blüthenwellen” (waves of blossoms) and “Lerchentriller” (lark trills), which all suggest a sense of happiness and enthusiasm.
+
+6773: ANNOTATION: FEAR#LOVE
+REASONING: The stanza contains clear emotion markers indicating FEAR, especially the word "Furcht" which means fear. It also contains clear emotion markers indicating LOVE, especially the words "entzücken" and "schöner" which indicate admiration and affection.
+
+5824: ANNOTATION: LOVE
+REASONING: The stanza contains clear emotion markers indicating LOVE, such as "Beben" (trembling), which can be associated with longing or affection, and "Träumend neigt sie ihr Gesicht" (dreamingly she inclines her face), which suggests a tender, affectionate behavior.
+
+1763: ANNOTATION: SADNESS
+REASONING: The stanza contains clear emotion markers indicating SADNESS, especially the situation described where the ancestral castle is no longer present, having been replaced by farmland ("Der Pflug geht über dich hin"). This evokes a sense of loss and nostalgia.
+
+607: ANNOTATION: LOVE#JOY
+REASONING: The stanza contains clear emotion markers indicating LOVE, such as "Treue" (fidelity) and "erlöst von Zeit und Leid" (freed from time and suffering), which show admiration and affection. It also contains clear emotion markers indicating JOY, such as "Athm' ich die Ewigkeit und ihre Wonnen" (I breathe eternity and its delights), which indicates solace and happiness.
+
+6455: ANNOTATION: LOVE
+REASONING: The stanza contains clear emotion markers indicating LOVE, especially the metaphor "die edle Gabe" and the behavior of giving everything for the treasured "Kleinod". The phrase "Ach, Alles, was ich hab' und bin" further reinforces the sense of deep affection and longing.
+
+3264: ANNOTATION: JOY
+REASONING: The stanza contains clear emotion markers indicating JOY, especially the phrase "überseliger Lust," which translates to "overjoyed delight." This indicates happiness and pleasure, which are part of JOY in the sense of the annotation.
+
+2501: ANNOTATION: SADNESS#LOVE
+REASONING: The stanza contains clear emotion markers indicating SADNESS, such as the words "zagte" and "klagte". The stanza also contains clear emotion markers indicating LOVE, such as the behavior described in "In deinem Herzen den Wiederhall Vermochte mein Herz zu finden".
+
+1851: ANNOTATION: LOVE#FEAR
+REASONING: The stanza contains clear emotion markers indicating LOVE, such as the word "sehnsuchtsvollem" (longing), which is part of LOVE in the sense of the annotation. The stanza also contains clear emotion markers indicating FEAR, especially the words "angst und bange" (fearful and anxious).
+
+4907: ANNOTATION: SADNESS
+REASONING: The stanza contains clear emotion markers indicating SADNESS, such as the metaphor "lichte Thränen" (light tears) and the situation "ein geliebtes Grab" (a beloved grave). Additionally, the imagery of "verfallnen Chören" (decayed choirs) and "Trauerflören" (mourning veils) contribute to the overall sense of sorrow and mourning.
+
+5684: ANNOTATION: AGITATION#SADNESS
+REASONING: The stanza contains clear emotion markers indicating AGITATION, such as the behavior "athemlos" (breathless) and "rastlos kreiste" (restlessly circling), which indicate agitation and excitement. It also contains clear markers indicating SADNESS, such as "wunden Hirn" (wounded brain) and the metaphor of being puppets controlled by fate, which indicates powerlessness and despair.
+
+8052: ANNOTATION: SADNESS#AGITATION
+REASONING: The stanza contains clear emotion markers indicating SADNESS, such as the word "Schmerzes" (pain) and "Fluch verdammen" (curse). The stanza also contains clear emotion markers indicating AGITATION, such as the behavior "in tollen Takten fliegt dein Puls" (your pulse flies in wild beats).
+
+3981: ANNOTATION: SADNESS#LOVE
+REASONING: The stanza contains clear emotion markers indicating SADNESS, such as the words "verzagend" and "Wehe", which indicate despair and sorrow. It also contains clear emotion markers indicating LOVE, such as the words "beneide" and "Liebeswehe", which indicate longing and jealousy, both of which are part of LOVE in the sense of the annotation.
+
+3315: ANNOTATION: JOY
+REASONING: The stanza contains clear emotion markers indicating JOY, such as the admiration for the youthfulness and vitality of the people ("Ein solches Volk ist noch nicht alt, / Sein Kern ist noch nicht faul") and the power of the song ("Das Lied, es übt noch die Gewalt"). These elements express a sense of pride and enthusiasm, which are part of JOY.
+
+115: ANNOTATION: LOVE#SADNESS
+REASONING: The stanza contains clear emotion markers indicating LOVE, such as the phrase "O Freundesliebe" and the request "nimm mich in deinen Schoß", which show admiration and longing. It also indicates SADNESS with the plea "Verlaß mich nicht" and the desire to return to "den alten Tagen", suggesting a sense of loss and longing for the past.
+
+4906: ANNOTATION: AGITATION#FEAR
+REASONING: The stanza contains clear emotion markers indicating AGITATION, especially the phrases "Der Wind durchrauschte" and "mächtig brausender Orgelschall," which suggest a sense of powerful movement and excitement. It also contains clear emotion markers indicating FEAR, particularly the description of the flowers as "tief erschrocken" (deeply frightened) and "zitternden Blüthenglocken" (trembling flower bells), which convey a sense of fear and trembling.
+
+6774: ANNOTATION: FEAR#LOVE
+REASONING: The stanza contains clear emotion markers indicating FEAR, such as the phrase "In Furcht," which means fear. The stanza also contains clear emotion markers indicating LOVE, such as the behavior "Eilt Liebe, heisser Brust an Brust zu drücken," which indicates longing and affection, and the phrase "tauscht im Kusse lechzend Seel um Seele," which indicates a passionate kiss, a marker of sexual desire.
+
+2938: ANNOTATION: LOVE#SADNESS
+REASONING: The stanza contains clear emotion markers indicating LOVE, such as the phrases "Ihr meine Lieder alle" and "grüßt ihn tausend mal," which express affection and longing. It also contains clear emotion markers indicating SADNESS, such as the words "Qual" and "nicht zürnen," which suggest sorrow and the inability to be angry despite suffering.
+
+4640: ANNOTATION: NONE
+REASONING: The stanza contains no clear emotion markers according to the Annotation Guidelines. There are no single words, linguistic images, situations, descriptions of behaviors, or formal features of direct speech indicating any of the specified emotions.
+
+8033: ANNOTATION: JOY#LOVE
+REASONING: The stanza contains clear emotion markers indicating JOY, such as "Frühlingslust", "Frühlingspracht", and the celebration of spring awakening ("Der Lenz, der Lenz ist aufgewacht"). It also contains clear emotion markers indicating LOVE, particularly in the repeated invitation "Komm zu mir" and the affectionate address "mein Lieb".
+
+2722: ANNOTATION: JOY
+REASONING: The stanza contains clear emotion markers indicating JOY, such as the phrases "lenzumfangen" (embraced by spring) and "schaue in die Weiten aus" (looking out into the expanses), which suggest a sense of peace, hope, and happiness. The overall tone of escaping from the hustle and bustle of daily life also contributes to a feeling of solace and comfort, which are part of JOY in the sense of the annotation.
+
+6010: ANNOTATION: SADNESS
+REASONING: The stanza contains clear emotion markers indicating SADNESS, especially the words “erloschen” (extinguished) and “frommen schauer” (pious shudder), which evoke a sense of loss and melancholy.
+
+3754: ANNOTATION: NONE
+REASONING: The stanza contains no clear emotion markers as defined by the annotation guidelines. The imagery and language used do not explicitly indicate any of the six emotions (AGITATION, ANGER, FEAR, JOY, LOVE, SADNESS).
+
+4259: ANNOTATION: FEAR
+REASONING: The stanza contains clear emotion markers indicating FEAR, such as the word "Schrecken" (which means fright) and the situations described, such as the unknown workings of nature and the unpredictability of storms.
+
+3357: ANNOTATION: SADNESS
+REASONING: The stanza contains clear emotion markers indicating SADNESS, such as the words “allein” and “zerstreut,” which suggest loneliness and a sense of being scattered or disoriented. The situation of watching the ship leave and then returning home alone also implies a sense of loss or separation.
+
+3056: ANNOTATION: SADNESS
+REASONING: The stanza contains clear emotion markers indicating SADNESS, such as the words “besorgt”, “todt”, and “Herzleid”. These terms indicate a situation of worry, death, and heartbreak, which are associated with SADNESS.
+
+5590: ANNOTATION: LOVE#SADNESS
+REASONING: The stanza contains clear emotion markers indicating LOVE, such as the phrases "liebes Engelsangesicht" (dear angelic face) and "mein Herz bewegt" (moved my heart). It also contains clear emotion markers indicating SADNESS, particularly in the line "Ich muß mich freu'n und möchte weinen" (I must rejoice and want to cry), which indicates a mix of joy and sorrow.
+
+8062: ANNOTATION: AGITATION
+REASONING: The stanza contains clear emotion markers indicating AGITATION, especially the phrase “wilde Traum”, which suggests a state of excitement or agitation. Additionally, the term "Millionensternig strahlt" implies a sense of wonder or overwhelming sensation, further contributing to the feeling of agitation.
+
+762: ANNOTATION: JOY
+REASONING: The stanza contains several clear emotion markers indicating JOY, such as the words "frohen" and "glücklich". These words indicate happiness and hope, which are part of JOY in the sense of the annotation.
+
+7140: ANNOTATION: NONE
+REASONING: The stanza does not contain any clear emotion markers. There are no single words, linguistic images, typical situations, descriptions of emotional behaviors, or formal features indicating emotionality according to the annotation guidelines.
+
+4179: ANNOTATION: FEAR
+REASONING: The stanza contains clear emotion markers indicating FEAR, such as the words “düster”, “ängstlich”, and the behavior of the ferryman folding his hands in prayer, which suggests a sense of anxiety or fear.
+
+2864: ANNOTATION: LOVE
+REASONING: The stanza contains clear emotion markers indicating LOVE, especially the word “Sehnsucht”, which means longing and is part of LOVE in the sense of the annotation.
+
+6986: ANNOTATION: LOVE
+REASONING: The stanza contains clear emotion markers indicating LOVE, such as the thoughts of the Jüngling about finding happiness with the Mägdelein and the Mägdelein's contemplation about whether the Jüngling is the right one for her. These markers point to admiration and longing, which are part of LOVE in the sense of the annotation.
+
+3578: ANNOTATION: JOY
+REASONING: The stanza contains clear emotion markers indicating JOY, especially the imagery of "stürmt" (storming) and "fliegt er weiter" (flying further), which suggest enthusiasm and an uplifting sense of progression.
+
+2016: ANNOTATION: SADNESS
+REASONING: The stanza contains clear emotion markers indicating SADNESS, such as the metaphor "wie ein welkes Blatt" (like a withered leaf), and the description of the friendship "haltlos in dem Winde" (aimlessly in the wind), both of which evoke a sense of loss and melancholy. The phrase "die schäumend sich am Fels des Todes bricht" (foaming against the rock of death) also strengthens the notion of despair and powerlessness.
+
+487: ANNOTATION: LOVE
+REASONING: The stanza contains clear emotion markers indicating LOVE, such as the words "Liebesspenden" (gifts of love) and "Lieben" (to love). Additionally, the metaphor of an "unerfüllter Traum" (unfulfilled dream) suggests longing, which is part of LOVE in the sense of the annotation.
+
+7905: ANNOTATION: JOY#LOVE
+REASONING: The stanza contains clear emotion markers indicating JOY, such as "glüht", "blüht", and "glücklich". The stanza also contains clear emotion markers indicating LOVE, especially the words "liebend" and "zärtlich".
+
+2833: ANNOTATION: FEAR
+REASONING: The stanza contains clear emotion markers indicating FEAR, especially through the situation of a life-threatening storm at sea and phrases like "Kampf um Tod und um Leben" and "der Angst Gebet". These elements suggest fear and fright.
+
+5005: ANNOTATION: NONE
+REASONING: The stanza does not contain clear emotion markers indicating any of the six specified emotions. The descriptions of the "rote Bauch dem Baal," the "Kirchenglocken," and the "schwarzer Türme Meer" lack explicit markers of AGITATION, ANGER, FEAR, JOY, LOVE, or SADNESS.
+
+111: ANNOTATION: LOVE#JOY
+REASONING: The stanza contains clear emotion markers indicating LOVE, such as the admiration expressed towards "Mutter Natur" and the nurturing metaphor of "nährenden Brüsten". It also contains clear emotion markers indicating JOY, especially through the words "wonnig lächelnd" and the overall positive imagery of life and nature's nurturing.
+
+2268: ANNOTATION: LOVE
+REASONING: The stanza contains clear emotion markers indicating LOVE, such as the metaphor "Grenzt nicht mein Herz an deins" (which implies a deep connection and affection) and the description "Immer färbt dein Blut meine Wangen rot" (indicating a physical reaction to the presence or thought of the loved one, which suggests admiration and affection).
+
+2903: ANNOTATION: SADNESS#ANGER
+REASONING: The stanza contains several clear emotion markers indicating SADNESS, such as the descriptions of personal loss ("Mein Heim zerstört, mein Weib gestorben, Mein Sohn verkommen und verdorben") and the behavior of seeking to forget through drinking ("Schnaps her, weil ichs vergessen will"). It also contains clear emotion markers indicating ANGER, such as the mention of "Entschädigung — nicht einen Deut!" and the frustration expressed in the repeated requests for alcohol to forget the injustices faced.
+
+5108: ANNOTATION: AGITATION#FEAR
+REASONING: The stanza contains clear emotion markers indicating AGITATION, such as the phrase "tobendem Nichts" (raging nothingness), which suggests a state of excitement or chaos. It also contains clear emotion markers indicating FEAR, especially the mention of "Posaune des Jüngsten Gerichts" (trumpet of the Last Judgment), which is a situation typically associated with fear and fright.
+
+8068: ANNOTATION: LOVE
+REASONING: The stanza contains clear emotion markers indicating LOVE, especially the metaphor "seliger Einheit sich umschlang," which suggests a deep, blissful union, and the imagery of "Wie Tiger eines mit dem anderen rang" which can be interpreted as a passionate struggle leading to unity.
+
+3846: ANNOTATION: SADNESS
+REASONING: The stanza contains clear emotion markers indicating SADNESS, such as the words „Weh“, „bangem Sehnen“, and „Thränen“. These markers indicate sorrow, longing, and tears, which are part of SADNESS in the sense of the annotation.
+
+1471: ANNOTATION: FEAR#AGITATION
+REASONING: The stanza contains clear emotion markers indicating FEAR, especially the mention of "der Tod reckt unten seine Arme aus," which suggests a fear of death. It also contains markers of AGITATION, such as "ein Gebraus springender Hufen und Leiber," which suggests a sense of chaotic, intense movement and excitement.
+
+4296: ANNOTATION: SADNESS#ANGER
+REASONING: The stanza contains clear emotion markers indicating SADNESS, such as the behavior "mit Gewalt erstickt" (forcefully suppressed) which indicates discomfort and sorrow. It also contains clear emotion markers indicating ANGER, such as the phrase "Widerspruch erregte" (provoked contradiction) which indicates a feeling of irritation or anger.
+
+7573: ANNOTATION: SADNESS
+REASONING: The stanza contains clear emotion markers indicating SADNESS, such as the word “Trauerweiden” (weeping willows), the phrase “wehmuthsschweres Seufzen” (sigh heavy with melancholy), and the word “schmerzlich” (painful), which are all associated with sorrow and grief.
+
+2773: ANNOTATION: LOVE
+REASONING: The stanza contains clear emotion markers indicating LOVE, such as the words "lechzend", "süßen Düfte", and "umkosen". These words suggest longing, affection, and admiration, which are part of LOVE in the sense of the annotation.
+
+6876: ANNOTATION: SADNESS
+REASONING: The stanza contains clear emotion markers indicating SADNESS, such as the metaphor “Mein Herz ist die tote Mutter” and the description “meine Augen sind traurige Kinder”, which implies sorrow and grief.
+
+226: ANNOTATION: JOY
+REASONING: The stanza contains clear emotion markers indicating JOY, such as the word "selig," which means blissful or happy, and the phrase "Himmelsfrieden," which translates to heavenly peace. These markers explicitly convey a sense of happiness and contentment.
+
+6979: ANNOTATION: SADNESS
+REASONING: The stanza contains clear emotion markers indicating SADNESS, such as the description of "Winterweh," the metaphor of "weiden weinen" (weeping willows), and the imagery of a "Sensenlied" (scythe song) that "zittert und stirbt" (trembles and dies). These elements evoke a sense of sorrow and melancholy.
+
+3817: ANNOTATION: LOVE
+REASONING: The stanza contains clear emotion markers indicating LOVE, especially the words “dein Fuß mit Beben” and “ein Wunder sich begeben”, which suggest admiration and longing.
+
+7762: ANNOTATION: SADNESS
+REASONING: The stanza contains clear emotion markers indicating SADNESS, such as the metaphor “Mein Leben gleicht den Wellenringen” and the description “Ich werde spurlos von hinnen gehn” which evokes a sense of disappearance and insignificance. Also, the situation where someone is replaced and laughed at by a newcomer suggests a feeling of worthlessness and sorrow.
+
+3668: ANNOTATION: SADNESS#LOVE
+REASONING: The stanza contains clear emotion markers indicating SADNESS, such as the situation of the mother sinking into the grave, which implies death and grief. The stanza also contains clear emotion markers indicating LOVE, such as the metaphor of the mother carrying the "reichste Fülle" (richest abundance) of flowers to her child, which indicates affection and longing.
+
+4184: ANNOTATION: LOVE#FEAR
+REASONING: The stanza contains clear emotion markers indicating LOVE, such as the phrases "holdes Kind" and "treuer Mutterhand", which show affection and admiration. It also contains clear emotion markers indicating FEAR, such as the concerns about the child's future ("Wird's glücklich sein", "wird's, erfüllt von bittern Zähren", "wird es wirken", "wird's nicht vielleicht die Welt erschüttern"), indicating fear and anxiety about the unknown destiny of the child.
+
+2476: ANNOTATION: JOY
+REASONING: The stanza contains clear emotion markers indicating JOY, such as the words "strahlend Lächeln" and "Jubelchor". The descriptions of the bright and celebratory natural scenery, such as "die Sonne feiert" and "Demantenhell der Havel Spiegel blinkt", further reinforce the emotion of JOY.
+
+2033: ANNOTATION: SADNESS#ANGER
+REASONING: The stanza contains clear emotion markers indicating SADNESS, such as the words "blut'ge Opfer" and the situation of fate continuously sacrificing. It also contains clear emotion markers indicating ANGER, such as the phrase "Kein Gott, kein Gott ihm steuert," which indicates a sense of frustration and contempt towards the divine for not intervening.
+
+2385: ANNOTATION: LOVE#JOY
+REASONING: The stanza contains clear emotion markers indicating LOVE, such as the phrase "Ein Heiligthum der Schönheit und der Musen" which denotes admiration, and "Wenn nur die Seele glüht" which implies longing or affection. Additionally, there are markers indicating JOY, such as "götterreicher Himmel blüht" which conveys happiness and solace.
+
+1906: ANNOTATION: JOY#LOVE
+REASONING: The stanza contains clear emotion markers indicating JOY, such as the words "Glückes" and "fröhlich". It also contains clear emotion markers indicating LOVE, such as the words "lieben" and "brüderlich".
+
+2581: ANNOTATION: ANGER#SADNESS
+REASONING: The stanza contains clear emotion markers indicating ANGER, such as the word “Fluch” (curse) and the metaphor of "reißt in den Koth" (tearing into the mud). The stanza also contains clear emotion markers indicating SADNESS, such as the words “Elend” (misery), “Einsam” (lonely), and the desire for "Frieden" (peace), as well as the situation of seeking solace among the dead and unborn.
+
+1790: ANNOTATION: NONE
+REASONING: The stanza contains no clear emotion markers.
+
+3804: ANNOTATION: JOY#SADNESS
+REASONING: The stanza contains clear emotion markers indicating JOY, such as the spring imagery "Der Frühling weht und sprießet" and the phrases "ruft mit Klang und Schall" and "fahr' ich in die Welt hinaus," which indicate enthusiasm and excitement. It also contains clear emotion markers indicating SADNESS, especially the word "Thränlein" (little tear), indicating sorrow.
+
+7269: ANNOTATION: SADNESS
+REASONING: The stanza contains clear emotion markers indicating SADNESS, especially the situation of being "von keinem geliebt" (loved by no one), the imagery of "Schneesturm" (snowstorm), and the desire for both to die together ("daß wir stürben beide").
+
+147: ANNOTATION: NONE
+REASONING: The stanza contains no clear emotion markers according to the Annotation Guidelines.
+
+6889: ANNOTATION: LOVE
+REASONING: The stanza contains clear emotion markers indicating LOVE, especially the phrase “bin ich ihm gut,” which suggests affection or admiration.
+
+6717: ANNOTATION: AGITATION#JOY
+REASONING: The stanza contains clear emotion markers indicating AGITATION, such as the phrases "gewaltig" (mighty) and "sturmdurchbrauster Wald" (storm-swept forest), which imply a sense of excitement and intensity. It also contains clear emotion markers indicating JOY, especially the word "Jubelhymnen" (jubilation hymns) and the phrase "Was Du ersehnt, kommt bald!" (What you long for is coming soon), which convey a sense of happiness and anticipation.
+
+6204: ANNOTATION: JOY#LOVE
+REASONING: The stanza contains clear emotion markers indicating JOY, such as the word "Lust", which means pleasure or joy. It also contains clear emotion markers indicating LOVE, as the act of gratitude ("danket") and appreciation for the day's final rays ("seinem letzten Strahl") suggest affection and admiration.
+
+592: ANNOTATION: SADNESS
+REASONING: The stanza contains clear emotion markers indicating SADNESS, such as the words "Zerfallen", "verwehn", and "Tod", and the situation of impending death, which conveys a sense of sorrow and melancholy.
+
+3143: ANNOTATION: SADNESS#LOVE
+REASONING: The stanza contains several clear emotion markers indicating SADNESS, such as the word „quäl“ and the mentioning of the situation „death“. The stanza also contains several clear emotion markers indicating LOVE, such as the behavior of „playing a loose game“ and the metaphor of „erglüht“.
+
+4969: ANNOTATION: SADNESS#LOVE
+REASONING: The stanza contains clear emotion markers indicating SADNESS, such as “Wahnsinn” (madness), “versengender Gluth” (scorching heat), and the imagery of a grave (where “meine erste Liebe ruht”). The stanza also contains clear emotion markers indicating LOVE, especially the mention of "meine erste Liebe" (my first love).
+
+6176: ANNOTATION: JOY#LOVE
+REASONING: The stanza contains clear emotion markers indicating JOY, especially the phrase "schönstes Lied" and "heil'ger Morgenstunde," which evoke a sense of beauty and serenity often associated with happiness. There are also clear emotion markers indicating LOVE, especially the image of the "rothe Rose aufgeblüht," which is a common metaphor for love and affection.
+
+2717: ANNOTATION: SADNESS
+REASONING: The stanza contains clear emotion markers indicating SADNESS, especially through the personification of "Frau Unglück" (Lady Misfortune), who metaphorically "drückt ans Herz" (presses against the heart) and "setzt sich zu dir ans Bett und strickt" (sits by your bed and knits), symbolizing a lingering and inescapable presence of misfortune, which conveys a sense of sorrow and powerlessness.
+
+5280: ANNOTATION: LOVE#SADNESS
+REASONING: The stanza contains clear emotion markers indicating LOVE, such as the word “liebend”, which means loving. It also contains clear emotion markers indicating SADNESS, such as the words “ruhn der Theuren ird'sche Reste” and the situation of mourning over the loved ones' earthly remains.
+
+7285: ANNOTATION: SADNESS
+REASONING: The stanza contains clear emotion markers indicating SADNESS, such as the phrases “Ich ging, wie Tote gehn” (I walked like the dead go), “Ein abgeschiedner Geist, verwaist und ungesehn” (a departed spirit, orphaned and unseen), which convey a sense of loneliness, powerlessness, and melancholy.
+
+7630: ANNOTATION: SADNESS#LOVE
+REASONING: The stanza contains several clear emotion markers indicating SADNESS, such as the behavior "Er wischte die Augen" and "So sass er stumm bis morgens früh," which suggest sorrow and powerlessness. It also contains emotion markers indicating LOVE, such as the context of the entire poem where the uncle has a deep affection for the girl, indicated by "Das Herz im Leib ihm wallte," suggesting longing and affection.
+
+2963: ANNOTATION: SADNESS
+REASONING: The stanza contains clear emotion markers indicating SADNESS, especially the contrast between "lenzesfroh" and "frieren", which implies a feeling of sorrow or discomfort despite the sunny surroundings.
+
+3952: ANNOTATION: SADNESS
+REASONING: The stanza contains clear emotion markers indicating SADNESS, especially the word "geweint" (wept), which is associated with sorrow and grief. The overall situation of questioning someone about long-term weeping also suggests sadness.
+
+4493: ANNOTATION: SADNESS
+REASONING: The stanza contains clear emotion markers indicating SADNESS, especially the word “traurig”, which means sad. Additionally, the inability to feel joy and the longing for understanding happiness from a deep source or distant like stars also suggest melancholy and sorrow.
+
+117: ANNOTATION: FEAR
+REASONING: The stanza contains clear emotion markers indicating FEAR, such as the words "graut" (which indicates dread or fear) and the behavior of being "jäh zu Boden reißt" (suddenly being thrown to the ground), which suggests a frightening or overwhelming experience.
+
+1007: ANNOTATION: ANGER
+REASONING: The stanza contains clear emotion markers indicating ANGER, especially the word "zürnst", which means "are you angry". Anger is part of ANGER in the sense of the annotation.
+
+3372: ANNOTATION: LOVE
+REASONING: The stanza contains clear emotion markers indicating LOVE, especially the word "Andacht," which signifies devotion, a form of love. The metaphor "Thränen der Andacht" further emphasizes this emotional state. Additionally, the imagery of "Perlen" (pearls) suggests something precious and cherished, reinforcing the emotion of LOVE.
+
+10: ANNOTATION: AGITATION
+REASONING: The stanza contains clear emotion markers indicating AGITATION, especially the words "Wohlan! Wohlauf!" which indicate excitement, a part of AGITATION in the sense of the annotation.
+
+4864: ANNOTATION: AGITATION#ANGER
+REASONING: The stanza contains clear emotion markers indicating AGITATION, especially the words “erstaune” and “bewegt”, which indicate surprise and excitement. The stanza also contains clear emotion markers indicating ANGER, especially the word “Grimme”, which indicates anger.
+
+2283: ANNOTATION: LOVE#JOY
+REASONING: The stanza contains clear emotion markers indicating LOVE, such as the phrase "dein süßes Bild" and the overall context of fulfillment and connection with a loved one. It also contains markers indicating JOY, such as "Die Hoffnung schweigt, sie ist erfüllt" and "Leis' naht der Schlaf in lichten Kreisen," which suggest a sense of peace and contentment.
+
+4229: ANNOTATION: LOVE
+REASONING: The stanza contains clear emotion markers indicating LOVE, especially the phrases “schönste Stunde” (most beautiful hour), and “still bewegst” (quietly move me), which suggest affection and admiration. Additionally, the metaphor “Gleich einer Himmelskunde” (like a celestial message) conveys a deep and profound admiration, further reinforcing the emotion of LOVE.
+
+2: ANNOTATION: LOVE#SADNESS
+REASONING: The stanza contains clear emotion markers indicating LOVE, especially the words "treuen Blicke" (loyal glances) and "uns verstehn" (understand us), which suggest affection and emotional connection. It also contains clear emotion markers indicating SADNESS, particularly the word "Thränen" (tears), which are a strong indicator of sorrow.
+
+1569: ANNOTATION: AGITATION#ANGER
+REASONING: The stanza contains clear emotion markers indicating AGITATION, such as the words "erschrecken" (surprise) and the behaviors like "tob'" (rage) and "lärm'" (noise). It also contains clear emotion markers indicating ANGER, such as "fluch'" (curse) and the exclamation "Potztausendhimmelsapperment!" which reflects a strong emotional outburst.
+
+7911: ANNOTATION: LOVE#ANGER
+REASONING: The stanza contains clear emotion markers indicating LOVE, such as the phrases "you love the love" and "a kiss, a kiss give to me", as well as the metaphor "a wild rose be your heart". The stanza also contains clear emotion markers indicating ANGER, especially the phrases "there lurks anger" and "sharp thorn", which suggest a sense of hostility or intensity.
+
+1677: ANNOTATION: SADNESS
+REASONING: The stanza contains clear emotion markers indicating SADNESS, such as the words "Not" and "Klage", which refer to distress and lamentation respectively. These markers are indicative of sorrow and grief, which are part of SADNESS in the sense of the annotation.
+
+7574: ANNOTATION: SADNESS#LOVE
+REASONING: The stanza contains clear emotion markers indicating SADNESS, such as the mention of death and graves ("sterb'", "begraben", "Särge"). The stanza also contains clear emotion markers indicating LOVE, especially the phrase "segnet liebend und unerkannt", which shows affectionate blessings.
+
+7779: ANNOTATION: ANGER#JOY
+REASONING: The stanza contains clear emotion markers indicating JOY, such as the phrase "Des Frohsinns blumenheitre Lust," which indicates happiness and enjoyment. It also contains clear emotion markers indicating ANGER, particularly the word "Neid," which means envy, a sub-emotion of ANGER.
+
+5780: ANNOTATION: ANGER#JOY
+REASONING: The stanza contains clear emotion markers indicating ANGER, such as the words "ärgern" (annoy) and "Verdächtig" (suspicious), as well as the behavior of being upset with "flapsig protzenden Rüden" and "tantenhaft Prüden." It also contains clear emotion markers indicating JOY, such as the behavior of laughing ("Ich lache der Gecken") and the appreciation of "gute Manieren," which suggests a sense of pride and satisfaction.
+
+650: ANNOTATION: JOY#LOVE
+REASONING: The stanza contains clear emotion markers indicating JOY, such as the words "glücklich" and "überglücklich", which indicate happiness and extreme joy. The stanza also contains clear emotion markers indicating LOVE, such as the phrases "eine Seele Dir" and "ein ander Herz", which indicate affection and emotional connection with another person.
+
+2980: ANNOTATION: JOY
+REASONING: The stanza contains clear emotion markers indicating JOY, such as the phrase "das süß erlebte Glück" which means sweet experienced happiness. Additionally, the tone of the stanza and the encouragement to rest peacefully suggest a sense of contentment and solace, which are sub-emotions of JOY.
+
+7813: ANNOTATION: LOVE
+REASONING: The stanza contains clear emotion markers indicating LOVE, especially in the description of "grüßt den Märchenprinzen die Fee," which signifies admiration and affection. The golden shimmer over the lake also creates a romantic and affectionate imagery.
+
+6339: ANNOTATION: FEAR#AGITATION
+REASONING: The stanza contains clear emotion markers indicating FEAR, such as the behaviors "bleich und bebend" (pale and trembling) and "verstörten Mienen" (disturbed expressions), and the description of a "Blut'ge Tropfen" (bloody drops) and an "ächzt" (groaning) voice. The stanza also contains clear emotion markers indicating AGITATION, such as the "polternd schwere Tritte" (thundering heavy steps) and the "mürbe Stiege draußen knarret" (creaking stairs outside), which indicate surprise and excitement.
+
+4158: ANNOTATION: LOVE
+REASONING: The stanza contains a clear emotion marker indicating LOVE, especially the word "Kuß", which indicates affection, a sub-emotion of LOVE.
+
+737: ANNOTATION: NONE
+REASONING: The stanza does not contain any clear emotion markers according to the annotation guidelines. The phrase "wie tief auch deine Wunden" might suggest some emotional depth, but it does not explicitly indicate any of the six emotions listed.
+
+4263: ANNOTATION: LOVE#JOY
+REASONING: The stanza contains clear emotion markers indicating LOVE, such as the situation of "kissing your mouth" and the behavior of listening to "girl's words". It also contains clear emotion markers indicating JOY, especially the metaphor of "all the roses that withered bloom again," which implies a sense of rejuvenation and happiness.
+
+1382: ANNOTATION: JOY#ANGER
+REASONING: The stanza contains clear emotion markers indicating JOY, especially the word "Lachen" (laughter), which signifies happiness. It also contains clear emotion markers indicating ANGER, as it expresses contempt and disdain for "Talent", "Geist", "Künste", and "Genie", which are behaviors indicating dislike and contempt.
+
+3746: ANNOTATION: SADNESS#FEAR
+REASONING: The stanza contains clear emotion markers indicating SADNESS, such as "Einsam" (loneliness) and "Von den Eltern scheu gemieden" (shunned by parents). It also indicates FEAR through the situation described by "Ihn dem Mörder anzuschmieden" (binding him to the murderer) and the questioning by the judge, which implies a sense of dread and potential danger.
+
+972: ANNOTATION: JOY#LOVE
+REASONING: The stanza contains clear emotion markers indicating JOY, such as the word "Selig" (blessed). The stanza also contains clear emotion markers indicating LOVE, such as the nurturing metaphor "nährendem Mutterbusen" (nourishing mother’s bosom) and "trinkend die heimlichen Säfte" (drinking the secret juices), which implies a deep affection and admiration for nature.
+
+3249: ANNOTATION: JOY
+REASONING: The stanza contains clear emotion markers indicating JOY, such as the repeated phrase "Hab Sonne im Herzen" (Have sunshine in your heart), which implies happiness and hope. Additionally, the phrase "leuchtet voll Licht" (shines full of light) suggests comfort and solace.
+
+5566: ANNOTATION: NONE
+REASONING: The stanza contains no clear emotion markers according to the Annotation Guidelines. The content is descriptive and narrative without explicit indications of the specified emotions.
+
+2813: ANNOTATION: SADNESS
+REASONING: The stanza contains clear emotion markers indicating SADNESS, such as the phrases "bedrückte Herzen" and "Lebens Mühn und Schmerzen". These phrases evoke sorrow and life's struggles, which are part of SADNESS in the sense of the annotation.
+
+38: ANNOTATION: SADNESS
+REASONING: The stanza contains clear emotion markers indicating SADNESS, especially the words "quält" and "eitlem". The behavior of a heart being troubled and seeking peace suggests sorrow and discomfort, which are part of SADNESS.
+
+3979: ANNOTATION: ANGER#LOVE
+REASONING: The stanza contains clear emotion markers indicating ANGER, especially the word "Neid" (envy), which is part of ANGER in the sense of the annotation. The stanza also contains emotion markers indicating LOVE, such as the affectionate behavior of envying the "lauen Lüfte" (gentle breezes) that tenderly touch the beloved's "heißen Schläfe" (hot temples) and "goldnen Locken" (golden locks).
+
+967: ANNOTATION: NONE
+REASONING: The stanza gives advice about poetry and emphasizes authenticity and genuine expression, but it does not contain clear emotion markers that indicate any of the six specified emotions.
+
+196: ANNOTATION: LOVE
+REASONING: The stanza contains clear emotion markers indicating LOVE, especially the phrases "Lieber doch an ihren Augen sinnig" and "Hingen meine Blicke lang und innig", which indicate admiration and affection.
+
+2018: ANNOTATION: SADNESS#LOVE
+REASONING: The stanza contains clear emotion markers indicating SADNESS, such as the words “starb” and “traurig”. It also contains markers indicating LOVE, especially the word “Lieben” and the questioning of the strength of friendship.
+
+2840: ANNOTATION: LOVE
+REASONING: The stanza contains clear emotion markers indicating LOVE, especially in the line “Und wer nicht liebt, dem wird nicht Liebe werden,” which directly mentions “liebt” (love) and “Liebe” (love).
+
+2246: ANNOTATION: LOVE
+REASONING: The stanza contains clear emotion markers indicating LOVE, especially the words "süsser Geliebter" and "weile", which denote affection and longing.
+
+2315: ANNOTATION: SADNESS#JOY
+REASONING: The stanza contains clear emotion markers indicating SADNESS, such as the word „Schmerz“, which means pain, and the phrase „Lust und Leid der Welt zu tragen“, indicating the burden of suffering. The stanza also contains clear emotion markers indicating JOY, such as the word „Freuden“, which means joys, and „Lust“, which means pleasure.
+
+5402: ANNOTATION: SADNESS#LOVE
+REASONING: The stanza contains clear emotion markers indicating SADNESS, such as the situation of being "verlassnen" (abandoned) and the behavior of "weinen" (crying). It also contains clear emotion markers indicating LOVE, such as the phrase "Zum Trost" (for comfort) and the behavior of "legte betend Hand in Hand" (praying hand in hand), which indicate affection and care.
+
+50: ANNOTATION: LOVE#JOY
+REASONING: The stanza contains clear emotion markers indicating LOVE, such as the intentions to "carry" and "lead" the beloved, and the expression of "last happiness" together. It also contains markers indicating JOY, particularly the imagery of forgetting loneliness and early sorrow, and the anticipation of leading the beloved to happiness with a "proud carriage".
+
+7800: ANNOTATION: AGITATION#LOVE
+REASONING: The stanza contains clear emotion markers indicating AGITATION, such as the word "Ha", which indicates excitement or surprise, and the behavior of thinking intensely about someone. It also contains clear emotion markers indicating LOVE, such as the admiration for the boy ("Ein prächt'ger Junge doch, der Hinz!") and the metaphor of him being a "verwunschner Prinz", which indicates a sense of longing and affection.
+
+5533: ANNOTATION: SADNESS
+REASONING: The stanza contains clear emotion markers indicating SADNESS, such as the word "weinte" (wept) and "trostlos" (desolate), as well as the behavior of staring into the darkness and the imagery of the light going out.
+
+3921: ANNOTATION: ANGER
+REASONING: The stanza contains clear emotion markers indicating ANGER, especially the verbs “rupfen”, “braten”, and “fressen”, which suggest violent and aggressive actions. Additionally, the phrase “was die Kerle fett gemacht, wollt' ich gern vergessen” indicates a strong dislike or contempt for the individuals being referred to.
+
+6454: ANNOTATION: SADNESS#JOY#AGITATION
+REASONING: The stanza contains clear emotion markers indicating SADNESS, such as "stillen Thränen" (silent tears) and "Wahn" (delusion). There are also markers for JOY, such as "Hoffnung" (hope) and "das Kleinod" (the gem), which indicate a sense of aspiration and fulfillment. Additionally, AGITATION is indicated by "Entsetzen" (dismay) and the questioning nature of the stanza, which reflects emotional turmoil and uncertainty.
+
+2692: ANNOTATION: SADNESS#FEAR
+REASONING: The stanza contains clear emotion markers indicating SADNESS, such as the metaphor of "Menschen sterben von mir ab wie Blüten" and the situation of flowers falling and dying. It also contains clear emotion markers indicating FEAR, particularly the words "erschrocken" (scared) and "ungewissen" (uncertain).
+
+47: ANNOTATION: LOVE#SADNESS
+REASONING: The stanza contains clear emotion markers indicating LOVE, such as the phrase "die alten lieben, guten Worte" and the overall tone of longing for shared memories. The stanza also contains clear emotion markers indicating SADNESS, particularly in the phrases "müden, lang erblaßten Leiden" which refer to past sufferings that still affect the heart.
+
+6195: ANNOTATION: ANGER
+REASONING: The stanza contains clear emotion markers indicating ANGER, especially the word "neidisch", which means envious. Envy is part of ANGER in the sense of the annotation.
+
+5543: ANNOTATION: ANGER
+REASONING: The stanza contains clear emotion markers indicating ANGER, such as the imperative call for "Krieg" (war) and "Rother Hahn, flieg'", which symbolizes destruction and aggression. The imagery of desolation ("Öd sei Scheuer, Hof und Stall!") also reinforces the theme of anger and hostility.
+
+4964: ANNOTATION: NONE
+REASONING: The stanza contains no clear emotion markers. While it describes a scene with wind, violin sounds, and water flowing through a dark forest, these descriptions do not explicitly indicate any of the six emotions. There are no single words, metaphors, situations, behaviors, or formal features suggesting a specific emotion.
+
+692: ANNOTATION: LOVE
+REASONING: The stanza contains clear emotion markers indicating LOVE, especially the mention of "deinen Augensternen" (your eye stars) and "eine süße Wahrheit" (a sweet truth). These elements express admiration and affection, which are part of LOVE in the sense of the annotation.
+
+2944: ANNOTATION: SADNESS#FEAR
+REASONING: The stanza contains clear emotion markers indicating SADNESS, such as the phrase "erstarrt durch's Leben," which suggests a sense of being frozen or paralyzed by sorrow. The stanza also contains clear emotion markers indicating FEAR, particularly the phrase "muß doch beben, Sobald Nachtdunkel durch die Wolken bricht," where "beben" (trembling) and "Nachtdunkel" (night darkness) breaking through the clouds indicate a sense of fear.
+
+0: ANNOTATION: NONE
+REASONING: The stanza contains no clear emotion markers according to the given guidelines.
+
+1386: ANNOTATION: SADNESS#AGITATION
+REASONING: The stanza contains clear emotion markers indicating SADNESS, such as the phrases "weinst du so" and "fernen verlorenen Töne," which suggest sorrow and loss. Additionally, the stanza contains markers indicating AGITATION, such as the behavior "meine Brust so lauten Schlag" and the mention of "Unruhige Stunde" in the preceding context, both of which suggest emotional turmoil.
+
+2201: ANNOTATION: JOY
+REASONING: The stanza contains clear emotion markers indicating JOY, such as the phrases "reich an Glück" (rich in happiness) and "reich an Erinnerungen" (rich in memories). These phrases suggest a sense of fulfillment and contentment, which are part of JOY in the sense of the annotation.
+
+4296: ANNOTATION: SADNESS
+REASONING: The stanza contains several clear emotion markers indicating SADNESS, such as the phrases "mit Gewalt erstickt" and "was mein Gemüt bewegte," which imply suppression of feelings and inner turmoil, and "der Widerspruch erregte," which indicates discomfort and internal conflict.
+
+3886: ANNOTATION: SADNESS#LOVE
+REASONING: The stanza contains clear emotion markers indicating SADNESS, such as "verrufen", "Unrat", "Skelette", and "fortgeworfen". These words and images suggest a sense of being discarded and unwanted, which aligns with emotions like powerlessness and sorrow. The stanza also contains clear emotion markers indicating LOVE, particularly in the phrases "Rosenkette" and "Talisman". These suggest a sense of admiration and protection, which aligns with emotions like love and affection.
+
+5332: ANNOTATION: SADNESS
+REASONING: The stanza contains clear emotion markers indicating SADNESS, especially the words “Nacht der Schmerzen”, which translates to "night of pain". This phrase suggests a situation typically associated with sorrow and discomfort, which are part of SADNESS.
+
+411: ANNOTATION: LOVE
+REASONING: The stanza contains clear emotion markers indicating LOVE, particularly the behaviors of "fliegt sie wie verloren" (flies to me as if lost) and "Ich will den Mund, bis er erbleiche, küssen" (I want to kiss the mouth until it turns pale), which indicate longing and affection. Additionally, the context of the poem and the use of "für mich nur, nur für mich geboren" (born only for me) emphasize a deep emotional connection and possessiveness, which falls under LOVE.
+
+346: ANNOTATION: FEAR
+REASONING: The stanza contains clear emotion markers indicating FEAR, such as the word "entsetzlich", which means frightful or terrible, and the situation of the rising flood and the imagery of the dangerous sea.
+

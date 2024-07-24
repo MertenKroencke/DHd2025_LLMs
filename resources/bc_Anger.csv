@@ -1,0 +1,2765 @@
+	DocName	Text	Agitation	Anger	Fear	Joy	Love	Sadness	Context	ID	label
+147	Der Wind Sallet, Friedrich von	"Der Wind
+Sallet, Friedrich von"	0.0	0.0	0.0	0.0	0.0	0.0	"Der Wind
+Sallet, Friedrich von"	l00200128	NONE
+1660	Aus der Heimath Schack, Adolf Friedrich von	"Hier ist es, wo ich als Kind gestreift
+Und die Beere gepflückt, die am Abgrund reift;
+Still war's, wie jetzt im Laube;
+Fernher nur hört' ich durch Ranken-Geflecht
+Die Schläge der Axt und den pickenden Specht
+Und das Girren der wilden Taube."	0.0	0.0	0.0	0.0	0.0	1.0	"Aus der Heimath
+Schack, Adolf Friedrich von Hier ist es, wo ich als Kind gestreift
+Und die Beere gepflückt, die am Abgrund reift;
+Still war's, wie jetzt im Laube;
+Fernher nur hört' ich durch Ranken-Geflecht
+Die Schläge der Axt und den pickenden Specht
+Und das Girren der wilden Taube."	l00200152	SADNESS
+1260	Einziger Ausweg Wegener, Rhingulf Eduard [alt. Wegener, Rhingulph Eduard]	"Ob alle Welt mir's auch verarge,
+Der Frühling ist mein schlimmster Feind,
+Und ob's auch Manchem drollig scheint,
+Ein Nagel ist er mir zum Sarge!
+Denn bin ich so für mich allein
+Und will mich aufs Studiren legen,
+Gleich tritt der Vagabonde ein
+Und spricht und protestirt dagegen."	0.0	1.0	0.0	0.0	0.0	0.0	"Einziger Ausweg
+Wegener, Rhingulf Eduard [alt. Wegener, Rhingulph Eduard] Ob alle Welt mir's auch verarge,
+Der Frühling ist mein schlimmster Feind,
+Und ob's auch Manchem drollig scheint,
+Ein Nagel ist er mir zum Sarge!
+Denn bin ich so für mich allein
+Und will mich aufs Studiren legen,
+Gleich tritt der Vagabonde ein
+Und spricht und protestirt dagegen."	l0080606	ANGER
+4184	Keim und Kind Ebert, Karl Egon von [alt. Ebert, Egon]	"Doch wenn ein holdes Kind ich sehe,
+Gewiegt von treuer Mutterhand,
+Halb ist's noch in des Himmels Nähe,
+Noch Gast und Fremdling unser'm Land,
+Ein tief Geheimniß dieser Erden,
+Das erst die Zukunft einst erklärt,
+Ein Räthsel, eine Welt im Werden,
+Die im Gestaltungskampfe gährt —
+Wenn ich es seh', ein solches Wesen,
+Da faßt ein Sturm mich von Gefühl,
+In seinen Zügen möcht' ich lesen,
+Was einst sein Loos im Weltgewühl;
+Wird's glücklich sein, wird's Glück gewähren?
+Das Aug', das jetzt so selig wacht,
+Wird's nicht, erfüllt von bittern Zähren,
+Durchwachen manche lange Nacht?
+Das Kind, wenn Mann einst, wird es wirken
+Für's Heil der Menschheit ernst und kühn,
+Wird's, wenn es Weib, in den Bezirken
+Des engern Hauses freudig blüh'n?
+Wird's nicht vielleicht die Welt erschüttern,
+Vielleicht vergessen untergeh'n?
+Wird man es lieben, vor ihm zittern,
+Wird auch ein Herz sein Herz versteh'n?"	1.0	0.0	1.0	1.0	1.0	1.0	"Keim und Kind
+Ebert, Karl Egon von [alt. Ebert, Egon] Wenn ich den kleinen Keim betrachte,
+Aus dem einst frisch die Pflanze dringt,
+Aus dem, wenn Lebensgluth erwachte,
+Die bunte Blume sich entschwingt,
+Aus dem ein Heilkraut sich entfaltet,
+Aus dem ein Fruchtbaum sich erhebt,
+Aus dem die Eiche sich gestaltet,
+Die riesig auf gen Himmel strebt:
+Dann tief im innersten Gemüthe
+Bestaun' ich still die hohe Kraft,
+Die Frucht erweckt aus Keim und Blüthe,
+Im Kleinsten wirkt und Größtes schafft;
+Und allen Keimen wünsch' ich Segen,
+Und guten Grund in Feld und Au',
+Und Sonnenschein und milden Regen,
+Und warme Nächt' und kühlen Thau. Doch wenn ein holdes Kind ich sehe,
+Gewiegt von treuer Mutterhand,
+Halb ist's noch in des Himmels Nähe,
+Noch Gast und Fremdling unser'm Land,
+Ein tief Geheimniß dieser Erden,
+Das erst die Zukunft einst erklärt,
+Ein Räthsel, eine Welt im Werden,
+Die im Gestaltungskampfe gährt —
+Wenn ich es seh', ein solches Wesen,
+Da faßt ein Sturm mich von Gefühl,
+In seinen Zügen möcht' ich lesen,
+Was einst sein Loos im Weltgewühl;
+Wird's glücklich sein, wird's Glück gewähren?
+Das Aug', das jetzt so selig wacht,
+Wird's nicht, erfüllt von bittern Zähren,
+Durchwachen manche lange Nacht?
+Das Kind, wenn Mann einst, wird es wirken
+Für's Heil der Menschheit ernst und kühn,
+Wird's, wenn es Weib, in den Bezirken
+Des engern Hauses freudig blüh'n?
+Wird's nicht vielleicht die Welt erschüttern,
+Vielleicht vergessen untergeh'n?
+Wird man es lieben, vor ihm zittern,
+Wird auch ein Herz sein Herz versteh'n?"	l0080118	AGITATION#FEAR#JOY#LOVE#SADNESS
+6799	SO SCHNEIT AUF MICH DIE TOTE ZEIT ALBERT EHRENSTEIN l00300025	"So schneit auf mich die tote Zeit.
+Danklos trinkt sie den Wein, und was sich beut,
+Mein Sehnen darf erlahmen;
+Sie wahrt, um Fleisch besorgt, mit plötzlich keuscher Eile
+Des Anstands lange Langeweile.
+: Weib wird Zeit."	0.0	1.0	0.0	0.0	1.0	1.0	"SO SCHNEIT AUF MICH DIE TOTE ZEIT Hofft nichts von mir.
+Ich habe niemals Sonne gehabt,
+Ich habe den Steinen mein Leid gebracht.
+Ich hoffte Glück vom Tier. An mir vorüber sprang der Wunsch der rasselosen Dirnen,
+Und nie klang mir das deutsche Wort: ich liebe dich!
+Sie recken dem Kommis die grundlos eiteln Stirnen,
+Boshaft gähnt mich das Weib an: ich betrübe dich. So schneit auf mich die tote Zeit.
+Danklos trinkt sie den Wein, und was sich beut,
+Mein Sehnen darf erlahmen;
+Sie wahrt, um Fleisch besorgt, mit plötzlich keuscher Eile
+Des Anstands lange Langeweile.
+: Weib wird Zeit."	l00300025	ANGER#LOVE#SADNESS
+52	Lieder an Liane Hoechstetter, Sophie	"Nacht ist um uns, die bange
+Lautlos sinkende Nacht —
+Sie hat nach verblassendem Leide
+Erlöstes Sehnen gebracht.
+Greift dir ihr Schweigen an dein Herz?
+Zieht es dich leise erdenwärts — —
+Am Himmel — fern
+Löst sich ein blasser Funken,
+Ein Augenblick
+Er ist im All versunken.
+Ein Wunsch flammt auf,
+Ein Wunsch — so heiß,
+Ein Wunsch, der letzter Liebe Preis.
+In deine Arme laß mich sinken,
+In deiner Liebe laß mich ertrinken,
+Gib mir doch ganz,
+Gib mir den Glanz
+Von Erdenglück:
+Unser letztes Geschick — —
+Nicht fort —
+Komm — kein Wort,
+Kein Wort durchbreche die Stille."	1.0	0.0	1.0	1.0	1.0	1.0	"Du sollst an meiner Mutter stillem Herd
+Die alten lieben, guten Worte hören,
+Die alten Worte, die das Herz betören:
+Von Heimatglück, von fernen Zeiten,
+Von müden, lang erblaßten Leiden,
+Die uns noch rühren. Du sollst in meiner Mutter Gartenland
+Die kleinen, bunten Blumen pflücken,
+Die überfallend nach dem Steig sich bücken,
+Die roten Rosen, die dort einsam blühen
+Und erglühen
+Für dich allein. Du sollst in meiner Mutter altem Haus
+Die Liebe nehmen, die ich holen will
+Aus meiner Seele Tiefe und dir still
+Zu Füßen legen, bis der letzte Tag
+Uns kommen mag
+In diesem Leben. Du sollst in meiner Mutter Heimatdorf
+Die Einsamkeit und frühes Leid vergessen
+Und allen Kummer, den du je ermessen —
+Weil ich dich führen will und lächelnd tragen
+Mit stolzem Wagen
+Zu unserm letzten Glück. Du sollst in meiner Mutter Hochzeitskleid
+Von weicher, weißer, weiter Schimmerseide,
+Die ein Symbol der Freude für uns beide,
+Das liebe gute Wort mir geben,
+Das mein Leben
+Mit dir vereint. Nacht ist um uns, die bange
+Lautlos sinkende Nacht —
+Sie hat nach verblassendem Leide
+Erlöstes Sehnen gebracht.
+Greift dir ihr Schweigen an dein Herz?
+Zieht es dich leise erdenwärts — —
+Am Himmel — fern
+Löst sich ein blasser Funken,
+Ein Augenblick
+Er ist im All versunken.
+Ein Wunsch flammt auf,
+Ein Wunsch — so heiß,
+Ein Wunsch, der letzter Liebe Preis.
+In deine Arme laß mich sinken,
+In deiner Liebe laß mich ertrinken,
+Gib mir doch ganz,
+Gib mir den Glanz
+Von Erdenglück:
+Unser letztes Geschick — —
+Nicht fort —
+Komm — kein Wort,
+Kein Wort durchbreche die Stille."	l00140053	AGITATION#FEAR#JOY#LOVE#SADNESS
+1018	Ver sacrum Schoenaich-Carolath, Prinz Emil von [alt. Schönaich-Carolath, Prinz Emil von; Schoenaich-Carolath, Emil zu]	"Das mahnt mich an sündige Städte
+Voll Lichtgewirr und Samt,
+Wo reich aus goldnem Geräte
+Der Weihrauch der Luft geflammt."	0.0	0.0	0.0	1.0	0.0	0.0	"Ver sacrum
+Schoenaich-Carolath, Prinz Emil von [alt. Schönaich-Carolath, Prinz Emil von; Schoenaich-Carolath, Emil zu] Wir saßen am Strande der Syrten,
+Es rollte und grollte das Meer,
+Ein Duft von Narden und Myrten
+Zog tief aus Süden her. Die Wellen brausen und funkeln,
+Doch bäumt sich mein Herz vor Weh,
+Wenn ich das große Verdunkeln
+Unsres Lebens seh'. Wir haben die weißen Paläste
+Der Träume hochgetürmt,
+Wir haben, zwei jubelnde Gäste,
+Den Himmel des Glücks erstürmt. Das mahnt mich an sündige Städte
+Voll Lichtgewirr und Samt,
+Wo reich aus goldnem Geräte
+Der Weihrauch der Luft geflammt."	l0030380	JOY
+4507	Die Todeswürfel Hoffnaaß, Franziska von	"„Ach Vater mein, bist wieder grimmig und wild.
+Was Heinrich! auch Ralph bin ich gut!
+Schmied ruhig deine Waffen und stähle den Schild,
+Dein Röschen ist wohl auf der Hut.
+Das bißchen Geplauder am Brunnenstein
+Kann doch wahrhaft nicht Sünde sein!“"	0.0	1.0	0.0	0.0	0.0	0.0	"Die Todeswürfel
+Hoffnaaß, Franziska von „O Mädchen, hüte dein Augenpaar
+Und halte dein Zünglein im Zaum;
+Bist rosig und fein, hast lockiges Haar,
+Doch Jugend flieht rasch wie ein Traum.
+Mein Röschen, setz deinen Stolz zur Wehr,
+Du guckst mir nach Heinrich zu sehr!“ — „Ach Vater mein, bist wieder grimmig und wild.
+Was Heinrich! auch Ralph bin ich gut!
+Schmied ruhig deine Waffen und stähle den Schild,
+Dein Röschen ist wohl auf der Hut.
+Das bißchen Geplauder am Brunnenstein
+Kann doch wahrhaft nicht Sünde sein!“"	l00130422	ANGER
+4519	Die Todeswürfel Hoffnaaß, Franziska von	"Und aller Blicke fest an Heinrich hangen,
+Der steht, die Hand zum Wurfe hoch gehalten.
+Und als die Würfel knatternd niedersprangen,
+Hat sich der eine jäh entzwei gespalten.
+„Sechs — eins — und sechs! so steht es auf drei Steinen.“
+Viel hundert Stimmen in Verwundrung brechen ...
+Doch Ralph, von Schreck erfaßt, schreit auf mit Weinen:
+„Aus Eifersucht beging ich das Verbrechen!“
+Der Kurfürst blickt zum Himmel tief betroffen,
+Und alles Volk mit ihm die Hände faltet:
+„Du machst zu Schanden nicht, die auf dich hoffen;
+Du bist der Gott, der als Gerechter waltet.“"	0.0	1.0	1.0	0.0	0.0	1.0	"Der strenge Kurfürst sitzt im Richtersaale,
+Von allen Würdenträgern ernst umgeben.
+Zwei Würfel liegen in der Marmorschale
+Bereit, das Gottesurteil kund zu geben. Bei denen, so zunächst am Throne standen,
+War Walter auch, der Waffenschmied. Wie wanken
+Die Kniee ihm, da er in Eisenbanden
+Die „Zwei“ geführt sieht vor die Richterschranken. Des Fürsten Auge prüfet rings die Hallen:
+„Wer“, spricht er scharf nach kurzem Sinnen,
+„Die kleinste Zahl wirft, ist dem Tod verfallen,
+So will es Gott ... und Ralph hat zu beginnen.“ Dem zuckt es hämisch um den Mund. Mit Lachen
+Nimmt er die Würfel — schüttelt — wirft sie nieder:
+„Zwei Sechsen! Ha! wer könnt' es besser machen?“
+Doch böses Murmeln grollt da hin und wieder. Nun kommt die Reih an Heinrich. Tiefe Stille.
+Er knieet zum Gebet: „Mein Gott! durchschauen
+Kannst du mein schuldlos Herz! Jedoch dein Wille
+Gescheh', in dich nur setz' ich mein Vertrauen!“ Und aller Blicke fest an Heinrich hangen,
+Der steht, die Hand zum Wurfe hoch gehalten.
+Und als die Würfel knatternd niedersprangen,
+Hat sich der eine jäh entzwei gespalten.
+„Sechs — eins — und sechs! so steht es auf drei Steinen.“
+Viel hundert Stimmen in Verwundrung brechen ...
+Doch Ralph, von Schreck erfaßt, schreit auf mit Weinen:
+„Aus Eifersucht beging ich das Verbrechen!“
+Der Kurfürst blickt zum Himmel tief betroffen,
+Und alles Volk mit ihm die Hände faltet:
+„Du machst zu Schanden nicht, die auf dich hoffen;
+Du bist der Gott, der als Gerechter waltet.“"	l00130422	ANGER#FEAR#SADNESS
+6979	Das letzte Lied Lindner, Anton l00170152	"Im bleichen Lichte krümmt sich die Chaussee
+So müde zwischen weißen Meilensteinen,
+In Pappelkronen flüstert Winterweh..
+Und bei dem Teiche, wo die Weiden weinen,
+Zittert ein Sensenlied, zittert und stirbt."	0.0	0.0	0.0	0.0	0.0	1.0	"Das letzte Lied
+Lindner, Anton Die Sonne schläft, der Sommer geht zur Ruh,
+Schon schwätzt der Kieselbach, die Räder rauschen;
+Die Sehnsucht schließt die großen Augen zu,
+Schläft lächelnd ein.. Dort, wo die Wälder lauschen,
+Zittert ein Sensenlied, zittert und stirbt. Im bleichen Lichte krümmt sich die Chaussee
+So müde zwischen weißen Meilensteinen,
+In Pappelkronen flüstert Winterweh..
+Und bei dem Teiche, wo die Weiden weinen,
+Zittert ein Sensenlied, zittert und stirbt."	l00170152	SADNESS
+762	Frisch gelebt! Banck, Otto l0080020	"Nehmt das Gute für was Gut's,
+Laßt die kleinen Sorgen,
+Heute schaffend frohen Muth's
+Bringt ein glücklich Morgen!"	0.0	0.0	0.0	1.0	0.0	1.0	"Frisch gelebt!
+Banck, Otto Soll des Lebens Tragkraft sich
+Wirkungsreich entwickeln,
+Darf sie nicht so zaghaft sich
+Stimmungsweich zerstückeln! Mög' auch droh'n euch mancher Feind,
+Glaubet mir, es macht sich,
+Wer sich selbst behält zum Freund,
+Hat gar wohl bedacht sich! Euer offnes Auge sei
+Offner Seele Fenster,
+Blickt ihr um euch fest und frei,
+Seht ihr nie Gespenster! Nehmt das Gute für was Gut's,
+Laßt die kleinen Sorgen,
+Heute schaffend frohen Muth's
+Bringt ein glücklich Morgen!"	l0080020	JOY#SADNESS
+3281	Ich möchte heim Gerok, Carl	"Ich möchte heim
+Gerok, Carl"	0.0	0.0	0.0	0.0	0.0	0.0	"Ich möchte heim
+Gerok, Carl"	l00200143	NONE
+5684	Puppentanz Preuschen-Telmann, Hermine von	"Doch wüst und wüster ward die tolle Weise —
+Und plötzlich schien sie meinem wunden Hirn
+Im ungeheuren Puppenspiel der Welt
+Des Lebenstanzes Leitmotiv zu sein,
+Nach dessen Klängen athemlos auch ich,
+Wie all' die andern Puppen, rastlos kreiste
+Und zuckte an den Drähten des Geschicks!"	0.0	1.0	0.0	0.0	0.0	0.0	"Puppentanz
+Preuschen-Telmann, Hermine von Ich lag zu Bett, nicht eben ernstlich krank,
+Doch lag ich einsam in der großen Stadt
+Und träumt' und sann und dachte, dachte, dachte.
+Ein schwüler, trüber Junitag. Vom Fenster
+Tönt' aus dem Hinterhof nur Kinderlachen.
+Dann drang's an's Ohr mit hartem, grellem Klang,
+Ein Leierkasten drunten in der Tiefe,
+Affen und Puppen drum in buntem Tanz.
+Wie falsch und laut die schrille Melodie
+In's Ohr mir tönte und der Kinderjubel
+Schneidend dazwischen in die Seele griff. Doch wüst und wüster ward die tolle Weise —
+Und plötzlich schien sie meinem wunden Hirn
+Im ungeheuren Puppenspiel der Welt
+Des Lebenstanzes Leitmotiv zu sein,
+Nach dessen Klängen athemlos auch ich,
+Wie all' die andern Puppen, rastlos kreiste
+Und zuckte an den Drähten des Geschicks!"	l0090082	ANGER
+1726	Die einsame Tanne Kaufmann, Alexander l00130182	"Die Tanne hört von allem nichts,
+Sie sieht die Au'n sich weiten,
+Sie schaut der Wälder wogend Meer
+Sich über die Lande breiten."	0.0	1.0	0.0	0.0	0.0	0.0	"Die einsame Tanne
+Kaufmann, Alexander Die Tanne ragt so hoch und stolz —
+Die Sträucher kichern und schwätzen,
+Sie haben am stolzen Tannenbaum
+Gar vieles auszusetzen. Die Tanne hört von allem nichts,
+Sie sieht die Au'n sich weiten,
+Sie schaut der Wälder wogend Meer
+Sich über die Lande breiten."	l00130182	ANGER
+5543	Bauernkrieg Lingg, Hermann l0080330	"Krieg denn, Krieg!
+Rother Hahn, flieg'!
+Flieg' über die Schlösser all'!
+Schwing' die Flügel und krähe!
+Niemand ackre, Niemand säe,
+Öd sei Scheuer, Hof und Stall!"	0.0	1.0	0.0	0.0	0.0	0.0	"Bauernkrieg
+Lingg, Hermann Acht und Bann
+Über den Bauersmann
+Sprachen die Herrn im Land herum,
+Schickten zu allen Burgen und Höfen,
+Allen Fürsten und Bischöfen
+Ihr blutig Evangelium. Krieg denn, Krieg!
+Rother Hahn, flieg'!
+Flieg' über die Schlösser all'!
+Schwing' die Flügel und krähe!
+Niemand ackre, Niemand säe,
+Öd sei Scheuer, Hof und Stall!"	l0080330	ANGER
+2283	Erfüllung Klopsch, Emanuel	"Was ich ersehnt, gab diese Stunde,
+Die Hoffnung schweigt, sie ist erfüllt;
+Auf meiner Seele stillem Grunde
+Ruht ewig mir dein süßes Bild.
+Leis' naht der Schlaf in lichten Kreisen,
+Umwandelt meine Stirn der Traum;
+O tönt, tönt fort, ihr holden Weisen,
+Entrückt der Zeit mich und dem Raum!"	0.0	0.0	0.0	1.0	1.0	0.0	"Erfüllung
+Klopsch, Emanuel Nun hab' ich alle Gunst errungen,
+Die für mein Leben ich erfleht:
+Du ruhst von meinem Arm umschlungen,
+Von meiner Liebe Hauch durchweht;
+Es kommt ein seliges Ermatten,
+Ein göttlich Ruhen über mich —
+So stillet mit des Abends Schatten
+Des Meers gewalt'ge Brandung sich! Was ich ersehnt, gab diese Stunde,
+Die Hoffnung schweigt, sie ist erfüllt;
+Auf meiner Seele stillem Grunde
+Ruht ewig mir dein süßes Bild.
+Leis' naht der Schlaf in lichten Kreisen,
+Umwandelt meine Stirn der Traum;
+O tönt, tönt fort, ihr holden Weisen,
+Entrückt der Zeit mich und dem Raum!"	l0020097	JOY#LOVE
+7705	Wie die Nachtigallen an den Rosen nippen Bodenstedt, Friedrich l00200206	"Wie die Meereswellen an den Felsenklippen,
+— Wenn das sturmbewegte Meer in Wuth ist —
+Breche schäumend sich der Wein an unsern Lippen,
+— Wir sind klug und wissen, daß es gut ist! —"	0.0	1.0	0.0	0.0	0.0	0.0	"Wie die Nachtigallen an den Rosen nippen
+Bodenstedt, Friedrich Wie die Nachtigallen an den Rosen nippen,
+— Sie sind klug und wissen, daß es gut ist! —
+Netzen wir am Weine unsre losen Lippen,
+— Wir sind klug und wissen, daß es gut ist! — Wie die Meereswellen an den Felsenklippen,
+— Wenn das sturmbewegte Meer in Wuth ist —
+Breche schäumend sich der Wein an unsern Lippen,
+— Wir sind klug und wissen, daß es gut ist! —"	l00200206	ANGER
+2840	Wer keinen Frühling hat Prechtler, Otto	"Wer keinen Frühling hat, dem blüht er nicht,
+Wer schweigt, dem tönt kein Echo hier auf Erden,
+Weß Herz nicht dichtet, der faßt kein Gedicht,
+Und wer nicht liebt, dem wird nicht Liebe werden."	1.0	0.0	0.0	0.0	1.0	0.0	"Wer keinen Frühling hat
+Prechtler, Otto Wer keinen Frühling hat, dem blüht er nicht,
+Wer schweigt, dem tönt kein Echo hier auf Erden,
+Weß Herz nicht dichtet, der faßt kein Gedicht,
+Und wer nicht liebt, dem wird nicht Liebe werden."	l0080391	AGITATION#LOVE
+7915	Der Weltumstürzer Hoffmann, Heinrich [Pseud. Fallersleben, Hoffmann von]	"Heil dem Herzen, das da strebt
+Die Sünde zu fliehn und zu hassen,
+Und allem, was in Freude lebt,
+Auch seine Freude zu lassen!"	0.0	1.0	0.0	1.0	0.0	0.0	"Der Weltumstürzer
+Hoffmann, Heinrich [Pseud. Fallersleben, Hoffmann von] Ich liebe den Sang, ich liebe den Wein,
+Den Frühling mit seinen Rosen,
+Ich liebe die blühenden Mägdelein
+Mit ihrem Lächeln und Kosen.
+Ich möchte verbannen die Sorg' und das Leid
+Und jegliche trübe Stunde,
+Daß heimisch nur würde die Heiterkeit
+Auf diesem Erdenrunde. Heil dem Herzen, das da strebt
+Die Sünde zu fliehn und zu hassen,
+Und allem, was in Freude lebt,
+Auch seine Freude zu lassen!"	l0080267	ANGER#JOY
+1569	Von denen vier Temperamentis Hoffmann, Heinrich [Pseud. Fallersleben, Hoffmann von; alt. Fallersleben, August Heinrich Hoffmann von]	"Dann werd' ich ein Cholericus,
+Daß jeder drob erschrecken muß:
+Ich tob', ich lärm', ich fluch' ohn' End'
+Potztausendhimmelsapperment!
+Hab' einen frischen freien Muth,
+Biet' an mein Gut und junges Blut,
+Will ziehn weit über Land und Meer,
+Wenn's gilt für deutsches Volk und Ehr'."	0.0	1.0	1.0	0.0	0.0	0.0	"Von denen vier Temperamentis
+Hoffmann, Heinrich Ich bin ein Melancholicus,
+Bin immer ernst und voll Verdruß:
+Die Welt dünkt mich ein wüstes Haus
+Voll Sorg' und Noth und Gram und Graus;
+Hab' weder Lust an Tanz noch Spiel,
+Des Zechens acht' ich auch nit viel;
+Ich esse nur, ich trinke nur,
+Weil's haben will menschlich Natur. Drauf werd' ich ein Sanguinicus,
+Der Alles, Alles lieben muß;
+Die rosinfarben Wängelein,
+Die ehr' ich mehr denn Gold und Wein.
+Ich pfeif' und hüpf', ich sing' und tanz',
+Ich seh', daß ich behalt' die Schanz';
+Und mach' allzeit ein froh Gesicht
+Und zaudre bei dem Trunke nicht. Dann werd' ich ein Cholericus,
+Daß jeder drob erschrecken muß:
+Ich tob', ich lärm', ich fluch' ohn' End'
+Potztausendhimmelsapperment!
+Hab' einen frischen freien Muth,
+Biet' an mein Gut und junges Blut,
+Will ziehn weit über Land und Meer,
+Wenn's gilt für deutsches Volk und Ehr'."	l00200072	ANGER#FEAR
+2033	Menschenopfer Lemmermayer, Fritz	"Das alte blut'ge Opfer du
+Unblutig hast erneuert:
+Das Schicksal opfert blutig fort —
+Kein Gott, kein Gott ihm steuert!"	0.0	1.0	0.0	0.0	0.0	0.0	"Man sagt, die Jugend selbst sei Glück.
+Ich hab' es nicht erfahren.
+Mir waren niemals hold gesinnt
+Die dachnistenden Laren. Mir fehlte, was die Jugend braucht,
+Des Frohsinns Wohlbehagen;
+Des Kummers bleiche Wange schon
+Als Kind ich mußte tragen. Die Rebe, die kein Stäblein hat,
+Muß bald zu Grunde gehen;
+Ich war die Rebe, ward zerwühlt
+In wilden Sturmes Wehen. Nach dir, nach dir, mein Jesu Christ,
+Ich jugendlich mich sehnte;
+Das grause Schicksal mich und dich
+Frevelnd und frech verhöhnte. Der Pöbelhaß, der Pöbelwahn
+Hat dich an's Kreuz geschlagen;
+Das Schicksal thut das Gleiche noch
+Mit uns an allen Tagen. Das alte blut'ge Opfer du
+Unblutig hast erneuert:
+Das Schicksal opfert blutig fort —
+Kein Gott, kein Gott ihm steuert!"	l0070065	ANGER
+3553	Die Heimath Hölderlin, Friedrich	"Am kühlen Bache, wo ich der Wellen Spiel,
+Am Strome, wo ich gleiten die Schiffe sah,
+Dort bin ich bald; euch, traute Berge,
+Die mich behüteten einst, der Heimath"	0.0	0.0	0.0	0.0	0.0	1.0	"Die Heimath
+Hölderlin, Friedrich Froh kehrt der Schiffer heim an den stillen Strom,
+Von Inseln fernher, wenn er geerntet hat;
+So käm' auch ich zur Heimath, hätt' ich
+Güter so viele, wie Leid geerntet. Ihr theuern Ufer, die mich erzogen einst,
+Stillt ihr der Liebe Leiden, versprecht ihr mir,
+Ihr Wälder meiner Jugend, wenn ich
+Komme, die Ruhe noch einmal wieder? Am kühlen Bache, wo ich der Wellen Spiel,
+Am Strome, wo ich gleiten die Schiffe sah,
+Dort bin ich bald; euch, traute Berge,
+Die mich behüteten einst, der Heimath"	l00200006	SADNESS
+4498	Die Mittelmässigen Seidel, Heinrich	"Die Musik ist heutzutage
+Wohl der Menschheit grösste Plage:
+Schauervolles wird erreicht,
+Wenn der Mensch die Geige streicht
+Oder um die Abendröte
+Zwecklos bläst auf einer Flöte;
+Und ich hege die Vermutung,
+Dass auch der Posaune Tutung
+Manchem wohl bei Tag und Nacht
+Keine grosse Freude macht.
+Dieser schlägt mit viel Gebimbel
+Grausamlich das Klavezimbel,
+Jener aber, gnadenlos,
+Kneift das Cello — Gott ist gross!
+Seine Langmut ist unendlich,
+Treibts der Mensch auch noch so schändlich!"	0.0	1.0	0.0	0.0	0.0	0.0	"Die Mittelmässigen
+Seidel, Heinrich Die Musik ist heutzutage
+Wohl der Menschheit grösste Plage:
+Schauervolles wird erreicht,
+Wenn der Mensch die Geige streicht
+Oder um die Abendröte
+Zwecklos bläst auf einer Flöte;
+Und ich hege die Vermutung,
+Dass auch der Posaune Tutung
+Manchem wohl bei Tag und Nacht
+Keine grosse Freude macht.
+Dieser schlägt mit viel Gebimbel
+Grausamlich das Klavezimbel,
+Jener aber, gnadenlos,
+Kneift das Cello — Gott ist gross!
+Seine Langmut ist unendlich,
+Treibts der Mensch auch noch so schändlich!"	l0050011	ANGER
+7333	Der Sausewind Naaff, Anton August	"Es hat in stiller Mitternacht
+Mein Fensterlein geklirrt,
+Wer ist's, wer ist's, den's in der Nacht
+Zu meiner Kammer führt?
+Du Sausewind, du Brausewind,
+Ich hör' und kenn' dich schon; —
+Mach' mir mein armes Herz nicht schwer,
+Geschwind — mach' dich davon.
+Der Sausewind, der Brausewind,
+Er hat dazu gelacht,
+Und selber sich das Fensterlein
+Zur Kammer aufgemacht.
+Viel Liebes hat er mir gesagt,
+Ich konnt' nicht böse sein,
+Mir ward glühheiß und bang dabei
+In meinem Kämmerlein.
+Frühmorgens, als die Hähne schon
+Im ganzen Dorf gekräht,
+Da ist er durch das Fensterlein —
+Weit — weit davon geweht.
+Der Sausewind, der Brausewind,
+Er war bei mir zur Nacht,
+Er hat mich armes, armes Ding
+Um alle Ruh' gebracht!
+Und wenn in stiller, stiller Nacht
+Mein Fenster manchmal klirrt,
+Da wein' ich: Ach, du Sausewind,
+Wohin hat's dich geführt?"	0.0	1.0	0.0	1.0	1.0	1.0	"Der Sausewind
+Naaff, Anton August Es hat in stiller Mitternacht
+Mein Fensterlein geklirrt,
+Wer ist's, wer ist's, den's in der Nacht
+Zu meiner Kammer führt?
+Du Sausewind, du Brausewind,
+Ich hör' und kenn' dich schon; —
+Mach' mir mein armes Herz nicht schwer,
+Geschwind — mach' dich davon.
+Der Sausewind, der Brausewind,
+Er hat dazu gelacht,
+Und selber sich das Fensterlein
+Zur Kammer aufgemacht.
+Viel Liebes hat er mir gesagt,
+Ich konnt' nicht böse sein,
+Mir ward glühheiß und bang dabei
+In meinem Kämmerlein.
+Frühmorgens, als die Hähne schon
+Im ganzen Dorf gekräht,
+Da ist er durch das Fensterlein —
+Weit — weit davon geweht.
+Der Sausewind, der Brausewind,
+Er war bei mir zur Nacht,
+Er hat mich armes, armes Ding
+Um alle Ruh' gebracht!
+Und wenn in stiller, stiller Nacht
+Mein Fenster manchmal klirrt,
+Da wein' ich: Ach, du Sausewind,
+Wohin hat's dich geführt?"	l0010161	ANGER#JOY#LOVE#SADNESS
+7911	Eglantine Leuthold, Heinrich	"Ich grüss' dich, du trotzig, schwarzäugig Kind!
+Du liebst die Liebe, ich liebe den Schmerz;
+Mein Sinn ist wie der brausende Wind,
+Eine wilde Rose sei dein Herz. —
+Drin lodre die Liebe, drin laure der Zorn,
+Einen Kuss, einen Kuss mir gieb!
+Eine wilde Rose sei unsere Lieb
+Mit scharfem Dorn!"	0.0	1.0	0.0	0.0	1.0	1.0	"Eglantine
+Leuthold, Heinrich Wie der Sturmwind, der über die Haide pfeift
+Ohne Rast, ohne Ruh, ohne sichere Statt,
+So mein heisser Sinn über die Erde schweift,
+So mein Herz, das keinen Freund, keine Heimath hat;
+Die sanfte blaue Blume im wogenden Korn,
+Die zahme Blume ist nicht für mich —
+Eine wilde Rose lieb' ich
+Mit scharfem Dorn. Ich grüss' dich, du trotzig, schwarzäugig Kind!
+Du liebst die Liebe, ich liebe den Schmerz;
+Mein Sinn ist wie der brausende Wind,
+Eine wilde Rose sei dein Herz. —
+Drin lodre die Liebe, drin laure der Zorn,
+Einen Kuss, einen Kuss mir gieb!
+Eine wilde Rose sei unsere Lieb
+Mit scharfem Dorn!"	l00160188	ANGER#LOVE#SADNESS
+5915	DER POLITISCHE DICHTER WALTER HASENCLEVER l00300184	"Jünglinge stehn in Universitäten
+Und Söhne auf, die ihre Väter hassen.
+Der Schuß geht los. In ausgedörrten Städten
+Minister nicht mehr an den Tafeln prassen."	0.0	1.0	0.0	0.0	0.0	0.0	"Ihr Freiheitskämpfer, werdet Freiheitsrichter,
+Bevor die Falschen euer Werk verraten.
+Von Firmamenten steigt der neue Dichter
+Herab zu irdischen und größern Taten. In seinem Auge, das den Morgen wittert,
+Verliert die Nacht das Chaos der Umhüllung.
+Die Muse flieht. Von seinem Geist umzittert
+Baut sich die Erde auf und wird Erfüllung. Sie reißt von ihrem Schild die alten Thesen,
+Die Majorate listig sich vermachen.
+Prärieen tragen Brot für alle Wesen,
+Denn alle Früchte reifen auch den Schwachen. Nicht in dem Schatten stählerner Emphoren
+Erglühen Trusts, die ihre Beute jagen:
+Ihr Präsidenten, eilt und seid geboren,
+Den tausendköpfigen Moloch zu erschlagen! Die Macht zerfällt. Wir werden uns vereinen.
+Wir, schaukelnd auf atlantischen Transporten,
+Auswandrer, denen Heimatwolken scheinen.
+Europa naht. Es sinken Eisenpforten. Jünglinge stehn in Universitäten
+Und Söhne auf, die ihre Väter hassen.
+Der Schuß geht los. In ausgedörrten Städten
+Minister nicht mehr an den Tafeln prassen."	l00300184	ANGER
+3417	Unterwegs Semmig, Hermann	"„Ich war dabei; ein Knabe von neun Jahren,
+Kämpft' ich ein Mann in jenen Heldenscharen.
+Heiß brütete der Julisonne Glut,
+Doch heißer kochte noch in uns das Blut.
+Die Veste fiel; was wird, was muß nicht fallen,
+Wenn einig sich ein Volk zum Kampf erbebt!
+Wie alles kam, bekannt ist es euch Allen;
+Doch höret weiter, was ich da erlebt.
+Wildflutend stürzte zügellos die Menge
+Sich durch die Höfe, Treppen, Keller, Gänge;
+Die Opfer suchten wir der Tyrannei,
+Und jubelnd riefen wir: Frei seid ihr, frei!
+Aus einem Kerker aber stieg ein Greis,
+Verwelkt sein Antlitz und das Haar schneeweiß.
+Er starrt' uns an, es war ihm wie ein Traum;
+Ans Geh'n längst nicht gewöhnt, vermochten kaum
+Die Füße seines Leibes Last zu tragen.
+Doch nannt' er Straß' und Haus auf unser Fragen
+Nach seiner Wohnung, die nun funfzig Jahre,
+Fluch den Tyrannen! er nicht mehr gesehn,
+Und Männer trugen ihn auf einer Bahre;
+Wie ein Triumphzug war es anzusehn.
+Wir kamen an; man öffnete, man frug,
+Maß dann mit kalt neugierig fremden Blicken
+Den Alten, den man auf der Bahre trug,
+Und schüttelte den Kopf. Mit festem Nicken
+Bestätigte jedoch der mürbe Greis,
+Was er verwirrt fast selbst bezweifelt hätte:
+'Ja wohl, hier ist's, ich weiß doch, was ich weiß;
+Dies ist mein Haus und meine Heimatsstätte.
+Wo ist denn meine Frau?' — Noch Viele kamen,
+Doch nicht ein Einz'ger kannte ihren Namen;
+Man sprach wol was von einer jungen Frau,
+Die plötzlich, als verhaftet ward ihr Gatte,
+Der Schmerz aufs Todtenbett geworfen hatte,
+Doch wußte Niemand mehr etwas genau.
+Dreimal schon war das Haus verkauft indessen
+Und wem es sonst gehörte längst vergessen.
+Wir fragten in der Nachbarschaft umher,
+Umsonst! es kannt' ihn Niemand, Niemand mehr.
+Hinstarben seine Freunde Jahr um Jahr,
+Indeß er lebend wie begraben war;
+Zwei Menschenalter schlossen ihre Reih'n,
+Und als er wiederkam, stand er allein.
+Da brach aus seiner Brust ein stöhnend Ach,
+Und aus den Augen ihm ein Thränenbach.
+So stand er in sich schmerzgebrochen da,
+Indeß die bleiche Menge auf ihn sah.
+Dann zuckt' er wie in Wuth, wie krampfhaft rafft'
+Er sich empor: 'Was steht ihr da und gafft?
+Fluch eurer Freiheit, die mein Bett mir nahm,
+Die in die Wüste mich zu stoßen kam!
+Mein Kerker war mein einziges Asyl;
+Wo ich daheim, bin ich wie im Exil.
+Dort war doch eine Spinne mein Gefährte,
+Jetzt aber steh' ich einsam auf der Erde.
+Hoch leb' der König, der ein Dach mir gab!
+Mir bleibt nun keine Heimat als das Grab!'
+Wir wagten nicht der Läst'rung ihn zu zeihn,
+Stumm wich die Meng', entsetzt; er blieb allein.
+Mitleidig nahm ihn Einer in sein Haus,
+Dort haucht' er bald die müde Seele aus.“ —"	0.0	1.0	1.0	1.0	0.0	1.0	"„Und kalt ist's auch“, rief unter Fluch und Lärmen
+Der Invalid, „wollt ihr, daß ich ins Feuer
+Noch meinen Stelzfuß werfe, uns zu wärmen?
+Noth thät' es wahrlich, denn der Wein ist theuer.“ „Und gingen die Geschäfte nur etwas“,
+Sprach der Hausirer, „ich tränk' auch ein Glas;
+Doch immer größer wird die Noth im Volke.“ Er seufzt' und alle schwiegen wie zuvor.
+Auf einmal riesig aus der Tabackswolke
+Hob sich der greise Vagabund empor.
+Um seine Brauen lag es lange schon
+Wie eines Wetters unheimliches Drohn,
+Und auf der Stirne seine Ader schwoll,
+Und donnernd also jetzt sein Wort erscholl:
+„Wo liegt die Quelle von des Volkes Noth?
+Im Volke selbst und seinem feigen Dulden!
+Wollt ihr nicht ewig eure Noth verschulden,
+So ruft verzweifelt aus: Brot oder Tod!
+Armsel'ge Zeit, wo statt auf Barrikaden
+Zu bluten für sein Recht, der freie Mann
+Nur auf der Guillotine sterben kann!
+Im Bagno nur bei meinen Kameraden
+Lebt wie des Elementes wilde Kraft
+Noch ungezähmt und frei die Leidenschaft;
+Zurück zu ihnen sehne ich mich wieder,
+Ich steh' auf dieser Welt sonst ganz allein,
+Fast wie der Greis, der mir fällt eben ein.
+Noch rieselt kalt es mir durch alle Glieder,
+Denk' ich an das, was ich erzählen will.“ Er setzte sich, wir aber horchten still.
+„'s war Neunundachtzig beim Bastillensturm,
+Die Glocken heulten wild von jedem Thurm
+Und um die alte finstre Zwingburg her
+Schwoll heulend wie der Sturm des Volkes Meer ...“ „Ihr war't dabei“, warf froh erstaunt ich ein,
+„Ihr kämpftet mit in jenen Heldenreih'n?
+Das war ein Volk noch, nicht wie die, so heute
+Sich ihres Herr'n verkaufen selbst als Beute;
+Das wußte noch zu kämpfen, ja zu sterben,
+Sobald es galt die Freiheit zu erwerben.“ „Ich war dabei; ein Knabe von neun Jahren,
+Kämpft' ich ein Mann in jenen Heldenscharen.
+Heiß brütete der Julisonne Glut,
+Doch heißer kochte noch in uns das Blut.
+Die Veste fiel; was wird, was muß nicht fallen,
+Wenn einig sich ein Volk zum Kampf erbebt!
+Wie alles kam, bekannt ist es euch Allen;
+Doch höret weiter, was ich da erlebt.
+Wildflutend stürzte zügellos die Menge
+Sich durch die Höfe, Treppen, Keller, Gänge;
+Die Opfer suchten wir der Tyrannei,
+Und jubelnd riefen wir: Frei seid ihr, frei!
+Aus einem Kerker aber stieg ein Greis,
+Verwelkt sein Antlitz und das Haar schneeweiß.
+Er starrt' uns an, es war ihm wie ein Traum;
+Ans Geh'n längst nicht gewöhnt, vermochten kaum
+Die Füße seines Leibes Last zu tragen.
+Doch nannt' er Straß' und Haus auf unser Fragen
+Nach seiner Wohnung, die nun funfzig Jahre,
+Fluch den Tyrannen! er nicht mehr gesehn,
+Und Männer trugen ihn auf einer Bahre;
+Wie ein Triumphzug war es anzusehn.
+Wir kamen an; man öffnete, man frug,
+Maß dann mit kalt neugierig fremden Blicken
+Den Alten, den man auf der Bahre trug,
+Und schüttelte den Kopf. Mit festem Nicken
+Bestätigte jedoch der mürbe Greis,
+Was er verwirrt fast selbst bezweifelt hätte:
+'Ja wohl, hier ist's, ich weiß doch, was ich weiß;
+Dies ist mein Haus und meine Heimatsstätte.
+Wo ist denn meine Frau?' — Noch Viele kamen,
+Doch nicht ein Einz'ger kannte ihren Namen;
+Man sprach wol was von einer jungen Frau,
+Die plötzlich, als verhaftet ward ihr Gatte,
+Der Schmerz aufs Todtenbett geworfen hatte,
+Doch wußte Niemand mehr etwas genau.
+Dreimal schon war das Haus verkauft indessen
+Und wem es sonst gehörte längst vergessen.
+Wir fragten in der Nachbarschaft umher,
+Umsonst! es kannt' ihn Niemand, Niemand mehr.
+Hinstarben seine Freunde Jahr um Jahr,
+Indeß er lebend wie begraben war;
+Zwei Menschenalter schlossen ihre Reih'n,
+Und als er wiederkam, stand er allein.
+Da brach aus seiner Brust ein stöhnend Ach,
+Und aus den Augen ihm ein Thränenbach.
+So stand er in sich schmerzgebrochen da,
+Indeß die bleiche Menge auf ihn sah.
+Dann zuckt' er wie in Wuth, wie krampfhaft rafft'
+Er sich empor: 'Was steht ihr da und gafft?
+Fluch eurer Freiheit, die mein Bett mir nahm,
+Die in die Wüste mich zu stoßen kam!
+Mein Kerker war mein einziges Asyl;
+Wo ich daheim, bin ich wie im Exil.
+Dort war doch eine Spinne mein Gefährte,
+Jetzt aber steh' ich einsam auf der Erde.
+Hoch leb' der König, der ein Dach mir gab!
+Mir bleibt nun keine Heimat als das Grab!'
+Wir wagten nicht der Läst'rung ihn zu zeihn,
+Stumm wich die Meng', entsetzt; er blieb allein.
+Mitleidig nahm ihn Einer in sein Haus,
+Dort haucht' er bald die müde Seele aus.“ —"	l0020151	ANGER#FEAR#JOY#SADNESS
+117	An Emma Frapan, Ilse	"Nimm von mir, was mich jäh zu Boden reißt.
+Mir graut, mich selbst in solcher Glut zu sehen;
+Und laß das Schlackenfeuer vor dem Geist
+Zu Erdenasche werden und verwehen."	0.0	0.0	1.0	0.0	1.0	0.0	"An Emma
+Frapan, Ilse Wie grüßt du schon von ferne, helles Fenster,
+Mein müdes Aug' mit deinem trauten Scheine,
+In kalter Nacht ein warmer Liebesschimmer.
+Ich weiß, dort oben hat die liebe Kleine,
+Zur Abwehr aller Schatten und Gespenster,
+Die Lampe schon entfacht im stillen Zimmer. O leuchte du mir immer,
+Mein sanftes Licht!
+Für tausend Freudenkerzen
+Tausch' ich dich nicht!
+Für alle Menschenherzen
+Dies eine nicht! O Freundesliebe, die du sanft und groß
+Mein Leben hast durchleuchtet und getragen,
+Verlaß mich nicht, nimm mich in deinen Schoß,
+Und mach' mich still wie in den alten Tagen. Ein andres maßt sich deinen Namen an,
+Das süß und tödlich in den Adern wütet,
+Es rast mein Blut, das so gelassen rann,
+Die Lippe schmachtet, heiß und unbehütet. Nimm von mir, was mich jäh zu Boden reißt.
+Mir graut, mich selbst in solcher Glut zu sehen;
+Und laß das Schlackenfeuer vor dem Geist
+Zu Erdenasche werden und verwehen."	l00140125	FEAR#LOVE
+4344	Lilien Handel-Mazzetti, E. v.	"Lilien
+Handel-Mazzetti, E. v."	0.0	0.0	0.0	0.0	0.0	0.0	"Lilien
+Handel-Mazzetti, E. v."	l00140092	NONE
+3479	Das ist im Leben hässlich eingerichtet Scheffel, Victor von [Alt. Scheffel, Joseph Victor von]	"Leid, Neid und Hass, auch ich hab' sie empfunden,
+Ein sturmgeprüfter, müder Wandersmann.
+Ich träumt' von Frieden dann und stillen Stunden;
+Da führte mich der Weg zu dir hinan.
+In deinen Armen wollt' ich ganz genesen,
+Zum Danke dir mein junges Leben weihn:
+Behüet dich Gott! es wär' zu schön gewesen,
+Behüet dich Gott, es hat nicht sollen sein! —"	0.0	1.0	0.0	0.0	1.0	1.0	"Das ist im Leben hässlich eingerichtet
+Scheffel, Victor von [Alt. Scheffel, Joseph Victor von] Das ist im Leben hässlich eingerichtet,
+Dass bei den Rosen gleich die Dornen stehn,
+Und was das arme Herz auch sehnt und dichtet,
+Zum Schlüsse kommt das Voneinandergehn.
+In deinen Augen hab' ich einst gelesen,
+Es blitzte drin von Lieb und Glück ein Schein:
+Behüet dich Gott! es war' zu schön gewesen,
+Behüet dich Gott, es hat nicht sollen sein! — Leid, Neid und Hass, auch ich hab' sie empfunden,
+Ein sturmgeprüfter, müder Wandersmann.
+Ich träumt' von Frieden dann und stillen Stunden;
+Da führte mich der Weg zu dir hinan.
+In deinen Armen wollt' ich ganz genesen,
+Zum Danke dir mein junges Leben weihn:
+Behüet dich Gott! es wär' zu schön gewesen,
+Behüet dich Gott, es hat nicht sollen sein! —"	l00160253	ANGER#LOVE#SADNESS
+5451	Die Hochzeit zu Kana Kramer, Adolf	"Das Brautpaar lacht, in banger Pracht
+glühn Blüten auf aus tiefer Nacht.
+Und zu einander irrt ihr Blick,
+in Tränen glänzt ihr heißes Glück.
+Der Herr verbirgt, in Schaun versenkt,
+daß sich ins Aug' die Trän' ihm drängt."	1.0	0.0	1.0	1.0	0.0	0.0	"Die Hochzeit zu Kana
+Kramer, Adolf Die Flöte girrt, das Zimbal klirrt,
+durch abendliche Bogen schwirrt
+ein Fiedelschwarm von Luft und Klang
+und Becherruf und Brautgesang.
+Dazwischen tönt wie tief im Traum
+des Meisters Stimme durch den Raum. Das Becken gellt, die Pauke bellt.
+Hell schwingt ein Ton. Und wieder fällt
+das Lied mit wirren Stimmen ein
+und hochauf schwält der Fackeln Schein.
+Den Meister trägt ein fernes Meer —
+kein Laut, nur Schweigen um ihn her. Das Brautpaar lacht, in banger Pracht
+glühn Blüten auf aus tiefer Nacht.
+Und zu einander irrt ihr Blick,
+in Tränen glänzt ihr heißes Glück.
+Der Herr verbirgt, in Schaun versenkt,
+daß sich ins Aug' die Trän' ihm drängt."	l0060050	AGITATION#FEAR#JOY
+4820	Warte noch Rodenberg, Julius	"Wasser fließen, Wolken eilen...
+Sieh, am Bache erstes Grün!
+Liebes Herz, wo wirst du weilen,
+Wenn die ersten Rosen blühn?"	0.0	0.0	0.0	0.0	1.0	0.0	"Warte noch
+Rodenberg, Julius Warte noch ein kleines Weilchen,
+Liebe Sonne, lieber Wind!
+Bis die Primeln und die Veilchen
+Auf der Wiese kommen sind. Wasser fließen, Wolken eilen...
+Sieh, am Bache erstes Grün!
+Liebes Herz, wo wirst du weilen,
+Wenn die ersten Rosen blühn?"	l0010193	LOVE
+4092	Hilf mir! Lingen, Thekla	"Dann findet mich der Spott der Menge nicht,
+Dann laß sie schmähen und mein Tun verhöhnen —
+Was ihres Alltags kalte Stimme spricht,
+Soll unsrer Liebe Jauchzen übertönen."	0.0	1.0	0.0	0.0	1.0	0.0	"Hilf mir!
+Lingen, Thekla Du mußt mich küssen, wie die Sonne glüht,
+Hoch wie das Meer muß deine Liebe rauschen,
+Wie Orgelbrausen durch die Kirche zieht,
+Wie Glockenklang, so stark und hehr zu lauschen. Ich hab' in dich mein ganzes Sein gesenkt,
+Und wie die Erde mußt du Kraft mir geben,
+Zu tragen, was mir das Geschick verhängt,
+In meiner eignen Sonne Licht zu leben. Dann findet mich der Spott der Menge nicht,
+Dann laß sie schmähen und mein Tun verhöhnen —
+Was ihres Alltags kalte Stimme spricht,
+Soll unsrer Liebe Jauchzen übertönen."	l0030278	ANGER#LOVE
+4987	Dunkle Stunden Hart, Julius	"Doch sieh im Osten glüht es auf, und Palmen wehen im Sonnenlicht,
+Heilige Lüfte wandeln und fließen um dein blaßes Angesicht."	0.0	1.0	0.0	0.0	0.0	0.0	"In Feuern lodert die Seele auf, auf flammendem Wagen fährt sie empor
+Weit über der Erde düsternde Nacht, und durch der Wolken schattendes Thor. Hoch über des Tempels Zinnen schwebt sie stark auf mächtigem Flügelpaar,
+Von den Schwingen tropft die Sonne, flammenregnend, leuchtend und klar. Tief liegt die Welt von Schatten bedeckt, und Thränen und Schmerzen umhüllen sie dicht,
+Und ein Schrei voll wilder Qual aus tausend blassen Munden schrecklich bricht. Elend und schwach und krank und siech, wie Wasser stürzend von Fall zu Fall,
+So sinken die Menschen fahl dahin — die Sünde jubelt überall. Und was aus Staub geboren ist, und was gezeugt vom Weibe lebt,
+Wer ist so rein, daß wider dich den ersten Stein er zornig hebt. Doch sieh im Osten glüht es auf, und Palmen wehen im Sonnenlicht,
+Heilige Lüfte wandeln und fließen um dein blaßes Angesicht."	l0070056	ANGER
+3315	Des Liedes Segen Baumgarten, Amand	"Ein solches Volk ist noch nicht alt,
+Sein Kern ist noch nicht faul;
+Das Lied, es übt noch die Gewalt,
+Wie David über Saul."	0.0	0.0	0.0	1.0	0.0	0.0	"Des Liedes Segen
+Baumgarten, Amand O glücklich Land, wo noch das Lied,
+Wie's Gott dem Vogel lehrt,
+Aus segensreicher Kehle zieht,
+Von jung und alt geehrt. Ein solches Volk ist noch nicht alt,
+Sein Kern ist noch nicht faul;
+Das Lied, es übt noch die Gewalt,
+Wie David über Saul."	l00130342	JOY
+5357	Verlust im Siege Grohmann, Josef Virgil [alt. Grohmann, J. Virgil]	"Er jubelt auf, — rings schweigen seine Krieger;
+Er blickt umher, — weh ihm, er sieht nur Leichen!
+Manch theures Antlitz trägt das Todeszeichen
+Und schweigend steht der schwergeprüfte Sieger"	0.0	1.0	1.0	1.0	0.0	0.0	"In niedrer Hütte keimte mir das Leben,
+Der Kummer sang mir seine Wiegenlieder
+Und streute gift'gen Mehlthau auf mich nieder;
+Ein ärmlich Loos schien mir das Glück zu weben. Doch in der bleichen, abgehärmten Hülle
+Erweckte Gott der Seele kühnes Drängen;
+Ich wagte bald, die enge Haft zu sprengen,
+Zu werben um des Lebens schönste Fülle. Und siegreich trat ich aus dem schweren Ringen,
+Das Misgeschick war glorreich überwunden —
+Und doch, was ist es, daß in trüben Stunden
+So bange Laute mir die Brust durchklingen? So zog der jüngre Sohn vor alten Zeiten
+In fremdes Land hinaus, der Unverzagte,
+Das Erbe, das die Heimat ihm versagte,
+Durch eigne Kraft sich draußen zu erstreiten. Wie scholl im Kampf so freudig seine Stimme,
+Wie grimmig sprang sein Schwert auf Schild und Spangen!
+Es floß der Schweiß, das Blut von seinen Wangen,
+Bis daß der Feind entwich vor seinem Grimme. Er jubelt auf, — rings schweigen seine Krieger;
+Er blickt umher, — weh ihm, er sieht nur Leichen!
+Manch theures Antlitz trägt das Todeszeichen
+Und schweigend steht der schwergeprüfte Sieger"	l0020058	ANGER#FEAR#JOY
+434	Klage der Magd Keller, Gottfried	"Und wenn mein Vielgeliebter
+Am Haag vorüberwandelt
+Und ein paar warme Blicke
+Mir in die Seele warf,
+Höhnt sie am Mittagsmahle,
+Daß ich am untern Ende
+Das Auge nicht erheben
+Und mich nicht rühren darf."	0.0	1.0	0.0	0.0	1.0	0.0	"Klage der Magd
+Keller, Gottfried Nun ist der Lenz gekommen,
+Nun blühen alle Wiesen,
+Nun herrschen Glanz und Freude
+Auf Erden weit und breit;
+Nur meine böse Herrin
+Sie keift und zetert immer
+Noch wie in der betrübten
+Und kalten Winterszeit. Wenn ich am frühen Morgen
+Mit aufgewachtem Herzen
+Im Garten grab' und singe,
+Die Welt mir freundlich blickt,
+Wirft sie mir aus dem Fenster
+Die ungefügen Worte,
+Daß rasch in meiner Kehle
+Das kleine Lied erstickt. Und wenn mein Vielgeliebter
+Am Haag vorüberwandelt
+Und ein paar warme Blicke
+Mir in die Seele warf,
+Höhnt sie am Mittagsmahle,
+Daß ich am untern Ende
+Das Auge nicht erheben
+Und mich nicht rühren darf."	l0010305	ANGER#LOVE
+47	Lieder an Liane Hoechstetter, Sophie	"Du sollst an meiner Mutter stillem Herd
+Die alten lieben, guten Worte hören,
+Die alten Worte, die das Herz betören:
+Von Heimatglück, von fernen Zeiten,
+Von müden, lang erblaßten Leiden,
+Die uns noch rühren."	0.0	0.0	0.0	1.0	0.0	1.0	"Ich wollte einmal dich in meiner Heimat grüßen,
+Ich wollte einmal, daß zu deinen Füßen
+Die Wege ziehen, die mir lang vertraut.
+Ich wollte, daß mein stilles Land dir brächte
+Sein tiefes Sehnen, seine hellen Nächte
+Und du es sähest, wie ich es geschaut. Ich wollte einmal deine Lippen küssen —
+Ich wollte einmal deine lieben, süßen,
+Geliebten Augen auf mir ruhen sehn —
+Ich wollte einmal — einmal nur dir sagen,
+Wie lang dein Bild im Herzen ich getragen,
+Und wie es ruht dort bis zum Untergehn. Dann aber? O ich weiß nicht, was noch wäre,
+Still ruht die Sehnsucht, — ankerstill im Meere
+Fragst du den Beter, was er noch begehrt,
+Wenn ihm sein Gott die Seligkeit gewährt?
+Fragst du den Schiffer, der den Hafen sieht,
+Ob noch ein Wunsch durch seine Seele zieht? Ich wollte einmal deine Lippen küssen,
+Ich wollte dich in meinem Hause grüßen —
+Einmal mit dir allein sein — fern vom Leben.
+Ich wollte einmal dir in erstem Schweigen
+Die Heimat und mich selbst ganz dir zu eigen
+Bedingungslos in deine Hände geben. Du sollst in meiner Mutter schönstem Bett
+So ruhig schlafen, bis du nicht mehr müd' —
+Und wenn dir dann der junge Tag erglüht,
+Wird er dich wecken aus dem Traum der Nacht,
+Daß dir erwacht
+Der schönere Traum des Lebens. Du sollst an meiner Mutter stillem Herd
+Die alten lieben, guten Worte hören,
+Die alten Worte, die das Herz betören:
+Von Heimatglück, von fernen Zeiten,
+Von müden, lang erblaßten Leiden,
+Die uns noch rühren."	l00140053	JOY#SADNESS
+2980	Geh zur Ruh Beck, Karl l00200186	"Laß dein Hangen, laß dein Bangen
+Irrend Auge, schließ dich zu!
+Sieh, der Tag ist schlafen gangen,
+Schlafen geh auch du!
+Ach, das süß erlebte Glück
+Spiegelt dir der Traum zurück,
+Geh zur Ruh!"	0.0	0.0	1.0	1.0	0.0	0.0	"Geh zur Ruh
+Beck, Karl Sorgenvolle, wetterschwüle
+Mädchenstirne, geh zur Ruh!
+Lieblich weht des Abends Kühle,
+Werde kühl auch du!
+Träume, daß der Hauch der Nacht
+Dir ein Palmenblatt gebracht,
+Geh zur Ruh! Laß dein Hangen, laß dein Bangen
+Irrend Auge, schließ dich zu!
+Sieh, der Tag ist schlafen gangen,
+Schlafen geh auch du!
+Ach, das süß erlebte Glück
+Spiegelt dir der Traum zurück,
+Geh zur Ruh!"	l00200186	FEAR#JOY
+1800	Der Weggenossin Evers, Franz	"Der Weggenossin
+Evers, Franz"	0.0	0.0	0.0	0.0	0.0	0.0	"Der Weggenossin
+Evers, Franz"	l00170074	NONE
+1529	Die Königin Keiter, Therese [Pseud. Herbert, M.]	"Und neigten doch vor der Gebiet'rin sich
+Und applaudierten mit beschuhter Hand,
+Und lobten ihre hohe Meisterschaft
+Und ihren königlichen Kunstverstand."	0.0	1.0	0.0	0.0	0.0	0.0	"Die Königin
+Keiter, Therese Es saß die Königin steif am Spinett,
+Der Reifrock bläht sich weit. Im Haar der Reiher nickt,
+Und Diamanten glänzen und Rubin
+Am Schneppenmieder, reich mit Gold gestickt,
+Die schlanken Finger spielen Menuett,
+Ein krächzend Stücklein, hart und ohne Ton.
+Sie spielte falsch. Bedford und Leicester sahn
+Sich heimlich an. Sie lächelten voll Hohn. Und neigten doch vor der Gebiet'rin sich
+Und applaudierten mit beschuhter Hand,
+Und lobten ihre hohe Meisterschaft
+Und ihren königlichen Kunstverstand."	l00140208	ANGER
+5766	Da wo der frühen Falter gelbes Lodern Huch, Ricarda l00180092	"Indessen wir, Staub ohne Sinn und Dauer,
+Der vor der Stunde blindem Schlag zerfällt,
+Hinunterstiegen in das Tal der Trauer."	0.0	0.0	0.0	0.0	1.0	1.0	"Da wo der frühen Falter gelbes Lodern
+Huch, Ricarda Da wo der frühen Falter gelbes Lodern
+Um wild Gestrüpp am Bergeshange zückte,
+Und Bäche quollen durch verjährtes Modern,
+Verweilten wir, die Glückes Last erdrückte. Wie von des Meisters Hand entfesselt Erz
+Goß sich die Kraft der Sonne auf uns nieder,
+Sie stürzte rot durch unser schlagend Herz
+Und wuchs wie goldne Haut um unsre Glieder. Nun ist mir so, als ob dort oben bliebe,
+Den Elementen kund und zugesellt,
+Unsterblich eins: das Strahlenbild der Liebe, Indessen wir, Staub ohne Sinn und Dauer,
+Der vor der Stunde blindem Schlag zerfällt,
+Hinunterstiegen in das Tal der Trauer."	l00180092	LOVE#SADNESS
+5001	Kindesauge Scherer, Georg	"Will keine Freude dich erquicken,
+Verzehrt das Herz dir Gram und Pein,
+Dann schau mit den umflorten Blicken
+In deines Kindes Aug' hinein."	0.0	0.0	0.0	1.0	0.0	1.0	"Kindesauge
+Scherer, Georg Will keine Freude dich erquicken,
+Verzehrt das Herz dir Gram und Pein,
+Dann schau mit den umflorten Blicken
+In deines Kindes Aug' hinein."	l00200254	JOY#SADNESS
+6229	Vaterlandslied Arndt, Ernst Moritz	"O Deutschland, heil'ges Vaterland!
+O deutsche Lieb' und Treue!
+Du hohes Land! Du schönes Land!
+Dir schwören wir auf's neue:
+Dem Buben und dem Knecht die Acht!
+Der speise Kräh'n und Raben!
+So ziehn wir aus zur Hermannsschlacht,
+Und wollen Rache haben."	0.0	1.0	0.0	0.0	1.0	0.0	"Vaterlandslied
+Arndt, Ernst Moritz Der Gott, der Eisen wachsen ließ,
+Der wollte keine Knechte,
+Drum gab er Säbel, Schwert und Spieß
+Dem Mann in seine Rechte;
+Drum gab er ihm den kühnen Muth,
+Den Zorn der freien Rede,
+Daß er bestände bis auf's Blut,
+Bis in den Tod die Fehde. So wollen wir, was Gott gewollt,
+Mit rechten Treuen halten
+Und nimmer im Tyrannensold
+Die Menschenschädel spalten;
+Doch wer für Tand und Schande ficht,
+Den hauen wir zu Scherben,
+Der soll im deutschen Lande nicht
+Mit deutschen Männern erben. O Deutschland, heil'ges Vaterland!
+O deutsche Lieb' und Treue!
+Du hohes Land! Du schönes Land!
+Dir schwören wir auf's neue:
+Dem Buben und dem Knecht die Acht!
+Der speise Kräh'n und Raben!
+So ziehn wir aus zur Hermannsschlacht,
+Und wollen Rache haben."	l00200003	ANGER#LOVE
+6196	Tief im Schoosse der Gewässer ruhet das versunkne Bild Ziel, Ernst	"Und der Fischer, sein nicht achtend, lenkt den Kahn darüber hin,
+Blickt nur in die schwarzen Augen seiner schmucken Fischerin."	0.0	1.0	0.0	0.0	1.0	0.0	"Tief im Schoosse der Gewässer ruhet das versunkne Bild
+Ziel, Ernst Tief im Schoosse der Gewässer ruhet das versunkne Bild,
+Dehnt die weissen Marmorglieder durch das grüne Meergefild. Ehemals auf hohem Sockel ragte es am sonngen Strand,
+Doch die Zeit ergriff es neidisch, warf es in des Meeres Sand. Und der Fischer, sein nicht achtend, lenkt den Kahn darüber hin,
+Blickt nur in die schwarzen Augen seiner schmucken Fischerin."	l00160329	ANGER#LOVE
+1382	Es ist ein Lachen nur in meiner Seele Preuschen, Hermione von [alt. Preuschen-Telmann, Hermione von; Preuschen, Hermine von]	"Es ist ein Lachen nur in meiner Seele
+Ob all' des kleinen, zwerghaft kleinen Ringens,
+Das sie Talent und Geist und Künste heißen
+Und gar Genie!"	0.0	1.0	0.0	1.0	1.0	0.0	"Es ist ein Lachen nur in meiner Seele
+Preuschen, Hermione von [alt. Preuschen-Telmann, Hermione von; Preuschen, Hermine von] Es ist ein Lachen nur in meiner Seele
+Ob all' der armen, menschlichen Gefühle,
+Die sie da Haß und die sie Liebe nennen
+Und Leidenschaft! Es ist ein Lachen nur in meiner Seele
+Ob all' des kleinen, zwerghaft kleinen Ringens,
+Das sie Talent und Geist und Künste heißen
+Und gar Genie!"	l00170180	ANGER#JOY#LOVE
+3565	ABENDSEE ALBERT EHRENSTEIN l00300146	"Neidwolken, herzschnappende weiße Wölfe,
+Aus Schaumtraum scheuchtet ihr mir die verspielte Tanzelfe.
+Mein Abendlied sinkt im See."	0.0	1.0	0.0	0.0	0.0	1.0	"ABENDSEE Wir kämmten Wolken, Faun und Fee,
+Im Liebesspiel über Stern und See.
+Nun hat uns Dämmer verschneit, Nebel gezweit,
+Im Leid vergilbt die Lilienzeit. Neidwolken, herzschnappende weiße Wölfe,
+Aus Schaumtraum scheuchtet ihr mir die verspielte Tanzelfe.
+Mein Abendlied sinkt im See."	l00300146	ANGER#SADNESS
+1551	SCHWERMUT S. FRIEDLAENDER l0029033	"Wer dies stumme Geheimnis hört,
+Wird schweigen,
+Sein Haupt verstört
+Wird sich neigen."	0.0	1.0	1.0	0.0	0.0	0.0	"Wer mein trübes Geheimnis ahnt,
+Wird erblassen,
+Er ist gemahnt
+Und verlassen. Er wohnt allein
+Und muß warten,
+Still spricht sein Garten
+Ihm Pein. Er geht wohl,
+Aber sein Wandern
+Führt nicht zu andern.
+Er bleibt hohl. Die linde Blume
+In seiner Hand
+Bröckelt zur Krume,
+Schwand. Dunkel blickt er
+In den Grauhimmel,
+In Gift erstickt er,
+Die Luft ist Schimmel. Wer dies stumme Geheimnis hört,
+Wird schweigen,
+Sein Haupt verstört
+Wird sich neigen."	l00300044	ANGER#FEAR
+1822	Freude! Freude! Schüler, Gustav	"So kommt und jauchzt! Das ist des Lebens Sinn.
+Denn Angst und Gram und Weinen taugt zu nichts.
+Gebt wie ein wunschlos Kind die Seele hin:
+So spielt ihr euch hinein ins Meer des Lichts."	0.0	0.0	1.0	1.0	0.0	1.0	"Freude! Freude!
+Schüler, Gustav So kommt und jauchzt! Das ist des Lebens Sinn.
+Denn Angst und Gram und Weinen taugt zu nichts.
+Gebt wie ein wunschlos Kind die Seele hin:
+So spielt ihr euch hinein ins Meer des Lichts."	l0030399	FEAR#JOY#SADNESS
+3435	Und doch, obwohl ein jeder von sich strebt Rilke, Rainer Maria [alt. Rilke, Rainer-Maria]	"Und doch, obwohl ein jeder von sich strebt
+wie aus dem Kerker, der ihn haßt und hält, —
+es ist ein großes Wunder in der Welt:
+ich fühle: alles Leben wird gelebt."	0.0	1.0	0.0	0.0	0.0	0.0	"Und doch, obwohl ein jeder von sich strebt
+Rilke, Rainer Maria [alt. Rilke, Rainer-Maria] Und doch, obwohl ein jeder von sich strebt
+wie aus dem Kerker, der ihn haßt und hält, —
+es ist ein großes Wunder in der Welt:
+ich fühle: alles Leben wird gelebt."	l00180130	ANGER
+3346	Christnacht Scheffel, Victor von [alt. Scheffel, Joseph Victor von]	"Die Pfaffheit sung mit Orgelschall:
+„Dem Herrn sei Preis und Minne,
+Und Fried im Thal den Menschen all
+Von gutem Sinne.“
+Da hat ihr freies Haupt der Wucht
+der Hüllen sich entwunden,
+Da hat ihr Auge meins gesucht
+Und auch gefunden.
+Ein langer vielberedter Blick
+Erzählte stumm ein ganz Geschick
+Von freudlos öden Tagen
+Und Plagen."	0.0	0.0	0.0	0.0	1.0	1.0	"Christnacht
+Scheffel, Victor von  Dass ich nach langer Trennung Leid
+Die Gute durfte schauen,
+Das war in weinachtheilger Zeit
+Vor Tagesgrauen.
+Da rief der erste Hahnenkrȃt
+Die Schläfer aus den Betten,
+Mit Lichtlein schlichen aus der Stadt
+Die Fraun zur Metten.
+Als wie Knechts Ruprechts Mummgestalt
+Kam sie vom Berg zum Dom gewallt,
+In Pelzwerk Stirn und Ohren
+Verloren. Die Pfaffheit sung mit Orgelschall:
+„Dem Herrn sei Preis und Minne,
+Und Fried im Thal den Menschen all
+Von gutem Sinne.“
+Da hat ihr freies Haupt der Wucht
+der Hüllen sich entwunden,
+Da hat ihr Auge meins gesucht
+Und auch gefunden.
+Ein langer vielberedter Blick
+Erzählte stumm ein ganz Geschick
+Von freudlos öden Tagen
+Und Plagen."	l00160247	LOVE#SADNESS
+4801	ICH BIN JA NOCH EIN KIND FRANZ WERFEL l00300182	"Bis daß ich erst in jedem Lumpen starb,
+In jeder Katz’ und jedem Gaul verreckte,
+Und ein Soldat, im Wüstendurst verdarb.
+Bis, grauser Sünder ich, das Sakrament weh auf der Zunge schmeckte,
+Bis ich den aufgefreßnen Leib aus bitterm Bette streckte,
+Nach der Gestalt, die ich verhöhnt umwarb!"	0.0	1.0	0.0	0.0	0.0	1.0	"Nie war ich Seemann, wenn das Öl ausgeht,
+Wenn die tausend Wasser die Sonne verhöhnen,
+Wenn die Notschüsse dröhnen,
+Wenn die Rakete zitternd aufsteht.
+Nie warf ich mich, Dich zu versöhnen,
+O Herr, aufs Knie zum letzten Weltgebet. Nie war ich ein Kind, zermalmt in den Fabriken
+Dieser elenden Zeit, mit Ärmchen, ganz benarbt!
+Nie hab’ ich im Asyl gedarbt,
+Weiß nicht, wie sich Mütter die Augen aussticken,
+Weiß nicht die Qual, wenn Kaiserinnen nicken,
+Ihr alle, die ihr starbt, ich weiß nicht, wie ihr starbt! Kenn’ ich die Lampe denn, kenn’ ich den Hut,
+Die Luft, den Mond, den Herbst und alles Rauschen
+Der Winde, die sich überbauschen,
+Ein Antlitz böse oder gut?
+Kenn’ ich der Mädchen stolz und falsches Plauschen?
+Und weiß ich, ach, wie weh ein Schmeicheln tut? Du aber, Herr, stiegst nieder, auch zu mir.
+Und hast die tausendfache Qual gefunden,
+Du hast in jedem Weib entbunden,
+Und starbst im Kot, in jedem Stück Papier,
+In jedem Zirkusseehund wurdest Du geschunden,
+Und Hure warst Du manchem Kavalier! O Herr, zerreiße mich!
+Was soll dies dumpfe, klägliche Genießen?
+Ich bin nicht wert, daß Deine Wunden fließen.
+Begnade mich mit Martern, Stich um Stich!
+Ich will den Tod der ganzen Welt einschließen.
+O Herr, zerreiße mich! Bis daß ich erst in jedem Lumpen starb,
+In jeder Katz’ und jedem Gaul verreckte,
+Und ein Soldat, im Wüstendurst verdarb.
+Bis, grauser Sünder ich, das Sakrament weh auf der Zunge schmeckte,
+Bis ich den aufgefreßnen Leib aus bitterm Bette streckte,
+Nach der Gestalt, die ich verhöhnt umwarb!"	l00300182	ANGER#SADNESS
+7762	Zwei Proletarier Sigismund, Berthold	"Ich werde spurlos von hinnen gehn,
+Nichts, was ich schaffe, wird bestehn.
+Mein Leben gleicht den Wellenringen,
+Die um den Stein im See sich schlingen;
+Es verschwimmt die letzte Kräutselspur,
+Und spiegelglatt ist der blanke Azur.
+Ein Neuer kommt, der mich belacht;
+Der neuen Lehrer neues Wissen
+Hat alten Glauben eingerissen,
+Er geht ans Werk mit erträumter Macht.
+Wird dir nicht besser gehn, hab' Acht! —"	0.0	1.0	0.0	0.0	0.0	0.0	"Ich habe mir's sauer werden lassen
+Bei der Lampe geisterbleichem Strahl,
+Im düstern Stüblein, in dumpfen Classen;
+Im grausigen, schaurigen Leichensaal
+Hab' ich studirt, wenn draußen die Sonne
+Mit goldenen Fäden zog die Menge
+Aus der schattig düsteren Straßen Enge
+In die grünende, jubelnde Maienwonne.
+Den sonnigen Morgen, die sternige Nacht
+Hab' ich dienend im Lazarethe verbracht;
+Zuschauen mußt' ich an Leidensbetten,
+Wo den Dulder die gräßliche Schlange umringt,
+Am Ufer stand ich, und konnte nicht retten
+Den Armen, den wirbelnd der Strudel verschlingt.
+Anhören mußt' ich der Mutter Klagen
+Um des lieben Sohnes brechendes Herz:
+Gott weiß, was ich lernte in jungen Tagen,
+Ich hab' es erkauft mit bitterem Schmerz. Er lernte vom Vater hauen den Stein,
+Und hat er gefugt der Quader Bau,
+Dann zeigt er's mit Stolz der lächelnden Frau:
+Dies ist mein Werk, ich erbaut' es allein! O könnt' ich, wie er, stolz preisen mein Thun,
+Wie er, am Abend zufrieden ruhn!
+Ich weiß, am belobten Meisterstück
+Vollbrachte das Beste das blinde Glück.
+Ihr rühmet die rettende Kunst so viel,
+Die umschattete Augen zum Licht ließ genesen;
+Und doch ist's ein rollendes Würfelspiel,
+Verdienstlos bin ich Gewinner gewesen.
+Das Mütterlein legte mir ohne Bangen
+Ihr Kleinod in die Arme zum Schutz,
+Ich hielt's, wie mein eigenes Kind, umfangen,
+Da entriß mir's der Räuber mit höhnischem Trutz.
+O grauer Nebel der Wissenschaft,
+Von schwachem Flimmern trüb erhellt,
+Du machst die Ohnmacht nicht zur Kraft,
+Herr bleibt der Tod auf der Erdenwelt! — Ich schreit' entgegen dem Kämmerlein,
+Dem einsamen, ohne süßes Behagen.
+Mein wartet nicht freundlichen Lichtes Schein,
+Kein heiterer Gruß wird Willkommen mir sagen.
+Fast preis' ich mich glücklich, daß ich allein
+Mich habe durch's rauhe Leben zu schlagen.
+Meines Lebens schmales, leichtes Boot
+Trägt seinen Steuermann nur zur Noth. Er aber, der formet zum Quader den Stein,
+Behaglich sitzt er im eignen Kahn.
+Und setzt ihm das Schicksal noch mehr hinein,
+Er rudert sie durch auf der schwankenden Bahn.
+Flachsköpfige Buben, sie wachsen schnell,
+Bald tragen sie ihm das Essen hinaus,
+Und spielen im Steinbruch den Maurergesell.
+Er lehrt sie des Schlägels und Meißels Gebrauch,
+Bald werden sie seiner Arbeit Genossen,
+Bald schaffen als rüstige Maurer sie auch,
+Und klimmen empor des Handwerks Sprossen.
+Er kann sie nach seinem Herzen gewöhnen,
+Und lebt noch Menschenalter fort
+In seinen Söhnen und ihren Söhnen.
+Treu erbet sich fort des Vaters Wort,
+Gleich einem alten köstlichen Buch;
+Der Enkel lernet vom Vater wieder
+Großvaters fröhliche Wanderlieder,
+Des Alten kernigen Lieblingsspruch. Ich werde spurlos von hinnen gehn,
+Nichts, was ich schaffe, wird bestehn.
+Mein Leben gleicht den Wellenringen,
+Die um den Stein im See sich schlingen;
+Es verschwimmt die letzte Kräutselspur,
+Und spiegelglatt ist der blanke Azur.
+Ein Neuer kommt, der mich belacht;
+Der neuen Lehrer neues Wissen
+Hat alten Glauben eingerissen,
+Er geht ans Werk mit erträumter Macht.
+Wird dir nicht besser gehn, hab' Acht! —"	l0080517	ANGER
+5005	DER GOTT DER STADT GEORG HEYM l00300005	"Vom Abend glänzt der rote Bauch dem Baal,
+Die großen Städte knieen um ihn her.
+Der Kirchenglocken ungeheure Zahl
+Wogt auf zu ihm aus schwarzer Türme Meer."	0.0	1.0	0.0	0.0	0.0	0.0	"DER GOTT DER STADT Auf einem Häuserblocke sitzt er breit.
+Die Winde lagern schwarz um seine Stirn.
+Er schaut voll Wut, wo fern in Einsamkeit
+Die letzten Häuser in das Land verirrn. Vom Abend glänzt der rote Bauch dem Baal,
+Die großen Städte knieen um ihn her.
+Der Kirchenglocken ungeheure Zahl
+Wogt auf zu ihm aus schwarzer Türme Meer."	l00300005	ANGER
+4742	An die Mädchen Boesch, Anton	"Doch man schweigt vom bösen Frostwind,
+Von des Todes kaltem Neid,
+Und man schweigt, daß tausend Blumen
+Sterben in Vergessenheit."	0.0	1.0	0.0	0.0	0.0	1.0	"An die Mädchen
+Boesch, Anton Man vergleicht euch mit den Blumen,
+Tausendfarbig, mannigfalt,
+So des Schöpfers Odem zaubert
+Auf die Fluren, in den Wald. Doch man schweigt vom bösen Frostwind,
+Von des Todes kaltem Neid,
+Und man schweigt, daß tausend Blumen
+Sterben in Vergessenheit."	l00130354	ANGER#SADNESS
+1306	Waldlied Möbius, Paul	"Reh und Vöglein wohlgeborgen
+Finden in dir warmes Zelt;
+Müden nimmst du gern die Sorgen,
+Die so emsig schafft die Welt.
+Wald, du lieber, grüner Wald,
+Ach wie bald, ja wie bald,
+Scheuchest du mit deinem Segen
+Haß und Groll so weit zurück,
+Daß uns blühet allerwegen
+Neuer Liebe Lust und Glück!"	0.0	1.0	0.0	1.0	1.0	1.0	"Waldlied
+Möbius, Paul Grüner Wald, mit deinem Rauschen
+Stillest du der Seele Drang;
+Fern den Menschen laß mich lauschen
+Deiner Lieder trautem Klang!
+Wald, du lieber, grüner Wald,
+Ach wie bald, ja wie bald
+Lernt in dir man wieder glauben,
+Was der Klugheit eitles Wort,
+Was uns Kleinmut wollte rauben
+Aus des Herzens heil'gem Hort. Reh und Vöglein wohlgeborgen
+Finden in dir warmes Zelt;
+Müden nimmst du gern die Sorgen,
+Die so emsig schafft die Welt.
+Wald, du lieber, grüner Wald,
+Ach wie bald, ja wie bald,
+Scheuchest du mit deinem Segen
+Haß und Groll so weit zurück,
+Daß uns blühet allerwegen
+Neuer Liebe Lust und Glück!"	l00130220	ANGER#JOY#LOVE#SADNESS
+1790	Die Harfe Dehmel, Richard l00170055	"Die Harfe
+Dehmel, Richard"	0.0	0.0	0.0	0.0	0.0	0.0	"Die Harfe
+Dehmel, Richard"	l00170055	NONE
+3225	Einst wirst du schlummern Traeger, Albert	"Vergehe nicht in Angst und Qual,
+Es eilt die Stunde, dich zu retten;
+Vier Bretter nur braucht's dünn und schmal,
+Ein müdes Menschenherz zu betten."	0.0	0.0	1.0	1.0	0.0	1.0	"Einst wirst du schlummern
+Traeger, Albert Ob Nachts auch thränenfeucht dein Pfühl,
+Und heiß die ruhelosen Lider,
+Einst wirst du schlummern sanft und kühl,
+Und keine Sorge deckt dich wieder. Vergehe nicht in Angst und Qual,
+Es eilt die Stunde, dich zu retten;
+Vier Bretter nur braucht's dünn und schmal,
+Ein müdes Menschenherz zu betten."	l00200295	FEAR#JOY#SADNESS
+6073	Ach, wer weiß, wie bald es aus ist Hammer, Julius	"Ach, wer weiß, wie bald es aus ist
+Mit der Lust an frohen Scherzen!
+Tief herabgebrannte Kerzen
+Deuten, daß nicht jung der Schmaus ist.
+So auch sinkt das Licht im Herzen,
+Bis es drinnen dunkler Graus ist,
+Und es kommt der Schwarm der Schmerzen,
+Der kein Freund von Saus und Braus ist,
+Jede Freude auszumerzen,
+Bis es still wie eine Maus ist.
+Doch noch wie von blanken Erzen
+Festgefügt dies Leibesbaus ist,
+Und noch soll kein Rost mir schwärzen
+Diese Brust, die starken Bau's ist!
+Mag, wer will, den niederwärtsen
+Weg gehn, der voll gift'gen Tbau's ist:
+Ich bleib', alte Lust im Herzen,
+Obenauf, bis alles aus ist,
+Und es nach den ird'scben Scherzen
+Zeit zum frommen Himmelsschmaus ist."	0.0	0.0	0.0	1.0	0.0	1.0	"Ach, wer weiß, wie bald es aus ist
+Hammer, Julius Ach, wer weiß, wie bald es aus ist
+Mit der Lust an frohen Scherzen!
+Tief herabgebrannte Kerzen
+Deuten, daß nicht jung der Schmaus ist.
+So auch sinkt das Licht im Herzen,
+Bis es drinnen dunkler Graus ist,
+Und es kommt der Schwarm der Schmerzen,
+Der kein Freund von Saus und Braus ist,
+Jede Freude auszumerzen,
+Bis es still wie eine Maus ist.
+Doch noch wie von blanken Erzen
+Festgefügt dies Leibesbaus ist,
+Und noch soll kein Rost mir schwärzen
+Diese Brust, die starken Bau's ist!
+Mag, wer will, den niederwärtsen
+Weg gehn, der voll gift'gen Tbau's ist:
+Ich bleib', alte Lust im Herzen,
+Obenauf, bis alles aus ist,
+Und es nach den ird'scben Scherzen
+Zeit zum frommen Himmelsschmaus ist."	l0080215	JOY#SADNESS
+4559	Laurella Heyse, Paul l00160140	"Was wirst du nur so zornig roth,
+Lachen die Bursche, die frechen?
+Warum erschrickst du bis in den Tod,
+Hörst du von Liebe sprechen?"	0.0	1.0	1.0	1.0	1.0	0.0	"Laurella
+Heyse, Paul Du bist noch wild, du bist noch scheu,
+Nur von der Mutter gezähmt,
+Du weisst noch nichts von Lieb und Treu,
+Was Menschen entzückt und grämt. Du lässest dein Haar in die Stirne wehn
+Und tief deine Wimper sich senken.
+Kein Mann, kein Mädchen soll erspähn,
+Was deine Augen sich denken. Was beissest du in die Orangenfrucht
+Mit weissen Zähnen so heftig?
+Was wirfst du den Arm in des Tanzes Flucht
+Um des Schwesterchens Leib so kräftig? Was wirst du nur so zornig roth,
+Lachen die Bursche, die frechen?
+Warum erschrickst du bis in den Tod,
+Hörst du von Liebe sprechen?"	l00160140	ANGER#FEAR#JOY#LOVE
+6127	Verlassen Dransfeld, Hedwig l00140069	"Doch wie das Dunkel so traulich
+Mir um die Seele sich schlingt,
+Mutter, als wollt es verbergen,
+Was in mir zittert und ringt."	0.0	1.0	0.0	0.0	0.0	1.0	"Verlassen
+Dransfeld, Hedwig Wie in der Silberkaskade
+Glitzernd die Sonne sich bricht! —
+Mutter, o schließe das Fenster,
+Mutter, mich tötet das Licht. Leg auf die glühenden Augen,
+Mutter, die kühlende Hand,
+Mutter, o lehr mich vergessen,
+Daß meine Sonne entschwand. Leuchtender Tag ist's gewesen,
+Ganz wie zum Lieben gemacht,
+Aber die Nacht ist gekommen,
+Mutter, die dunkelste Nacht. Seit ich am sonnigen Hange
+Ströme des Glückes einst sog,
+Mutter, da haß ich die Sonne,
+Weil sie mich schmeichelnd betrog. Doch wie das Dunkel so traulich
+Mir um die Seele sich schlingt,
+Mutter, als wollt es verbergen,
+Was in mir zittert und ringt."	l00140069	ANGER#SADNESS
+4377	Die Genien der Menschheit Lingg, Hermann l00130441	"„Und ich,“ rief ein Dritter, „ich bin zu Schiff
+Und bin in der Stürme Gefahren
+Bei der Männer vereinten, mutigen Scharen.
+Auch gegen des Feuers Übergriff,
+Auch im Bergschacht, im Kohlendampf,
+Mit der länderdurchfurchenden Züge Lenkern,
+Mit der Forschung unermüdlichen Denkern,
+Überall führ' ich den edlen Kampf
+Gegen der Elemente blinde Wut,
+Werke des Friedens nur nenn' ich gut.
+Planken und Bretter
+Splittern im Sturmgetos,
+Mutige Retter
+Binden die Boote los.
+Hilfreich sein — das allein ist groß!“"	0.0	0.0	0.0	0.0	0.0	0.0	"„Und ja, er hat recht,“ spricht gewitterschwer
+Die Wolke hierauf, „er soll streiten;
+Ich will ihm die Wege bereiten,
+Ich schick den Hagelschauer vor ihm her,
+Dann kann er schreiten
+Mit seiner Elefanten und Bogenschützen Heer
+Und ungehindert zu Tode reiten,
+Denn seiner Ehre Geltung wiegt mehr
+Als alle die Ähren, die da sprießen,
+Wovon an ihrem Herde
+Die Menschen ihr Brot genießen,
+Auch düngt er ja nur die Erde
+Mit Blutvergießen.“ „Heil ihm!“ jauchzen Trompeten des Siegs,
+„Heil ihm!“ die gefüllten Pokale
+Und all' die großen Tugenden des Kriegs
+Mit wehendem Banner, im glänzenden Stahle,
+Der trotzige Mut, der sich im Grauen
+Der Schlacht bewährt, des Geistes Kraft
+In seiner strahlendsten Eigenschaft,
+Im Lenken der Massen und Überschauen,
+Und, wenn schon die Todeswunde klafft,
+Noch im unerschütterten Selbstvertrauen. Doch wehrend erhebt sich dagegen die Hand
+Des Fleißes am Pflug, der Armen
+Zufriednes Genügen, die Freude, das Band
+Des Blutes, alles schmäht ihn, nur das Erbarmen
+Geht mit ihm, aber weinend im Trauergewand.
+„Wen kümmert noch,“ sagt es, „nach Jahren,
+Was unterging an Leben und Menschenglück,
+Worüber die Sichelwagen weggefahren?
+Nur Namen in Steinen blieben zurück,
+Ein Frösteln der welken Kränze
+Und über Grabblumen der Schatten Spur.
+Wer fragt, ob denn die Natur
+Noch immer geduldig ergänze,
+Was frevelnd der Mensch zerstört, zertritt?
+Ist sie die stumme, trauernde Niobe nur,
+Ohnmächtig, oder fühlt sie nicht mit?“ Doch dort, wo niemals noch Blut geflossen,
+Auf höchster Gebirge Graten,
+Da stürmen heran auf Flügelrossen,
+Hellschimmernd wie der Stern am Pol,
+Die Genien guter Thaten,
+Um über der Menschheit Wohl
+Und ihre Zukunft zu beraten. „Ich,“ beginnt einer im Lichtgewand,
+„Schlachtfelder durcheil' ich, ich suche
+Neu zu verknüpfen das Band
+Der Völkereintracht, das vom Fluche
+Des Krieges zerrissen; ich biete die Hand
+Zum Frieden über Schutt und Rauch,
+Wenn das geordnete Mordwerk vorbei;
+Aus sterbenden Blicken und letztem Hauch
+Samml' ich die von Schwertern, vom Todesblei
+Zerschnittnen Leben, die verlornen
+Gedanken, die im Kampfgeschrei
+Erstickten Gefühle, — den Ungebornen
+Bewahr' ich sie — denn keine Sekunde
+Von dem, was Gutes ein Mensch gedacht,
+Gewollt, gestrebt, geht mir zu Grunde,
+Es wird durch mich neu zum Leben gebracht.
+So hinter den blutigen Schnittern
+Schreit' ich durchs Schlachtfeld, ich bin
+In ihren Stürmen und Ungewittern
+Der Menschheit Ährenleserin.
+Über dem Kriegsgeschrei
+Ruf' ich die Psalmen.
+Friede den Völkern sei —
+Hütten und Halmen!“
+„Und ich,“ spricht ein Flammender, „ich wehre
+Der Lüge, dem Vampir, der Schar,
+Die nächtlich über dem stummen Heere
+Emporsteigt, um den Altar
+Dem Götzen des Stolzes aufzurichten,
+Ich rufe der Zeit und dem nagenden Frost,
+Auf daß sie das Denkmal, daß sie mit Rost
+Die prahlende Schrift in Erz vernichten.“ „Und ich,“ rief ein Dritter, „ich bin zu Schiff
+Und bin in der Stürme Gefahren
+Bei der Männer vereinten, mutigen Scharen.
+Auch gegen des Feuers Übergriff,
+Auch im Bergschacht, im Kohlendampf,
+Mit der länderdurchfurchenden Züge Lenkern,
+Mit der Forschung unermüdlichen Denkern,
+Überall führ' ich den edlen Kampf
+Gegen der Elemente blinde Wut,
+Werke des Friedens nur nenn' ich gut.
+Planken und Bretter
+Splittern im Sturmgetos,
+Mutige Retter
+Binden die Boote los.
+Hilfreich sein — das allein ist groß!“"	l00130441	NONE
+6876	„Täubchen, das...“ Lasker-Schüler, Else l0030250	"Mein Herz ist die tote Mutter,
+Und meine Augen sind traurige Kinder,
+Die über die Lande gehen."	0.0	0.0	0.0	0.0	0.0	1.0	"„Täubchen, das...“
+Lasker-Schüler, Else „Täubchen, das in seinem eignen Blute schwimmt.“ Als ich also diese Worte an mich las,
+Erinnerte ich mich
+Tausend Jahre meiner. Eisige Zeiten verschollen — Leben vom Leben,
+Wo liegt mein Leben —
+Und träumt nach meinem Leben. Ich lag allen Tälern im Schoß,
+Umklammerte alle Berge,
+Aber nie meine Seele wärmte mich. Mein Herz ist die tote Mutter,
+Und meine Augen sind traurige Kinder,
+Die über die Lande gehen."	l0030250	SADNESS
+2859	Ach, du fliehst vergebens Geibel, Emanuel	"Muth, der sturmentgegen
+Neuen Pfad sich bahnt,
+Demuth, die den Segen
+Auch im Trübsal ahnt."	0.0	0.0	0.0	0.0	0.0	0.0	"Ach, du fliehst vergebens,
+Was dich härmt und kränkt;
+Keinem wird des Lebens
+Bittrer Zoll geschenkt. Wenn der erste süße
+Jugendleichtsinn schwand,
+Bleibt dir an die Füße
+Stets ein Weh gebannt. Zu den höchsten Matten,
+Unter's stillste Dach
+Wandelt, wie dein Schatten,
+Dir die Sorge nach; Mischt zu jedem Glanze
+Sich als Nebel still,
+Nagt an jedem Kranze,
+Der dir blühen will; Bis du, unter Schmerzen,
+An durchkämpftem Tag
+Dir errangst im Herzen,
+Was sie bänd'gen mag: Muth, der sturmentgegen
+Neuen Pfad sich bahnt,
+Demuth, die den Segen
+Auch im Trübsal ahnt."	l00200157	NONE
+4792	ICH BIN JA NOCH EIN KIND FRANZ WERFEL l00300182	ICH BIN JA NOCH EIN KIND	0.0	0.0	0.0	0.0	0.0	0.0	ICH BIN JA NOCH EIN KIND	l00300182	NONE
+3979	Mädchenlieder Güthner, Nina [Pseud. Waldburg, Nina von]	"Ja, ich beneide diese lauen Lüfte,
+Die tändelnd dir die heißen Schläfe kühlen;
+Nicht sehen kann ich, ohne Neid zu fühlen,
+Wie sie die goldnen Locken dir zerwühlen!"	0.0	1.0	0.0	0.0	1.0	0.0	"Mädchenlieder
+Güthner, Nina [Pseud. Waldburg, Nina von] O nach dem hellen Sterngefunkel,
+O nach der goldnen Sonnenpracht,
+Gib meinem Herzen nicht dies Dunkel
+Und nicht die stille bange Nacht! O tödte mich, wenn deine Gluten
+Mit schnöder Asche sich bedeckt;
+Laß langsam nicht ein Herz verbluten,
+Das du zum Leben erst erweckt! Das Leben ist ein banger Traum,
+Die Freuden fliehn wie Nebelschaum!
+Und trifft dich heut' ein Sonnenstrahl,
+So trifft dich morgen Noth und Qual. Und hast ein Röslein du gepflückt,
+Wird eine Lilie dir geknickt;
+Drum häng' dein Herz allein an das,
+Was ewig bleibt ohn' Unterlaß. Ja, ich beneide diese lauen Lüfte,
+Die tändelnd dir die heißen Schläfe kühlen;
+Nicht sehen kann ich, ohne Neid zu fühlen,
+Wie sie die goldnen Locken dir zerwühlen!"	l0020170	ANGER#LOVE
+857	Trotzkopf Schuster, Friedrich Wilhelm	"Ich hasse, und hasse mit glühender Kraft —
+Vor allem die Feinde des Schönen
+Und jeden, dem es Freude schafft,
+Die Würde des Menschen zu höhnen;
+Die hass' ich mit wilder, flammender Glut
+Und sag' es mit frohem, offenem Mut:
+Ich lasse mich nicht versöhnen."	0.0	1.0	0.0	0.0	1.0	0.0	"Trotzkopf
+Schuster, Friedrich Wilhelm Mich hat zu einer eigenen Art
+Die Mutter Natur geboren.
+So hab' ich mich treu bis heute bewahrt
+Zum Trotze den Weisen und Thoren.
+Und was sie auch reden hin und her,
+Das ändert und wandelt mich nimmermehr;
+Ihr Reden ist verloren. Ich liebe im ganzen vollen Sinn
+Und bin dem Geliebten ergeben
+Mit allem, was ich habe und bin,
+Mit meinem Wollen und Streben.
+Mein Lieben ist tief und echt und wahr,
+Verschmolzen im Innern ganz und gar
+Mit meinem eigensten Leben. Ich hasse, und hasse mit glühender Kraft —
+Vor allem die Feinde des Schönen
+Und jeden, dem es Freude schafft,
+Die Würde des Menschen zu höhnen;
+Die hass' ich mit wilder, flammender Glut
+Und sag' es mit frohem, offenem Mut:
+Ich lasse mich nicht versöhnen."	l00130447	ANGER#LOVE
+5332	Und droht auch Nacht der Schmerzen ganz Landesmann, Heinrich [Pseud. Lorm, Hieronymus]	"Und droht auch Nacht der Schmerzen ganz
+Landesmann, Heinrich"	0.0	0.0	0.0	0.0	0.0	1.0	"Und droht auch Nacht der Schmerzen ganz
+Landesmann, Heinrich"	l00160209	SADNESS
+1753	Im Dom der Heiligen Gudula zu Brüssel Weigand, Wilhelm l0090078	"O Menschensohn, ich lästerte dich nie,
+Wie viele, die dem dumpfen Schicksal fluchen,
+Das ihrer Seele Gier — und Ohnmacht lieh
+Und heißen Drang, ein ewig Glück zu suchen. —
+Der Schmerz ist tief. — Und ruhelos der Geist,
+Dem sieghaft glühen neue Morgenröten,
+Der deiner Liebe Fülle richtend preist
+Und göttlich wird in hohen Schöpfernöten. — —"	0.0	1.0	1.0	0.0	1.0	1.0	"Mein Hirn ist dumpf und müd. Es will sich senken
+Aus dieser Dämmerung leise Trauer nieder
+Auf all mein Dichten, all mein schmerzlich Denken:
+Wann lebt ein neuer Gott denn siegreich wieder?
+Wann wird die neue Zeit sich Tempel bauen,
+Der Erde froh im reinen Sonnenlichte,
+Im Herzen Klarheit, Fülle, Glück, Vertrauen
+Und Luft und Licht und lachende Gedichte? Das ewige Licht dort vor dem Hochaltare
+Kämpft still mit dieses Dunkels dumpfen Schwingen
+Und — zeigt die Nacht, die Alles will bezwingen. —
+Die Glorie stirbt am letzten Fensterpaare.
+Mein Auge trennt sich nicht von diesem Ringen
+Mit düfteschweren schwülen Finsternissen.
+Da — faßt es mich wie wilden Geistes Schwingen,
+Das schwangere Dunkel ist entzweigerissen: Ein golden Dämmern über Land und Meer.
+Die griechischen Inseln dunkeln aus den Wogen.
+Die Wellen schauern schweigend. Drüber her
+Kommt weicher Sternenfriedehauch gezogen.
+Wie weiße Meeresbräute blühn am Strand
+Errötend Marmorstädte. Von den Spitzen
+Der Berge grüßt das abendliche Land
+Das Licht noch einmal zu der Menschen Sitzen.
+Der goldne Augenblick der Feierzeit
+Des Tages, wenn im warmen, reifen Frieden
+Die Sterne treten aus der Ewigkeit,
+Sieghaft zu strahlen jedem Aug' hinieden! Doch leis und leiser bleicht die Feierpracht.
+Hier der Olymp steht öd in dunkler Trauer.
+Mitleidig deckt ihn zu die alte Nacht,
+Die alte Nacht voll wundersamer Schauer.
+Nur dort ein matter, nachtumgrenzter Schein — —!
+Auf Golgatha —! Das Schmerzensbild am Holze
+Des Kreuzes ausgespannt in ewiger Pein,
+Als Demutmahnung jungem Menschenstolze.
+Doch horch — ! Ein Schritt. Ein wegemüdes Weib
+Hält vor dem altersmorschen Kreuzesstamme.
+Ein licht Gewand umhüllt den magern Leib;
+Aus ihrem Aug glüht eine düstre Flamme. — —
+Ich kenne wohl die wankende Gestalt,
+Die einstens prangte in der Weltlenzschöne,
+Getrieben von sehnsüchtigster Gewalt,
+Zu wandern in dem Reich der Menschensöhne:
+„O Psyche, suchst du noch den teuern Gott,
+Den schönsten Jüngling, unter Qual und Jammern,
+Jahrtausend lang umgellt von Hohn und Spott,
+Um an sein selig Herz dich anzuklammern?
+Quält dich Erinnerung der Seligkeit
+Der Sommernacht, voll Flüsterlaut der Quellen
+Und Rosen in der Brandung leisem Schwellen
+Und Rosen auf des Purpurlagers Pracht,
+Wo glückesmüde Augen sich geschlossen
+Und dein Gedanke, wie ein Kahn der Nacht,
+Stieg durch des Sinnens Meer — von Glanz durchflossen?
+Suchst du dein göttlich Glück —? Und führt dein Fuß
+Dich immer wieder zu dem Schmerzensgotte —?
+Du stehst entsetzt! Dein brennend Auge muß,
+Muß schaun das Opfer haßvertierter Rotte:
+Die blutbesprengten Schultern leuchten matt.
+Der tiefste Schmerz in seines Hauptes Neigen.
+Der Mund geheimnisvoll und schmerzenssatt.
+Die Augen starrend in das ewige Schweigen —:
+Doch horch —! Was kommt wie wilden Grimmes Laut,
+Wie notentzücktes Opferlied gezogen,
+Wie Beten, das dem Himmel nicht vertraut,
+Wie stürmisch Glück, das nimmer noch getrogen?
+Das goldne Schicksalslied vom Reich der Welt!
+Es schwankt das Kreuz im grimmen Sturmesbranden. —
+Es steht. Der stumme Friedestifter hält
+Die Arme ausgespannt ob allen Landen. — Das Weib entflieht. Und Golgatha sinkt sacht
+In stimmenvolle, schreckensschwangre Nacht. O Menschensohn, ich lästerte dich nie,
+Wie viele, die dem dumpfen Schicksal fluchen,
+Das ihrer Seele Gier — und Ohnmacht lieh
+Und heißen Drang, ein ewig Glück zu suchen. —
+Der Schmerz ist tief. — Und ruhelos der Geist,
+Dem sieghaft glühen neue Morgenröten,
+Der deiner Liebe Fülle richtend preist
+Und göttlich wird in hohen Schöpfernöten. — —"	l0090078	ANGER#FEAR#LOVE#SADNESS
+5418	Die stille Stadt Dehmel, Richard l00170058	"Doch als den Wandrer graute,
+da ging ein Lichtlein auf im Grund,
+und durch den Rauch und Nebel
+begann ein leiser Lobgesang
+aus Kindermund."	0.0	0.0	1.0	0.0	0.0	0.0	"Die stille Stadt
+Dehmel, Richard Liegt eine Stadt im Thale,
+ein blasser Tag vergeht;
+es wird nicht lange dauern mehr,
+bis weder Mond noch Sterne,
+nur Nacht am Himmel steht. Von allen Bergen drücken
+Nebel auf die Stadt;
+es dringt kein Dach, kein Hof noch Haus,
+kein Laut aus ihrem Rauch heraus,
+kaum Türme noch und Brücken. Doch als den Wandrer graute,
+da ging ein Lichtlein auf im Grund,
+und durch den Rauch und Nebel
+begann ein leiser Lobgesang
+aus Kindermund."	l00170058	FEAR
+50	Lieder an Liane Hoechstetter, Sophie	"Du sollst in meiner Mutter Heimatdorf
+Die Einsamkeit und frühes Leid vergessen
+Und allen Kummer, den du je ermessen —
+Weil ich dich führen will und lächelnd tragen
+Mit stolzem Wagen
+Zu unserm letzten Glück."	0.0	0.0	0.0	1.0	1.0	1.0	"Ich wollte einmal deine Lippen küssen,
+Ich wollte dich in meinem Hause grüßen —
+Einmal mit dir allein sein — fern vom Leben.
+Ich wollte einmal dir in erstem Schweigen
+Die Heimat und mich selbst ganz dir zu eigen
+Bedingungslos in deine Hände geben. Du sollst in meiner Mutter schönstem Bett
+So ruhig schlafen, bis du nicht mehr müd' —
+Und wenn dir dann der junge Tag erglüht,
+Wird er dich wecken aus dem Traum der Nacht,
+Daß dir erwacht
+Der schönere Traum des Lebens. Du sollst an meiner Mutter stillem Herd
+Die alten lieben, guten Worte hören,
+Die alten Worte, die das Herz betören:
+Von Heimatglück, von fernen Zeiten,
+Von müden, lang erblaßten Leiden,
+Die uns noch rühren. Du sollst in meiner Mutter Gartenland
+Die kleinen, bunten Blumen pflücken,
+Die überfallend nach dem Steig sich bücken,
+Die roten Rosen, die dort einsam blühen
+Und erglühen
+Für dich allein. Du sollst in meiner Mutter altem Haus
+Die Liebe nehmen, die ich holen will
+Aus meiner Seele Tiefe und dir still
+Zu Füßen legen, bis der letzte Tag
+Uns kommen mag
+In diesem Leben. Du sollst in meiner Mutter Heimatdorf
+Die Einsamkeit und frühes Leid vergessen
+Und allen Kummer, den du je ermessen —
+Weil ich dich führen will und lächelnd tragen
+Mit stolzem Wagen
+Zu unserm letzten Glück."	l00140053	JOY#LOVE#SADNESS
+3846	Trost in Schmerzen Prutz, Robert [alt. Prutz, Robert Eduard]	"Und alles Weh, das seit der ersten Stunde
+Der Menschheit Brust durchwühlt mit bangem Sehnen,
+Es brennt in meiner Seele Grunde
+Und lindert sich in milden Thränen."	0.0	0.0	0.0	0.0	1.0	1.0	"Da, bei dem düstern Glanz der Trauerkerzen,
+Hab' ich zuerst begriffen und empfunden,
+Dass es ein Glück auch giebt der Schmerzen
+Und dass auch Rosen blühn aus Wunden. Als hätt' erst jetzt die Welt sich mir erschlossen,
+Seitdem mein Auge überquillt von Zähren,
+So seh' ich tausend Leidgenossen,
+Die meine Trauer mir verklären. Wie anders jetzt nach frühverblühtem Lenze
+Berührt die welke Blume mich am Wege,
+Seit ich die winterlichen Kränze
+Auf einen theuern Hügel lege! Wie anders hör' die Nachtigall ich schlagen,
+Wie anders hallt mir's aus der Lerche Chören,
+Seitdem man ihn dahingetragen,
+Der keine Lerche mehr wird hören! Ja selbst am Himmel dort die ewgen Sterne,
+Sie scheinen inniger mir zuzuwinken,
+Seit ich in grenzenlose Ferne
+Ein leuchtend Antlitz sah versinken. Und alles Weh, das seit der ersten Stunde
+Der Menschheit Brust durchwühlt mit bangem Sehnen,
+Es brennt in meiner Seele Grunde
+Und lindert sich in milden Thränen."	l00160230	LOVE#SADNESS
+4296	Die Maske fort! Bredig, Katharina	"Ich habe mit Gewalt erstickt,
+Was mein Gemüt bewegte,
+So manchem Unsinn zugenickt,
+Der Widerspruch erregte."	1.0	1.0	0.0	0.0	0.0	0.0	"Die Maske fort!
+Bredig, Katharina Ich habe die Komödie satt!
+Muß endlich mich befreien,
+Was mich so lang gefoltert hat,
+Mir von der Seele schreien! So wißt: ich habe oft gelacht
+Ein schmerzlich falsches Lachen,
+Mit Ekel Phrasen auch gemacht
+Wie andre Leute machen! Ich habe mit Gewalt erstickt,
+Was mein Gemüt bewegte,
+So manchem Unsinn zugenickt,
+Der Widerspruch erregte."	l00140132	AGITATION#ANGER
+7454	Heiliger Zorn Stöber, Adolf	"Siehst du den Halbwitz
+Höhnisch sich rotten,
+Frevelnd des Hohen,
+Heiligen spotten:
+Röthe dein Antlitz
+Flammendes Blut,
+Sprühe dein Auge
+Zürnende Gluth!"	0.0	1.0	0.0	0.0	0.0	0.0	"Nein! in des Lebens
+Wirren und Kämpfen
+Ziemt es, den Zorn nicht
+Immer zu dämpfen!
+Darfst nicht inmitten
+Tollem Gewühl
+Stehn wie ein Eisberg,
+Allezeit kühl. Nein! wo das Unrecht
+Thronet und schaltet,
+Wo die Verkehrtheit
+Wohnet und waltet:
+Sollst du entbrennen
+Wie ein Vulkan,
+Feuer und Flammen
+Schleudern hinan. Beuget die Obmacht
+Heilige Rechte,
+Will sie die Freien
+Meistern wie Knechte:
+Auf! laß entlodern
+Flammendes Wort!
+Rache zu fodern
+Donner' es fort! Siehst du die Feigheit
+Küssen die Ruthe,
+Die ihr den Nacken
+Geißelt zu Blute:
+Auf! den Verkehrten
+Stachle dein Zorn,
+Sei dem Entehrten
+Weckender Sporn! Weinet die Unschuld,
+Trauert die Reinheit,
+Tückisch gelästert
+Von der Gemeinheit;
+Auf! und empöre,
+Herz, deinen Muth,
+Tilge der Schlange
+Giftige Brut. Siehst du den Halbwitz
+Höhnisch sich rotten,
+Frevelnd des Hohen,
+Heiligen spotten:
+Röthe dein Antlitz
+Flammendes Blut,
+Sprühe dein Auge
+Zürnende Gluth!"	l00200117	ANGER
+4296	Die Maske fort! Bredig, Katharina	"Ich habe mit Gewalt erstickt,
+Was mein Gemüt bewegte,
+So manchem Unsinn zugenickt,
+Der Widerspruch erregte."	1.0	1.0	0.0	0.0	0.0	0.0	"Die Maske fort!
+Bredig, Katharina Ich habe die Komödie satt!
+Muß endlich mich befreien,
+Was mich so lang gefoltert hat,
+Mir von der Seele schreien! So wißt: ich habe oft gelacht
+Ein schmerzlich falsches Lachen,
+Mit Ekel Phrasen auch gemacht
+Wie andre Leute machen! Ich habe mit Gewalt erstickt,
+Was mein Gemüt bewegte,
+So manchem Unsinn zugenickt,
+Der Widerspruch erregte."	l00140132	AGITATION#ANGER
+2581	Fluch diesem Leibe Hart, Heinrich	"Fluch diesem Leibe,
+Dem unersättlich lüsternen,
+Mit seinen Banden
+Schnürt er die Seele ein
+Und reißt in den Koth
+Die Sonnendurstige.
+Aus allen Poren
+Schrei ich nach Freiheit,
+In alle Himmel möcht' ich mich recken, —
+Aber erbarmungslos
+Preßt mich das Elend
+Meiner Sinne
+Zurück in die Dienstbarkeit.
+O Hunger
+Nach dem Ewigen —
+O Hunger!
+Wann kommt die Stunde,
+Wo ich Alles vergessen,
+Alles hinschleudern darf
+Und nur dich, einzig dich
+Zu stillen vermag?
+Weh, wenn die Flamme,
+Die in mir lodert,
+Mich brennend verzehrte,
+Und nicht emporschlüg'
+Wetterleuchtend,
+Herzenentzündend.
+Fort, fort, ihr Bilder
+Lockender Lüste!
+Ich will keinen Platz
+Am Mahle der Lebenden,
+Wo, im glitzernden Licht,
+Schwarzäugiger Frauen
+Heiße, lodernde Blicke
+Die Seele versengen.
+Ich lausche den Todten
+Und horche, was sie verkünden,
+Und ich suche die Ungebornen,
+Daß ich wisse,
+Was war und was sein wird.
+Einsam, einsam
+Will ich wandeln und ziehen,
+Ob fiebernde Brunst auch
+Die Adern emporschwellt, —
+Doch eines vergönn' mir,
+Allwaltende Weltmacht,
+Jedes Wort, das ich schmiede,
+Es werde zum Glied,
+Das die Menschheit verkettet,
+Jedes Lied, das ich singe,
+Wie Thau laß es fallen
+Auf die Herzen der Armen,
+Der Sünder und Buhlen —
+Dann finde ich Frieden."	1.0	1.0	0.0	0.0	1.0	1.0	"Fluch diesem Leibe
+Hart, Heinrich Fluch diesem Leibe,
+Dem unersättlich lüsternen,
+Mit seinen Banden
+Schnürt er die Seele ein
+Und reißt in den Koth
+Die Sonnendurstige.
+Aus allen Poren
+Schrei ich nach Freiheit,
+In alle Himmel möcht' ich mich recken, —
+Aber erbarmungslos
+Preßt mich das Elend
+Meiner Sinne
+Zurück in die Dienstbarkeit.
+O Hunger
+Nach dem Ewigen —
+O Hunger!
+Wann kommt die Stunde,
+Wo ich Alles vergessen,
+Alles hinschleudern darf
+Und nur dich, einzig dich
+Zu stillen vermag?
+Weh, wenn die Flamme,
+Die in mir lodert,
+Mich brennend verzehrte,
+Und nicht emporschlüg'
+Wetterleuchtend,
+Herzenentzündend.
+Fort, fort, ihr Bilder
+Lockender Lüste!
+Ich will keinen Platz
+Am Mahle der Lebenden,
+Wo, im glitzernden Licht,
+Schwarzäugiger Frauen
+Heiße, lodernde Blicke
+Die Seele versengen.
+Ich lausche den Todten
+Und horche, was sie verkünden,
+Und ich suche die Ungebornen,
+Daß ich wisse,
+Was war und was sein wird.
+Einsam, einsam
+Will ich wandeln und ziehen,
+Ob fiebernde Brunst auch
+Die Adern emporschwellt, —
+Doch eines vergönn' mir,
+Allwaltende Weltmacht,
+Jedes Wort, das ich schmiede,
+Es werde zum Glied,
+Das die Menschheit verkettet,
+Jedes Lied, das ich singe,
+Wie Thau laß es fallen
+Auf die Herzen der Armen,
+Der Sünder und Buhlen —
+Dann finde ich Frieden."	l0070132	AGITATION#ANGER#LOVE#SADNESS
+5780	Bekenntnisse Wolzogen, Ernst Freiherr von	"Ich sehe gern am Menschen das Gute,
+Und vermuthe ein Hirn unter jedem Hute,
+Ich glaube gern vom Nächsten das Beste,
+Und vermuthe ein Herz unter jeglicher Weste.
+Wenn ich dann übel getäuscht mich seh’
+Thut es mir in der Seele weh.
+Verdächtig ist stets mir das heil’ge Entrüsten,
+Das modische Lasteraufdeckungs Gelüsten;
+Das Irrlicht zeigt gar eine liebliche Flamme —
+Und fühlt sich sauwohl doch im faulenden Schlamme.
+Wenn ich im Sumpfe nach Molchen fische,
+Wasch ich mir mindstens die Hände vor Tische.
+Mich ärgern die flapsig protzenden Rüden
+Just so sehr wie die tantenhaft Prüden
+Ich lache der Gecken, der schniepelig zieren —
+Halt’ aber sehr auf gute Manieren.
+Ich liebe die Grünen, die derbfrischen Kleinen,
+Sie dürfen aber nicht lärmen und greinen.
+Wer die Ahnen wirft unters alte Eisen,
+Soll eigene Zeugungskraft erst beweisen.
+In Summa: den seh’ ich für’n Dummkopf an,
+Der über die Dummheit nicht lachen kann!"	0.0	1.0	0.0	1.0	1.0	1.0	"Bekenntnisse
+Wolzogen, Ernst Freiherr von Ich sehe gern am Menschen das Gute,
+Und vermuthe ein Hirn unter jedem Hute,
+Ich glaube gern vom Nächsten das Beste,
+Und vermuthe ein Herz unter jeglicher Weste.
+Wenn ich dann übel getäuscht mich seh’
+Thut es mir in der Seele weh.
+Verdächtig ist stets mir das heil’ge Entrüsten,
+Das modische Lasteraufdeckungs Gelüsten;
+Das Irrlicht zeigt gar eine liebliche Flamme —
+Und fühlt sich sauwohl doch im faulenden Schlamme.
+Wenn ich im Sumpfe nach Molchen fische,
+Wasch ich mir mindstens die Hände vor Tische.
+Mich ärgern die flapsig protzenden Rüden
+Just so sehr wie die tantenhaft Prüden
+Ich lache der Gecken, der schniepelig zieren —
+Halt’ aber sehr auf gute Manieren.
+Ich liebe die Grünen, die derbfrischen Kleinen,
+Sie dürfen aber nicht lärmen und greinen.
+Wer die Ahnen wirft unters alte Eisen,
+Soll eigene Zeugungskraft erst beweisen.
+In Summa: den seh’ ich für’n Dummkopf an,
+Der über die Dummheit nicht lachen kann!"	l00100084	ANGER#JOY#LOVE#SADNESS
+6195	Tief im Schoosse der Gewässer ruhet das versunkne Bild Ziel, Ernst	"Ehemals auf hohem Sockel ragte es am sonngen Strand,
+Doch die Zeit ergriff es neidisch, warf es in des Meeres Sand."	0.0	1.0	0.0	0.0	0.0	0.0	"Tief im Schoosse der Gewässer ruhet das versunkne Bild
+Ziel, Ernst Tief im Schoosse der Gewässer ruhet das versunkne Bild,
+Dehnt die weissen Marmorglieder durch das grüne Meergefild. Ehemals auf hohem Sockel ragte es am sonngen Strand,
+Doch die Zeit ergriff es neidisch, warf es in des Meeres Sand."	l00160329	ANGER
+5584	An das 20. Jahrhundert Hart, Heinrich	"Unser Blut treibt neue Säfte,
+Unser Mark trinkt neue Kräfte,
+Unsre Adern klopfen weit.
+Mit einander so zu bauen,
+Einig, einig voll Vertrauen,
+Heil dem Tag, der so befreit."	0.0	1.0	0.0	1.0	0.0	0.0	"Wo du gehst, da öffnen alle
+Tiefen sich mit heißem Schwalle
+Und des Abgrunds Nacht wird Tag.
+Glühend braust's in tausend Seelen,
+Erd' und Himmel zu vermählen,
+Dringt der Geist zum Sternenhag. Wo du gehst, quillt Lust und Segen,
+Jedem Herzen rauscht's entgegen
+Wie des Lenzwinds thauig Warm.
+Und der Winter geht zu Ende,
+Liebend reichen sich die Hände
+Stark und Krank und Reich und Arm. Und von Ost gen Westen fahren
+Boten aller Völkerschaaren —
+Unsrer Fehde sei's genug.
+Kommt, den Gruß uns zu erwidern,
+Laßt uns Brüder sein mit Brüdern,
+Fahr' zur Hölle Macht und Lug. Schlagt die Cymbeln, spielt die Geigen,
+Süße Mädchen schlingt den Reigen,
+Kränzt mit Grün den Maienbaum.
+Auf, ihr Männer, Opfergluthen
+Laßt von allen Bergen fluthen,
+Auf, vorbei ist Nacht und Traum. Wie ein Tempel sei die Erde,
+Daß der Mensch zum Gotte werde
+Todesmächtig, licht und hehr.
+Daß nicht Wasser und nicht Lüfte,
+Nicht der Zwietracht düstre Klüfte
+Trennen unsre Herzen mehr. Unser Blut treibt neue Säfte,
+Unser Mark trinkt neue Kräfte,
+Unsre Adern klopfen weit.
+Mit einander so zu bauen,
+Einig, einig voll Vertrauen,
+Heil dem Tag, der so befreit."	l0070133	ANGER#JOY
+4137	Mondnacht im Gebirge Bube, Adolf	"Da trat ich aus des Waldes tiefem Dunkel
+Und sah den Vollmond hinter breiten Matten.
+Schräg ging zur Seite mir im Thaugefunkel
+Aus freier Eb'ne mein gedehnter Schatten."	0.0	0.0	1.0	0.0	0.0	0.0	"Mondnacht im Gebirge
+Bube, Adolf Ich schritt hinunter vom bemoosten Gipfel
+Auf jähem Pfade zwischen schlanken Tannen,
+Die Sonne schien noch auf die höchsten Wipfel,
+Als tief im Thal schon Nacht und Nebel spannen. Bald wogten düstre Schleier mir entgegen
+Und schlugen über meinem Haupt zusammen.
+Schwer wollte Angst sich auf das Herz mir legen,
+Wie Strauch und Baum in Finsterniß verschwammen. Da trat ich aus des Waldes tiefem Dunkel
+Und sah den Vollmond hinter breiten Matten.
+Schräg ging zur Seite mir im Thaugefunkel
+Aus freier Eb'ne mein gedehnter Schatten."	l0080073	FEAR
+6986	Ein Kontertanz Müller-Rastatt, Karl	"„Hier fände ich mein Glück vielleicht!“
+Der Jüngling denkt's und sinnt und schweigt.
+Und schweigend denkt das Mägdelein:
+„Soll dieser wohl der Rechte sein?“
+Balancez!"	0.0	0.0	0.0	1.0	0.0	0.0	"Ein Kontertanz
+Müller-Rastatt, Karl Im Saal voll Pracht und Lichterglanz
+Lädt die Musik zum Kontertanz.
+Es stehen in der Tänzer Reihn
+Ein Jüngling und ein Jungfräulein:
+Compliment! „Hier fände ich mein Glück vielleicht!“
+Der Jüngling denkt's und sinnt und schweigt.
+Und schweigend denkt das Mägdelein:
+„Soll dieser wohl der Rechte sein?“
+Balancez!"	l0030317	JOY
+1551	SCHWERMUT S. FRIEDLAENDER l0029033	"Wer dies stumme Geheimnis hört,
+Wird schweigen,
+Sein Haupt verstört
+Wird sich neigen."	0.0	1.0	1.0	0.0	0.0	0.0	"Wer mein trübes Geheimnis ahnt,
+Wird erblassen,
+Er ist gemahnt
+Und verlassen. Er wohnt allein
+Und muß warten,
+Still spricht sein Garten
+Ihm Pein. Er geht wohl,
+Aber sein Wandern
+Führt nicht zu andern.
+Er bleibt hohl. Die linde Blume
+In seiner Hand
+Bröckelt zur Krume,
+Schwand. Dunkel blickt er
+In den Grauhimmel,
+In Gift erstickt er,
+Die Luft ist Schimmel. Wer dies stumme Geheimnis hört,
+Wird schweigen,
+Sein Haupt verstört
+Wird sich neigen."	l00300044	ANGER#FEAR
+8052	Tiefste Qual Conradi, Hermann l0040092	"verweht von deines Schmerzes Riesenflammen.
+Du sinnst und sinnst... in tollen Takten fliegt
+dein Puls — — als müßtest du den Fluch verdammen,"	0.0	1.0	0.0	0.0	0.0	1.0	"Tiefste Qual
+Conradi, Hermann Hast du des Daseins tiefste Qual empfunden?
+Kam über dich einmal der wilde Schmerz,
+der zu dir schreit aus deiner Seele Wunden? Es krampft sich in Titanenweh das Herz,
+vom Daseinsekel angepackt, zusammen,
+und von der Lippe stiehlt sich Hohn und Scherz, verweht von deines Schmerzes Riesenflammen.
+Du sinnst und sinnst... in tollen Takten fliegt
+dein Puls — — als müßtest du den Fluch verdammen,"	l0040092	ANGER#SADNESS
+6187	Wo nur? Held, Franz	"Das hohe Eckhaus meiner Rue Monge
+Mit seiner gewölbten Giebelmauer,
+Mit seinen gestäbten Reifenbalkons
+Sieht aus, wie ein riesiger Vogelbauer.
+Ach, und der Vogel flötet so feucht,
+Ob auch aus Dachkammerlücken
+Kaum ein kümmerlich Grünwerk schleicht —
+Wo steckst du nur, Buschkind voller Entzücken?"	1.0	0.0	0.0	1.0	0.0	0.0	"Wo nur?
+Held, Franz Am kleinen Tag Sonnenaufgangschein
+Wie ein Bronzegeschmeid auf dem Kuppeldach lag,
+Über der Öde von Zink und Stein
+Schwebte schmetternder Finkenschlag,
+Während doch alles von Schloten umragt,
+Rings kein Baum zu erblicken.
+Habe mich drum erstaunt gefragt:
+Wo singt nur der Vogel voller Entzücken? Das hohe Eckhaus meiner Rue Monge
+Mit seiner gewölbten Giebelmauer,
+Mit seinen gestäbten Reifenbalkons
+Sieht aus, wie ein riesiger Vogelbauer.
+Ach, und der Vogel flötet so feucht,
+Ob auch aus Dachkammerlücken
+Kaum ein kümmerlich Grünwerk schleicht —
+Wo steckst du nur, Buschkind voller Entzücken?"	l0090040	AGITATION#JOY
+6204	Am Tagessaume Schulze, Constans [Pseud. Silesius]	"Eh' es die Augen schließet,
+Gedenkt es noch einmal
+Des Tages Lust und danket
+Auch seinem letzten Strahl. —"	0.0	0.0	0.0	1.0	1.0	0.0	"Am Tagessaume
+Schulze, Constans Schon schliefen Busch und Aue
+Im Abendlispeln ein,
+Da läßt sich noch vernehmen
+Hell Waldes Vögelein. Eh' es die Augen schließet,
+Gedenkt es noch einmal
+Des Tages Lust und danket
+Auch seinem letzten Strahl. —"	l00130293	JOY#LOVE
+228	Die Wintersonne Peters, Adolf l0080375	"Du schwebst und schwillst und strömst den ew'gen Morgen
+Wie Gott durch alle Himmel hin,
+Und tiefe Nacht umhüllt mit Gram und Sorgen
+Des Menschen Sinn."	0.0	0.0	0.0	0.0	1.0	1.0	"Tief schläft Natur, in ihrem Flimmerkleide
+Unendlich vor mir hingedehnt,
+Und meine Seele darbt, die sich im Leide
+Nach Leben sehnt. Entlaubte Birken zieh'n im Trauerreigen
+Zum Felsensteg, wo im Azure träumt
+Die Tanne mit den ewig grünen Zweigen,
+Von Schnee gesäumt. Der Wipfel glüht, berührt vom Sonnenballe,
+Mein Auge haftet an dem Schein,
+Es saugt und trinkt, berauscht vom farb'gen Schwalle,
+Trinkt tief ihn ein. Wie ich so still am Sonnenantlitz hange,
+Kommt Himmelsfrieden über mich,
+Und durstig, selig trink' ich lange, lange —
+Schon neigt sie sich. O süßer Lichtstrom, bist du Gottes Helle,
+Die mich mit Gluthen übergießt?
+Ahmst du die erste Liebe nach, die Quelle,
+Die endlos fließt? Du schwebst und schwillst und strömst den ew'gen Morgen
+Wie Gott durch alle Himmel hin,
+Und tiefe Nacht umhüllt mit Gram und Sorgen
+Des Menschen Sinn."	l0080375	LOVE#SADNESS
+3644	Der Dämon Stern, Maurice Reinhold von [alt. Stern, Maurice von; Stern, Maurice-Reinhold von]	"Verflucht, ihr Sonnen und Sterne!
+Du blauende Ferne!!
+Was äfft ihr den wachen, träumenden Geist
+Mit Bildern, die doch ein Hauch zerreißt!
+Dies ganze bunte Bilderbuch
+Ist ein Trug.
+Das atmende Meer im Morgenlicht,
+Das kenne ich nicht.
+Der Frühhauch, der perlend die Flut überläuft,
+Der Glanz, den der Äther herniederträuft,
+Die Wärme, das lachende Himmelszelt, —
+Lüge, Lüge die ganze Welt!
+Und echt nur die Qual, und echt nur die Qual,
+Der Schrei, der durch Ewigkeiten sich stahl
+Aus unendlichem Weltenweh erdenwärts
+In das fühlende, schuldige Menschenherz,
+Das nun, ein Echo der leidenden Zeit,
+Die Qual widertönt der Ewigkeit.
+O, wie ich sie hasse, die prahlende Kraft,
+Die spielerisch Welten aus Träumen schafft
+Und gaukelnd den hungernden Menschengeist
+Mit gleißnerischen Symbolen speist!
+Ermattet bin ich, die Flügel so schwer,
+Und dennoch schwing' ich mich über das Meer
+Und schlage die schwarzen Flügel voll Hohn
+Um ihren erlogenen Sonnenthron.
+Und schau, den du Gott den Allmächtigen nennst,
+Er fürchtet sich vor dem vergrämten Gespenst!"	0.0	1.0	1.0	1.0	0.0	1.0	"Der Dämon
+Stern, Maurice Reinhold von [alt. Stern, Maurice von; Stern, Maurice-Reinhold von] Verflucht, ihr Sonnen und Sterne!
+Du blauende Ferne!!
+Was äfft ihr den wachen, träumenden Geist
+Mit Bildern, die doch ein Hauch zerreißt!
+Dies ganze bunte Bilderbuch
+Ist ein Trug.
+Das atmende Meer im Morgenlicht,
+Das kenne ich nicht.
+Der Frühhauch, der perlend die Flut überläuft,
+Der Glanz, den der Äther herniederträuft,
+Die Wärme, das lachende Himmelszelt, —
+Lüge, Lüge die ganze Welt!
+Und echt nur die Qual, und echt nur die Qual,
+Der Schrei, der durch Ewigkeiten sich stahl
+Aus unendlichem Weltenweh erdenwärts
+In das fühlende, schuldige Menschenherz,
+Das nun, ein Echo der leidenden Zeit,
+Die Qual widertönt der Ewigkeit.
+O, wie ich sie hasse, die prahlende Kraft,
+Die spielerisch Welten aus Träumen schafft
+Und gaukelnd den hungernden Menschengeist
+Mit gleißnerischen Symbolen speist!
+Ermattet bin ich, die Flügel so schwer,
+Und dennoch schwing' ich mich über das Meer
+Und schlage die schwarzen Flügel voll Hohn
+Um ihren erlogenen Sonnenthron.
+Und schau, den du Gott den Allmächtigen nennst,
+Er fürchtet sich vor dem vergrämten Gespenst!"	l0090051	ANGER#FEAR#JOY#SADNESS
+3800	Zweifel X.X.	"Dann riefe ich, ob auch ein Grauen
+Die tiefste Seele mir bewegt:
+Du hast zum kindlichen Vertrauen
+Den Zweifel mir ins Herz gelegt."	0.0	1.0	1.0	0.0	0.0	0.0	"Zweifel
+X.X. Und sollte dennoch einst ergehen
+Streng über uns ein Weltgericht,
+Und müssten schauernd wir gestehen:
+Es ist ein Gott; wir glaubtens nicht — Und früg der Herr in heilgem Grimme,
+Von Donner hehr umtönt das Haupt,
+Des Todes Schrecken in der Stimme:
+Was hast du nicht an mich geglaubt? — Dann riefe ich, ob auch ein Grauen
+Die tiefste Seele mir bewegt:
+Du hast zum kindlichen Vertrauen
+Den Zweifel mir ins Herz gelegt."	l0050086	ANGER#FEAR
+3867	Spruch Jensen, Wilhelm l00160172	"Immer das Kommende sinnet der Mensch: in die herbstliche Stoppel,
+Kaum von den Ähren noch leer, senkt er den Pflug für die Saat.
+Dass er geerntet und dass er zu ernten erhofft, es verknüpft ihm
+Morgen und Abend, und so schwindet der Mittag ihm hin."	0.0	0.0	0.0	1.0	0.0	0.0	"Spruch
+Jensen, Wilhelm Immer das Kommende sinnet der Mensch: in die herbstliche Stoppel,
+Kaum von den Ähren noch leer, senkt er den Pflug für die Saat.
+Dass er geerntet und dass er zu ernten erhofft, es verknüpft ihm
+Morgen und Abend, und so schwindet der Mittag ihm hin."	l00160172	JOY
+1007	Flatternde Locken Hamerling, Robert	"Du zürnst? Wie magst du mit dem Freunde rechten
+Um eine Schleife, weichend aufgegangen?
+Des Haares Schleifen sind nicht Gürtelspangen;
+Und läßt die Locke nicht sich wieder flechten?"	0.0	1.0	0.0	0.0	1.0	0.0	"Flatternde Locken
+Hamerling, Robert O knüpfe los die langen, goldnen Flechten,
+Und laß sie lieblich flatternd niederhangen!
+Viel süßer ist's mit wild umlockten Wangen
+Der Küsse holden Wettkampf auszufechten! Du zürnst? Wie magst du mit dem Freunde rechten
+Um eine Schleife, weichend aufgegangen?
+Des Haares Schleifen sind nicht Gürtelspangen;
+Und läßt die Locke nicht sich wieder flechten?"	l0080192	ANGER#LOVE
+4565	Vielleicht Clausnitzer-Hennes, Marie	"Auf Erden ist Täuschung, einst wird sie vergehn,
+Am Ziele; auch du wirst dann nicht mehr bestehn.
+Dann, Wörtchen der Hoffnung, dann lisple noch süß:
+Ich bin nicht Vielleicht mehr, nun heiß' ich: Gewiß."	0.0	1.0	0.0	1.0	0.0	0.0	"Vielleicht
+Clausnitzer-Hennes, Marie Du Wörtchen der Hoffnung, du trautes Vielleicht,
+Wie hast du schon oft mir die Zweifel verscheucht;
+Schaut bang in die Zukunft der forschende Blick,
+Verkündest du tröstend mir Freude und Glück. Doch wenn uns das Schicksal — wie's manchmal geschieht
+Was Hoffnung uns schmeichelnd versprach, doch entzieht,
+Dann hast du, o Wörtchen, das sie nur erfand,
+So mancherlei Trost für Getäuschte zur Hand. Du zeigst in die Ferne. Was heut nicht zu sehn,
+Das kann doch wohl morgen vielleicht noch geschehn,
+Das Wünschen, das Sehnen, das jetzt dich erfüllt,
+Es wird dir vielleicht, eh' du's meinest, gestillt. Ja, ohne dich kann nie die Hoffnung bestehn,
+Du täuschest mit ihr, und du schmeichelst so schön,
+Und wenn man auch nie das Gehoffte erreicht,
+Wer könnte dir zürnen? Du sprachst nur: Vielleicht! Auf Erden ist Täuschung, einst wird sie vergehn,
+Am Ziele; auch du wirst dann nicht mehr bestehn.
+Dann, Wörtchen der Hoffnung, dann lisple noch süß:
+Ich bin nicht Vielleicht mehr, nun heiß' ich: Gewiß."	l0080088	ANGER#JOY
+4695	Wie hold die Worte dir vom Munde gehn Frapan, Ilse	"Wie hold die Worte dir vom Munde gehn,
+Von Weisheit voll und wie Musik zu hören;
+Doch spür ich oft den Ton nur mich umwehn,
+Und ihren Inhalt könnt ich nicht beschwören.
+So fühl ich deine Nähe mich betören,
+Daß meine Augen wie durch Nebel sehn;
+Als ob die äußern Sinne sich verlören,
+Weil mir im Herzen zu viel Glück geschehn.
+Das pocht und jauchzt, als sprengt es mir die Brust!
+Du bist's! du bist's! wie sucht ich dich vergebens!
+Die ganze Welt durchsucht' ich, ach, nach dir!
+Und du antwortest stumm und unbewußt:
+Ich bin's, die einz'ge Liebe deines Lebens
+Und dein Verhängnis; zittre nun vor mir!"	0.0	0.0	0.0	1.0	1.0	0.0	"Wie hold die Worte dir vom Munde gehn
+Frapan, Ilse Wie hold die Worte dir vom Munde gehn,
+Von Weisheit voll und wie Musik zu hören;
+Doch spür ich oft den Ton nur mich umwehn,
+Und ihren Inhalt könnt ich nicht beschwören.
+So fühl ich deine Nähe mich betören,
+Daß meine Augen wie durch Nebel sehn;
+Als ob die äußern Sinne sich verlören,
+Weil mir im Herzen zu viel Glück geschehn.
+Das pocht und jauchzt, als sprengt es mir die Brust!
+Du bist's! du bist's! wie sucht ich dich vergebens!
+Die ganze Welt durchsucht' ich, ach, nach dir!
+Und du antwortest stumm und unbewußt:
+Ich bin's, die einz'ge Liebe deines Lebens
+Und dein Verhängnis; zittre nun vor mir!"	l00140036	JOY#LOVE
+7629	Vom „guten, alten“ Onkel Blüthgen, Victor	"Ein schöner Mann! Es sprühte sein Blick,
+Es flössen so braun die Locken —
+Wie konnte er gegen des „Kindes“ Glück
+Sein ehrliches Herz verstocken
+Bis in die Nacht beim perlenden Wein
+Sein Lachen lustig schallte.
+Dann schlugen die Thüren — er blieb allein,
+Der Onkel, der „gute, alte“."	0.0	1.0	1.0	1.0	0.0	0.0	"Er zählte schon in die vierzig Jahr,
+Der Onkel, der „gute, alte“;
+Er nahm sie aus der Geschwisterschaar,
+Dass sie sein Haus verwalte,
+Und Alles pries den edlen Mann,
+Wie er sie väterlich halte.
+Was Wunder, dass er ihr Herz gewann,
+Der Onkel, der „gute, alte“! Sie war so rosig und kerngesund,
+Und konnte so reizend schmeicheln;
+Er liess sich küssen von ihrem Mund
+Und liess sich geduldig streicheln;
+Wie weich sie wischte von seiner Stirn
+Die böse, die Sorgenfalte!
+Er hatte sie lieb, die „schmucke Dirn“,
+Der Onkel, der „gute, alte“. Sie durfte sich putzen nach Herzenslust
+Er schenkte ihr Sammet und Seide;
+Er schmückte des „Töchterchens“ junge Brust
+Mit funkelndem Geschmeide.
+Sie hing am Arm ihm überall;
+Und kam der Winter, der kalte,
+So ging er getreuHch auf jeden Ball,
+Der Onkel, der „gute, alte“. Nur eines sah er niemals gern,
+Es machte ihn still und verdriesslich:
+Das Seufzen und Schmachten junger Herrn,
+Das fand er unerspriesslich.
+Sie selber sprach, dass sie's für Wind
+Und eitel Thorheit halte.
+Er freute sich über sein „kluges Kind“,
+Der Onkel, der „gute, alte“. Doch einst — der Mai kam just heran,
+Die Luft war lenzestrunken —
+Da ist sie mit einem jungen Mann
+Vor ihm aufs Knie gesunken.
+Sie flehten, dass sein Segenswort
+Ihr dauernd Glück gestalte.
+Wie stand er so erschrocken dort.
+Der Onkel, der „gute, alte“! Ein schöner Mann! Es sprühte sein Blick,
+Es flössen so braun die Locken —
+Wie konnte er gegen des „Kindes“ Glück
+Sein ehrliches Herz verstocken
+Bis in die Nacht beim perlenden Wein
+Sein Lachen lustig schallte.
+Dann schlugen die Thüren — er blieb allein,
+Der Onkel, der „gute, alte“."	l00160012	ANGER#FEAR#JOY
+5017	Vorbei Renner, Gustav	"Über die Stoppeln her weht der Wind, —
+Mädchen, was säumst du nur,
+Mädchen, was träumst du nur,
+Träumst du nur, liebliches Kind?"	0.0	0.0	0.0	0.0	0.0	0.0	"Vorbei
+Renner, Gustav Über die Stoppeln her weht der Wind, —
+Mädchen, was säumst du nur,
+Mädchen, was träumst du nur,
+Träumst du nur, liebliches Kind?"	l0010184	NONE
+2773	Zur Dämmerstunde war's — Lingen, Thekla	"Sie suchte dich —
+Wie dufteten die Rosen!
+Und lechzend barg ich mein Gesicht hinein
+Und sog die süßen, süßen Düfte ein —
+Wie fühlt' ich deine Wünsche mich umkosen!"	0.0	0.0	0.0	0.0	1.0	0.0	"Zur Dämmerstunde war's —
+Lingen, Thekla Zur Dämmerstunde war's,
+Zur schlimmen Zeit —
+Und deine Rosen dufteten im Zimmer,
+Ins Fenster brach der letzte Abendschimmer —
+Und meine Sehnsucht ging so weit. Sie suchte dich —
+Wie dufteten die Rosen!
+Und lechzend barg ich mein Gesicht hinein
+Und sog die süßen, süßen Düfte ein —
+Wie fühlt' ich deine Wünsche mich umkosen!"	l00170153	LOVE
+549	Am Meer Lieber, Alfred von	"Am Meer
+Lieber, Alfred von"	0.0	0.0	0.0	0.0	0.0	0.0	"Am Meer
+Lieber, Alfred von"	l0060056	NONE
+2938	Meine Boten Held-Marbach, Clara	"Ich kann ihm ja nicht zürnen,
+Denn süß ist selbst die Qual —
+Ihr meine Lieder alle,
+O grüßt ihn tausend mal!"	0.0	1.0	0.0	0.0	0.0	0.0	"Meine Boten
+Held-Marbach, Clara Gruß' ihn, o Morgenröthe,
+Mit deinem ersten Strahl!
+Leucht', Sonne, seinem Pfade
+Und grüß' ihn tausend mal! Ihr Blümlein hold und duftig,
+Verborgen im tiefen Thal,
+Sprecht ihm von meiner Liebe,
+Und grüßt ihn tausend mal! Am dunkeln Abendhimmel,
+Ihr Sternlein ohne Zahl,
+Mit euerm süßen Blinken
+Grüßt ihn viel tausend mal! In einsam stiller Kammer,
+Im dichtgedrängten Saal
+Sucht ihn nur mein Gedanke
+Und grüßt ihn tausend mal! Ich kann ihm ja nicht zürnen,
+Denn süß ist selbst die Qual —
+Ihr meine Lieder alle,
+O grüßt ihn tausend mal!"	l0020079	ANGER
+6187	Wo nur? Held, Franz	"Das hohe Eckhaus meiner Rue Monge
+Mit seiner gewölbten Giebelmauer,
+Mit seinen gestäbten Reifenbalkons
+Sieht aus, wie ein riesiger Vogelbauer.
+Ach, und der Vogel flötet so feucht,
+Ob auch aus Dachkammerlücken
+Kaum ein kümmerlich Grünwerk schleicht —
+Wo steckst du nur, Buschkind voller Entzücken?"	1.0	0.0	0.0	1.0	0.0	0.0	"Wo nur?
+Held, Franz Am kleinen Tag Sonnenaufgangschein
+Wie ein Bronzegeschmeid auf dem Kuppeldach lag,
+Über der Öde von Zink und Stein
+Schwebte schmetternder Finkenschlag,
+Während doch alles von Schloten umragt,
+Rings kein Baum zu erblicken.
+Habe mich drum erstaunt gefragt:
+Wo singt nur der Vogel voller Entzücken? Das hohe Eckhaus meiner Rue Monge
+Mit seiner gewölbten Giebelmauer,
+Mit seinen gestäbten Reifenbalkons
+Sieht aus, wie ein riesiger Vogelbauer.
+Ach, und der Vogel flötet so feucht,
+Ob auch aus Dachkammerlücken
+Kaum ein kümmerlich Grünwerk schleicht —
+Wo steckst du nur, Buschkind voller Entzücken?"	l0090040	AGITATION#JOY
+39	Um ein stilles Herz Knapp, Albert l00200073	"Du ja trachtest aller Orten
+Uns mit deinen Liebesworten
+Überschwänglich zu erfreu'n;
+Aber vor dem lauten Toben,
+Das von unten sich erhoben,
+Kann der milde Laut von oben
+Nicht in unsre Herzen ein."	0.0	1.0	0.0	1.0	1.0	0.0	"Um ein stilles Herz
+Knapp, Albert Sohn des Vaters, Herr der Ehren,
+Eines wolle mir gewähren,
+Eins, das mir vor Allem fehlt:
+Daß aus deiner Gnadenfülle
+Milde Ruhe, sanfte Stille
+In das laute Herz mir quille,
+Das sich stets mit Eitlem quält. Du ja trachtest aller Orten
+Uns mit deinen Liebesworten
+Überschwänglich zu erfreu'n;
+Aber vor dem lauten Toben,
+Das von unten sich erhoben,
+Kann der milde Laut von oben
+Nicht in unsre Herzen ein."	l00200073	ANGER#JOY#LOVE
+5649	Hedwig Scherer, Georg	"Hoch droben über'm Walde
+Da steht auf sonn'ger Halde
+Einsam das Försterhaus;
+Dort ging sie unter Bäumen
+Und sah in stillen Träumen
+Weit, weit in's duft'ge Land hinaus."	0.0	0.0	0.0	0.0	0.0	0.0	"Hedwig
+Scherer, Georg Hoch droben über'm Walde
+Da steht auf sonn'ger Halde
+Einsam das Försterhaus;
+Dort ging sie unter Bäumen
+Und sah in stillen Träumen
+Weit, weit in's duft'ge Land hinaus."	l00200252	NONE
+3921	Recensenten Volkmann, Richard [Pseud. Leander, Richard]	"Könnte diese man, wie dich, rupfen, braten, fressen,
+Was die Kerle fett gemacht, wollt' ich gern vergessen!"	0.0	0.0	0.0	0.0	0.0	0.0	"Bläulich breitet sich der See bis zum Firmamente;
+Meine Seele dehnt sich weit mit dem Elemente. Alten Zeiten sinn' ich nach, längst verrauschter Fabel —
+Eine Ente schwimmt herbei mit profanem Schnabel. Fängt das Thier zu schnattern an: „Zwar der See ist bläulich,
+Aber in der Tiefe haust Wurm und Schnecke gräulich. Ist es nicht ein gross Verdienst, so den Teich zu säubern?
+Und es lohnt die Arbeit sich gleich an unsern Leibern.“ Ja, du bist ein kluges Thier, Muhme Schnatter-Ente,
+Wirst von fremden Fehlern dick, bist ein Recensente. Könnte diese man, wie dich, rupfen, braten, fressen,
+Was die Kerle fett gemacht, wollt' ich gern vergessen!"	l00160184	NONE
+7038	Abendlied Rückert, Friedrich l00200052	"Ich sprach: O Herz, empfinde
+Der Schöpfung Stille nun,
+Und schick' mit jedem Kinde
+Der Flur dich auch, zu ruhn."	1.0	0.0	0.0	0.0	0.0	0.0	"Abendlied
+Rückert, Friedrich Ich stand auf Berges Halde,
+Als Sonn' hinunterging,
+Ich sah, wie überm Walde
+Des Abends Goldnetz hing. Des Himmels Wolken thauten
+Der Erde Frieden zu,
+Bei Abendglockenlauten
+Ging die Natur zur Ruh'. Ich sprach: O Herz, empfinde
+Der Schöpfung Stille nun,
+Und schick' mit jedem Kinde
+Der Flur dich auch, zu ruhn."	l00200052	AGITATION
+3017	Hoffnung Kletke, Hermann	"Blüthen und Blätter, immer
+Streben sie himmelwärts;
+Nicht brauchst du der Sonne Schimmer,
+Du brauchst ein menschliches Herz!"	0.0	0.0	0.0	1.0	0.0	1.0	"Hoffnung
+Kletke, Hermann O Hoffnung, milde Blume,
+Täglich begieß' ich dich;
+Du gabst zum Eigenthume
+Dem weinenden Herzen dich. Blüthen und Blätter, immer
+Streben sie himmelwärts;
+Nicht brauchst du der Sonne Schimmer,
+Du brauchst ein menschliches Herz!"	l0080305	JOY#SADNESS
+1677	Den Dichtern Schanz, Julius [Pseud. Schanz, Uli]	"Wo ist im Wirrsal dieser Tage
+Ein gottbegeisterter Poet,
+Der in der Völker Not und Klage
+Nicht opfermutig vorwärts geht? —
+Ihm sei des Himmels Thor verschlossen,
+Der nur vom eignen Leide singt,
+Der nicht des Geistes volle Sprossen
+Als Opfer, von Gesang umgossen,
+Zum Hochaltar der Menschheit bringt."	0.0	0.0	0.0	0.0	0.0	1.0	"Den Dichtern
+Schanz, Julius [Pseud. Schanz, Uli] Wo ist im Wirrsal dieser Tage
+Ein gottbegeisterter Poet,
+Der in der Völker Not und Klage
+Nicht opfermutig vorwärts geht? —
+Ihm sei des Himmels Thor verschlossen,
+Der nur vom eignen Leide singt,
+Der nicht des Geistes volle Sprossen
+Als Opfer, von Gesang umgossen,
+Zum Hochaltar der Menschheit bringt."	l00130277	SADNESS
+7285	BALLADE VON WAHN UND TOD FRANZ WERFEL l00300161	"Ich ging, wie Tote gehn,
+Ein abgeschiedner Geist, verwaist und ungesehn.
+Ich schwebte fern und kühl durch Heimkehr und Gewühl,
+Sah Kinder rennen und sah Bettler stehn.
+Ein Buckliger hielt sich den Bauch, und eine Greisin schwang den Stock und                     schrie.
+Leicht eine Dame lächelte. Ein Mädchen küßte sich die Hand ...
+Und ich verstand, was sie verband, und schritt durch ihre Alchimie."	0.0	0.0	0.0	1.0	1.0	0.0	"O letzte Angst und Schmerz!
+O Traum vom Flur, o Traum vom Haus, aus dem die Frau mich führte aus!
+O Bett, im Dunkel aufgestellt, auf dem sie mich entließ zur Welt!
+Ich stand in schwarzem Erz,
+Und hielt mein Herz und konnte nicht schrein,
+Und sang ein – Rette mich – in mich ein.
+Der Raum von Stein baute mich ein. Ich hörte schallen den Fluß und fallen, den                     Fluß: Allein Und da es war also,
+Tat sich mir kund mein letztes Los, und ich stieg auf aus allem Schoß.
+Im schwarzen Traum vom Flur zerriß und klang die Schnur.
+Und ich erkannte so,
+Warum da leicht und fein die Hand mich schlug,
+Die schwach an meine Stirne fuhr,
+Und meinen Gang geheim bezwang, daß ich nicht wankte mehr und kaum mich selber                     trug. Und als ich ihn erkannt,
+Den Augenblick, der mich trat an, da war ich selbst der andre Mann,
+Und der mir hart gebot, ich selber war mein Tod.
+Und nahm mir alles unverwandt,
+Und wand es fort aus meiner Hand und hielt’s gepackt: –
+Genuß und Liebe, Macht und Ruhm und jammernd die Dichtkunst zuletzt.
+Und stand entsetzt und ausgefetzt und ohne Wahn und aufgetan und völlig                     nackt. O Tod, o Tod, ich sah
+Zum erstenmal mich wahrhaft sein, mich ohne Willen, Wunsch und Schein,
+Wie Trinker nächtlich spät sich gegenüber steht.
+– – Er lacht und bleibt sich fern und nah – –
+Ich stand erstarrt in erster Gegen-Wart, allein, zu zwein.
+(Ach, was wir sagen, lügt schon, weil es spricht.)
+Ich fand mich, ohne Wahn mich sein, und starb in mein Erwachen ein. Im großen Raum des Tags
+Hob ich mein Haupt auf aus dem Traum und sah auf meinen Fensterbaum.
+Die Stadt ging hohl, Novembermeer, und schallte schwer,
+Der Himmel glühte noch kaum.
+Ich aber ging hinab mit großem Haupt und Hut,
+Und ging durch Straßen, rötliches Gebirg und Paß ...
+Mein Haupt vom Traum umlaubt noch. Ging mit dumpfem Blut. Ich ging, wie Tote gehn,
+Ein abgeschiedner Geist, verwaist und ungesehn.
+Ich schwebte fern und kühl durch Heimkehr und Gewühl,
+Sah Kinder rennen und sah Bettler stehn.
+Ein Buckliger hielt sich den Bauch, und eine Greisin schwang den Stock und                     schrie.
+Leicht eine Dame lächelte. Ein Mädchen küßte sich die Hand ...
+Und ich verstand, was sie verband, und schritt durch ihre Alchimie."	l00300161	JOY#LOVE
+592	Unsterblichkeit Prutz, Robert	"Zerfallen wirst du und verwehn —
+Vielleicht schon heute kann's geschehn,
+Vielleicht, noch heute frisch und roth,
+Knickt dich am Morgen schon der Tod."	0.0	0.0	0.0	0.0	0.0	0.0	"Schon neigte sich der grüne Tag,
+Schon wurde stumm der Vöglein Schlag,
+Das Flüstern wurde stumm im Hain
+Und selbst die Blumen schliefen ein. Kein Athem rings auf keinem Mund!
+Es ruht der Schöpfung weites Rund,
+Als wie ein Kind an Mutterbrust,
+So sanft, so still, so unbewußt. Die Sterne nur mit ew'gem Gang
+Gehn schweigend durch die Nacht entlang,
+Mer Mond, ein treuer Wächtersmann,
+Führt ihren Reigen leuchtend an. Das Alles war so, wird so sein
+Viel tausend Jahre hinterdrein;
+Nach vielen tausend Jahren wird
+Der Mond noch sein der treue Hirt. Nur du allein, o Menschenbrust,
+O du, in der der Erde Lust,
+Der Erde Weh zusammenschäumt,
+O du, die selbst ein Gott sich träumt: Zerfallen wirst du und verwehn —
+Vielleicht schon heute kann's geschehn,
+Vielleicht, noch heute frisch und roth,
+Knickt dich am Morgen schon der Tod."	l0020128	NONE
+7092	Apoll von Belvedere Duboc, Charles Edouard [Pseud. Waldmüller, Robert]	"Mög' uns dein Bild die schöne Lehre geben,
+Daß selbst der Zorn, wenn er ins Herz uns schlug,
+Uns so veredeln sollte und erheben."	0.0	1.0	0.0	0.0	0.0	0.0	"Apoll von Belvedere
+Duboc, Charles Edouard [Pseud. Waldmüller, Robert] Sie haben lange hin und her gedacht,
+Wem nur dein sichrer Pfeil den Garaus mache —
+War's im Gewühl der mörderischen Schlacht,
+Da du dich hieltest zu der Troer Sache? Nahmst du, durch Hectors Fall in Zorn gebracht,
+An Thetis' tapferm Sohn, Achilleus, Rache?
+Verscheuchtest du die Furien der Nacht,
+Du Freund des Lichts, von deinem goldnen Dache? Wer könnt' es sagen? — Nur des Mundes Zug
+Ist klar verständlich, — deine Lippen beben,
+Du bist im Zorn noch Gott — das sei genug! Mög' uns dein Bild die schöne Lehre geben,
+Daß selbst der Zorn, wenn er ins Herz uns schlug,
+Uns so veredeln sollte und erheben."	l0080601	ANGER
+7904	Weh um Weh Rogge, Friedrich Wilhelm	"„Wie mich rührt dein Gesang,
+O du Trauter du,
+Wenn in Klagen so bang
+Du mir redest zu!
+Ach, ich selber, ich bin
+Ein Gefangner, wie du!
+O verbann's aus dem Sinn
+Und o laß mich in Ruh!
+Laß singend uns Beide bezwingen das Leid,
+Es kommt ja der Tag, der uns Beide befreit!“"	1.0	0.0	0.0	1.0	0.0	1.0	"Weh um Weh
+Rogge, Friedrich Wilhelm O hinaus, o hinaus
+In Gebüsch und Wald,
+Mir zu bauen mein Haus,
+O entlaß mich bald!
+Nun die Brüder zurück
+Aus dem Süden gekehrt
+Und nach Lieb' und nach Glück
+Mich das Sehnen verzehrt!
+Zur Freiheit beschwinge dem Sänger den Flug,
+Dir bleiben noch immer der Freuden genug!
+Tio, tio, tototo, tiotinx! „Wie mich rührt dein Gesang,
+O du Trauter du,
+Wenn in Klagen so bang
+Du mir redest zu!
+Ach, ich selber, ich bin
+Ein Gefangner, wie du!
+O verbann's aus dem Sinn
+Und o laß mich in Ruh!
+Laß singend uns Beide bezwingen das Leid,
+Es kommt ja der Tag, der uns Beide befreit!“"	l00200119	AGITATION#JOY#SADNESS
+4158	Noch diesen Kuß Spielhagen, Friedrich	"Noch diesen Kuß
+Spielhagen, Friedrich"	0.0	0.0	0.0	0.0	0.0	0.0	"Noch diesen Kuß
+Spielhagen, Friedrich"	l00200286	NONE
+2929	Weißt du noch? Prutz, Robert	"Weißt du noch wie deine Wange röther sich, o Liebste, malte,
+Da zuerst ins fromme Auge Blitze dir das meine strahlte?
+Wie du rasch dich seitwärts kehrtest, zürnend halb und halb erschrocken,
+Da der Athem meines Mundes streifte deine süßen Locken?"	0.0	1.0	1.0	0.0	1.0	1.0	"Weißt du noch?
+Prutz, Robert Weißt du noch wie deine Wange röther sich, o Liebste, malte,
+Da zuerst ins fromme Auge Blitze dir das meine strahlte?
+Wie du rasch dich seitwärts kehrtest, zürnend halb und halb erschrocken,
+Da der Athem meines Mundes streifte deine süßen Locken?"	l0080399	ANGER#FEAR#LOVE#SADNESS
+101	Ich glaube an Alles noch nie Gesagte Rilke, Rainer Maria [alt. Rilke, Rainer-Maria]	"Ist das vermessen, mein Gott, vergieb.
+Aber ich will dir damit nur sagen:
+Meine beste Kraft soll sein wie ein Trieb,
+so ohne Zürnen und ohne Zagen;
+so haben dich ja die Kinder lieb."	0.0	1.0	1.0	0.0	1.0	0.0	"Ich glaube an Alles noch nie Gesagte
+Rilke, Rainer Maria [alt. Rilke, Rainer-Maria] Ich glaube an Alles noch nie Gesagte.
+Ich will meine frömmsten Gefühle befrein.
+Was noch keiner zu wollen wagte,
+wird mir einmal unwillkürlich sein. Ist das vermessen, mein Gott, vergieb.
+Aber ich will dir damit nur sagen:
+Meine beste Kraft soll sein wie ein Trieb,
+so ohne Zürnen und ohne Zagen;
+so haben dich ja die Kinder lieb."	l00180128	ANGER#FEAR#LOVE
+108	Heimat Skorra, Thekla l00140049	"Ein aufgescheuchtes Heer von fremden Vögeln,
+Die jeder Gassenbube frech verjagt:
+Die Heimatlosen wir vom Stamm der Juden
+An fremden Tischen, die zum Spott uns luden."	0.0	1.0	0.0	0.0	0.0	1.0	"Heimat
+Skorra, Thekla Rück naher, Lieber, laß uns niedersitzen,
+Von deiner Heimat sollst du mir erzählen,
+Indes ich innig fasse deine Hand,
+Vom Dörfchen sprich mir, fern im Frankenland. Wo fröhlich dir am Baum in junger Sonne
+Des Heimaterdreichs deine Kraft erblüht.
+Ach, wurzellos, vor jedem Wind getrieben,
+Wuchs in der Brust mein heimatloses Lieben. Sieh, zwischen uns steht tausendjähr'ges Weinen,
+Verlorner Jammer des gehaßten Volks;
+Und wo du zugreifst und das Glück umfaßt:
+Muß ich erst umschaun auf die Leidenslast. Ein aufgescheuchtes Heer von fremden Vögeln,
+Die jeder Gassenbube frech verjagt:
+Die Heimatlosen wir vom Stamm der Juden
+An fremden Tischen, die zum Spott uns luden."	l00140049	ANGER#SADNESS
+5402	Nixenkönigs Trost Oswalt, Kurt	"Nur Bolla blieb zurück am Strand,
+Zum Trost für die verlassnen Kleinen;
+Sie legte betend Hand in Hand,
+Und mußte selbst herzinnig weinen."	0.0	0.0	1.0	1.0	0.0	1.0	"Sie tummeln froh auf grünem Plan,
+Feldblumen winden sie zum Kranze,
+Und lassen sich gar herzig an
+Und reihen sich zum Ringeltanze. Da sieh — der Nixenkönig hold
+Beginnet aus der Flut zu steigen,
+Er rührt der Harfe Zaubergold
+Frohlockend zu der Kinder Reigen. Keck trat der Knabe Nils herzu,
+Und rief mit spöttischen Geberden:
+„Geh', alter Nix! Was willst denn du?
+Du kannst ja nimmer selig werden!“ Da füllt' ein Weheruf die Luft,
+Die Saiten hört man springend gällen;
+Wie eine Leiche in die Gruft,
+So sank der Nix in dunkle Wellen. Die Nixenkinder hielten sich
+In unbewußter Furcht umschlungen,
+Und weinten laut und bitterlich;
+Die andern sind voll Angst entsprungen. Nur Bolla blieb zurück am Strand,
+Zum Trost für die verlassnen Kleinen;
+Sie legte betend Hand in Hand,
+Und mußte selbst herzinnig weinen."	l0020120	FEAR#JOY#SADNESS
+3804	So sei mit Gott gegrüßet Roquette, Otto l0080440	"So sei mit Gott gegrüßet
+Viel hunderttausend mal!
+Der Frühling weht und sprießet,
+Und ruft mit Klang und Schall.
+Das läßt mich nicht im engen Haus,
+Nun fahr' ich in die Welt hinaus.
+Das Thränlein, das da fließet,
+Schwellt nicht der Ströme Zahl!"	0.0	0.0	0.0	0.0	0.0	1.0	"So sei mit Gott gegrüßet
+Roquette, Otto So sei mit Gott gegrüßet
+Viel hunderttausend mal!
+Der Frühling weht und sprießet,
+Und ruft mit Klang und Schall.
+Das läßt mich nicht im engen Haus,
+Nun fahr' ich in die Welt hinaus.
+Das Thränlein, das da fließet,
+Schwellt nicht der Ströme Zahl!"	l0080440	SADNESS
+3091	DER TODESENGEL JAKOB VAN HODDIS l00300074	"Posaunenschall und dunkler Donner lachen.
+Ein Schleier überflog das Morgenrot.
+Als sie mit ihrer zärtlichen und schwachen
+Bewegung ihm den Mund zum Küssen bot."	0.0	0.0	0.0	1.0	1.0	0.0	"Die Augen weit, vor Mitleid glühend offen
+Wie trostlos starrend hin zu neuer Lust,
+Ein grauenvolles, nie versiegtes Hoffen,
+Ein Traum von Tagen, die er nie gewußt.
+Er kommt aus einer Höhle, wo ein Knabe
+Ihn als Geliebte wunderzart umfing.
+Er flog durch seinen Traum als Schmetterling
+Und ließ ihn Meere sehn als Morgengabe. Und Lüfte Indiens, wo an Fiebertagen
+Das greise Meer in gelbe Buchten rennt.
+Die Tempel, wo die Priester Cymbeln schlagen,
+Um Öfen tanzend, wo ein Mädchen brennt. Sie schluchzt nur leise, denn der Schar Gesinge
+Zeigt ihr den Götzen, der auf Wolken thront
+Und Totenschädel trägt als Schenkelringe,
+Der Flammenqual mit schwarzen Küssen lohnt. Betrunkne tanzen nackend zwischen Degen,
+Und einer stößt sich in die Brust und fällt.
+Und während blutig sich die Schenkel regen,
+Versinkt dem Knaben Tempel, Traum und Welt.
+Dann flog er hin zu einem alten Manne
+Und kam ans Bett als grüner Papagei.
+Und krächzt das Lied: «O schmähliche Susanne!»
+Die längst vergeßne Jugendlitanei. Der stiert ihn an. Aus Augen glasig blöde
+Blitzt noch ein Strahl. Ein letztes böses Lächeln
+Zuckt um das zahnlose Maul. Des Zimmers Öde
+Erschüttert jäh ein lautes Todesröcheln.
+Die Braut friert leise unterm leichten Kleide.
+Der Engel schweigt. Die Lüfte ziehn wie krank.
+Er stürzt auf seine Knie. Nun zittern beide.
+Vom Strahl der Liebe, der aus Himmeln drang. Posaunenschall und dunkler Donner lachen.
+Ein Schleier überflog das Morgenrot.
+Als sie mit ihrer zärtlichen und schwachen
+Bewegung ihm den Mund zum Küssen bot."	l00300074	JOY#LOVE
+7746	Was geht das fremde Lied mich an Ritter, Anna l0040523	"Ich weiß nicht, was mir gar so bang
+heut in die Kammer schallte —
+ein Vöglein sang vor Tau und Tag.
+vor Tau und Tag im Walde."	0.0	0.0	1.0	0.0	0.0	0.0	"Was geht das fremde Lied mich an
+Ritter, Anna Ich weiß nicht, was mir gar so bang
+heut in die Kammer schallte —
+ein Vöglein sang vor Tau und Tag.
+vor Tau und Tag im Walde."	l0040523	FEAR
+737	I. O sage nicht, wie tief auch deine Wunden Cerri, Cajetan	"I. O sage nicht, wie tief auch deine Wunden
+Cerri, Cajetan"	0.0	0.0	0.0	0.0	0.0	0.0	"I. O sage nicht, wie tief auch deine Wunden
+Cerri, Cajetan"	l0080081	NONE
+3746	Ist’s genug? Henckell, Karl l00100027	"Freundschaft, Glück und Liebe lassen,
+Einsam wandeln öde Bahn,
+Seiner Brüder stumpfe Massen
+Wecken aus dem starren Wahn;
+Von den Eltern scheu gemieden,
+Der noch keinen Bruder schlug...
+„Ihn dem Mörder anzuschmieden,
+Ist’s genug?“ der Richter frug."	0.0	1.0	0.0	1.0	0.0	0.0	"Ist’s genug?
+Henckell, Karl Ungebeugter Stolz der Haltung,
+Einfachheit in Wort und Kleid,
+Keine Phrasenpompentfaltung
+Falscher Leidenschaftlichkeit;
+Kraft des Wissens in den Blicken,
+Ruhig redend, klaglos, klug...
+„In die Gruben ihn zu schicken,
+Ist’s genug?“ der Richter frug. Durch die Welt des Elends schreiten,
+Schreiten durch der Knechte Nacht,
+Wort der Wahrheit zu verbreiten
+Wider Macht der Niedertracht;
+Licht durch die Baracken werfen,
+In der Hand der Freiheit Buch...
+„Ihn mit Ketten zu verschärfen,
+Ist’s genug?“ der Richter frug. Freundschaft, Glück und Liebe lassen,
+Einsam wandeln öde Bahn,
+Seiner Brüder stumpfe Massen
+Wecken aus dem starren Wahn;
+Von den Eltern scheu gemieden,
+Der noch keinen Bruder schlug...
+„Ihn dem Mörder anzuschmieden,
+Ist’s genug?“ der Richter frug."	l00100027	ANGER#JOY
+2690	Das Dachstübchen eines deutschen Gelehrten Creizenach, Theodor l0080099	"Was er so treu verkündet, von Blöden streng verdammt,
+Hat überall gezündet, hat Tausende durchflammt.
+So brachte dieser Schwache von seinem engen Haus,
+Von seinem mürben Dache das Losungswort des Kampfes aus!"	0.0	1.0	0.0	1.0	0.0	0.0	"Der Strahl vom warmen Tage, der durch die Scheiben schlüpft;
+Die Taube, die am Schlage vertraulich kosend hüpft;
+Der Zweig, der seine Kränze ums schmale Fenster flocht
+Und wie ein Gruß vom Lenze an diese dumpfe Klause pocht. Dort sitzt der Mann der Lehre im schlichten Hausgewand,
+Und stützt das Haupt, das schwere, wohl sinnend mit der Hand,
+Und wägt an stillem Orte, zu edlem Thun bereit,
+Gedankenvolle Worte, die tönen sollen weit und breit. Was andre Weisen sagen, er prüft's mit frommer Scheu;
+Vor ihm sind aufgeschlagen viel Blätter, alt und neu.
+Wohl ward in dieser Öde, von enger Wand umkreist,
+Sein Auge trüb' und blöde; doch blitzt hervor der freie Geist. Nicht weiß er sich zu fächeln mit fremden Glückes Hauch;
+Nicht weiß er schlau zu lächeln nach dieser Zeiten Brauch.
+Es ward dem Vielverlachten ein eignes Loos zu Theil:
+Er gräbt das Gold aus Schachten, und giebt es nicht am Markte feil. Noch pflegt er mit Beschwerde des Wissens edles Korn:
+Was steigt er nicht zur Erde in heldenhaftem Zorn?
+Er trägt zu hohem Handeln doch größ're Kraft und Lust,
+Als die in Sälen wandeln mit goldgeschmückter, leerer Brust. Was er so treu verkündet, von Blöden streng verdammt,
+Hat überall gezündet, hat Tausende durchflammt.
+So brachte dieser Schwache von seinem engen Haus,
+Von seinem mürben Dache das Losungswort des Kampfes aus!"	l0080099	ANGER#JOY
+527	Abschied Hart, Julius l0010295	"Die Sonne steigt, die Sonne glüht...
+Still, armes Herz, die Glocke schlägt,
+Der Wagen rollt, der Wagen rollt,
+Der dich auf ewig von mir trägt."	0.0	0.0	0.0	0.0	0.0	1.0	"Abschied
+Hart, Julius Die Sonne steigt, die Sonne glüht...
+Still, armes Herz, die Glocke schlägt,
+Der Wagen rollt, der Wagen rollt,
+Der dich auf ewig von mir trägt."	l0010295	SADNESS
